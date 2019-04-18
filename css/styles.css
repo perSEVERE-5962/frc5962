@@ -23,7 +23,7 @@ nav {
     position: fixed;
 }
 
-.logo {
+nav .logo {
     display: block;
     width: 10rem;
 }
@@ -131,6 +131,10 @@ h2 {
     padding-left: 1rem;
 }
 
+.third {
+    width: 33.3%;
+}
+
 p {
     font-size: 1.25rem;
     line-height: 150%;
@@ -139,4 +143,34 @@ p {
 
 img {
     max-width: 100%;
+}
+
+footer {
+    background: #423f33;
+    padding-top: 2.5rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    color: #eeede9;
+}
+
+footer .logo {
+    width: 7.5rem;
+    display: block;
+    margin: auto;
+}
+
+h4 {
+    color: #f9f9f8;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+footer a {
+    color: #f9f9f8;
+}
+
+footer p {
+    font-size: 1rem;
+    line-height: 125%;
+    color: #eeede9;
 }
