@@ -12,7 +12,7 @@
     </head>
 
     <body>
-        <nav class="container">
+        <nav id="global-nav" class="container">
             <a href="/" class="logo">
                 <img src="media/logo.svg" alt="Team 5962 Logo">
             </a>
@@ -42,8 +42,8 @@
             <article class="flexbox">
                <div class="half">
                     <h2>Nice to meet you</h2>
-                    <p>This is just placeholder text! We're a high school robotics team based in Lowell, Massachusetts, that does much more than just robotics. We welcome members from all across the Merrimack Valley and compete in the <i>FIRST</i> Robotics Competition every year with teams across New England and internationally.</p>
-                    <a href="about" class="button">Learn More</a>
+                    <p>We're Team 5962, also known as perSEVERE, a <a href=""><i>FIRST</i> Robotics Competition (FRC)</a> team from Lowell, Massachusetts.</p>
+                    <a href="about" class="button button-small">Learn More</a>
                </div>
                <div class="half">
                    <img src="media/unh.jpg" alt="Group photo of Team 5962 at UNH District Event 2019">
@@ -57,7 +57,7 @@
                 <div class="half">
                     <h2>FIRST in our community</h2>
                     <p>Placeholder text: We're a student-led team that gives everyone opportunities to learn mechanical, electrical, and software engineering, as well as business, communication, and teamwork skills. We believe that <i>FIRST</i> is a life-changing experience that everyone should be able to have, so we spread STEM (science, technology, engineering, and math) within our community through events and outreach initiatives.</p>
-                    <a href="outreach" class="button">Outreach</a>
+                    <a href="outreach" class="button button-small">Outreach</a>
                 </div>
             </article>
             
@@ -93,5 +93,19 @@
                 <p>Learn more about <a href="sponsor">sponsoring</a> FRC Team 5962</p>    
             </div>
         </footer>
+        
+        <script>
+        function resizeNavOnScroll() {
+            const distanceY = window.pageYOffset || document.documentElement.scrollTop,
+                  shrinkOn = 200,
+                  navEl = document.getElementById('global-nav');
+            if (distanceY > shrinkOn) {
+                navEl.classList.add('smaller');
+            } else {
+                navEl.classList.remove('smaller');
+            }
+        }
+        window.addEventListener('scroll', resizeNavOnScroll);
+        </script>
     </body>
 </html>
