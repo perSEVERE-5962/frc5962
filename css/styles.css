@@ -194,6 +194,12 @@ footer a {
     color: #f9f9f8;
 }
 
+.social-icon img {
+    width: 40px;
+    display: inline-block;
+    margin: 0 5px;
+}
+
 footer p {
     font-size: 1rem;
     line-height: 125%;
