@@ -13,8 +13,8 @@
 
     <body>
         <nav id="global-nav" class="container">
-            <a href="/" class="logo">
-                <img src="media/logo.svg" alt="Team 5962 Logo">
+            <a id="nav-logo-a" href="/">
+                <img id="nav-logo" src="media/logo.svg" alt="Team 5962 Logo">
             </a>
 
             <ul>
@@ -35,7 +35,7 @@
                 <h1>
                     We <b>weave</b>
                     <b class="typewrite" data-period="250" data-type='[ "engineering", "FIRST", "inspiration", "robotics" ]'><span class="wrap"></span></b>
-                    <br>into our community
+                    <span class="second-line">into our community</span>
                 </h1>
                 <a href="about" class="button">Meet the Team</a>
                 <a href="sponsors" class="button button-primary">Donate</a>
@@ -61,14 +61,10 @@
                 <div class="half">
                     <h2>FIRST in our community</h2>
                     <p>Placeholder text: We're a student-led team that gives everyone opportunities to learn mechanical, electrical, and software engineering, as well as business, communication, and teamwork skills. We believe that <i>FIRST</i> is a life-changing experience that everyone should be able to have, so we spread STEM (science, technology, engineering, and math) within our community through events and outreach initiatives.</p>
-                    <a href="outreach" class="button button-small">Outreach</a>
+                    <a href="outreach" class="button">Outreach</a>
                 </div>
             </article>
             
-            <article>
-                <h2></h2>
-                <p></p>
-            </article>
         </section>
         
         <footer class="container flexbox">
@@ -110,12 +106,12 @@
         // Shrink nav on scroll
         function resizeNavOnScroll() {
             const distanceY = window.pageYOffset || document.documentElement.scrollTop,
-                  shrinkOn = 200,
+                  shrinkOn = 100,
                   navEl = document.getElementById('global-nav');
             if (distanceY > shrinkOn) {
-                navEl.classList.add('smaller');
+                navEl.classList.add('nav-scroll');
             } else {
-                navEl.classList.remove('smaller');
+                navEl.classList.remove('nav-scroll');
             }
         }
         window.addEventListener('scroll', resizeNavOnScroll);
