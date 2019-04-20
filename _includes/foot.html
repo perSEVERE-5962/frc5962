@@ -1,0 +1,51 @@
+        <footer class="container flexbox">
+            <div class="third">
+                <h4>Get In Touch</h4>
+                
+                <a href="https://www.instagram.com/frc5962/" class="social-icon"><img src="icons/ig.svg" alt="Instagram: @frc5962"></a>
+                
+                <a class="social-icon" href="https://www.facebook.com/FRCTeam5962/"><img src="icons/fb.svg" alt="Facebook: @FRCTeam5962"></a>
+                
+                <a class="social-icon" href="https://twitter.com/FRCTeam5962"><img src="icons/twitter.svg" alt="Twitter: @FRCTeam5962"></a>
+                
+                <p><a href="mailto:frcteam5962@gmail.com">frcteam5962@gmail.com</a></p>
+                
+                <p>Learn more about <a href="sponsor">sponsoring</a> FRC Team 5962!</p>
+            </div> 
+           
+            <div class="third">
+                <h4>FRC Team 5962 perSEVERE</h4>
+                <a href="" class="logo">
+                    <img src="media/logo.svg" alt="Team 5962 Logo">
+                </a>
+                <p>Lowell, Massachusetts & all of the Merrimack Valley</p>
+            </div>
+              
+            <div class="third">
+                <h4>Merrimack Valley Robotics (MVR)</h4>
+                
+                <p>Merrimack Valley Robotics, our parent organization, is a 501(c)(3) public charity that also supports 30+ <i>FIRST</i> LEGO League Jr. teams and several <i>FIRST</i> LEGO League teams for K-4 and middle school students, respectively.</p>
+                
+                <p>EIN for tax-deductible contributions: 81-1350099</p>    
+            </div>
+        </footer>
+        
+        <script>
+        // Typewriter
+        var TxtType=function(t,e,i){this.toRotate=e,this.el=t,this.loopNum=0,this.period=parseInt(i,10)||2e3,this.txt="",this.tick(),this.isDeleting=!1};TxtType.prototype.tick=function(){var t=this.loopNum%this.toRotate.length,e=this.toRotate[t];this.isDeleting?this.txt=e.substring(0,this.txt.length-1):this.txt=e.substring(0,this.txt.length+1),this.el.innerHTML='<span class="wrap">'+this.txt+"</span>";var i=this,s=200-100*Math.random();this.isDeleting&&(s/=2),this.isDeleting||this.txt!==e?this.isDeleting&&""===this.txt&&(this.isDeleting=!1,this.loopNum++,s=500):(s=this.period,this.isDeleting=!0),setTimeout(function(){i.tick()},s)},window.onload=function(){for(var t=document.getElementsByClassName("typewrite"),e=0;e<t.length;e++){var i=t[e].getAttribute("data-type"),s=t[e].getAttribute("data-period");i&&new TxtType(t[e],JSON.parse(i),s)}var n=document.createElement("style");n.type="text/css",n.innerHTML=".typewrite > .wrap { border-right: 0.08em solid #423f33}",document.body.appendChild(n)};
+
+        // Shrink nav on scroll
+        function resizeNavOnScroll() {
+            const distanceY = window.pageYOffset || document.documentElement.scrollTop,
+                  shrinkOn = 100,
+                  navEl = document.getElementById('global-nav');
+            if (distanceY > shrinkOn) {
+                navEl.classList.add('nav-scroll');
+            } else {
+                navEl.classList.remove('nav-scroll');
+            }
+        }
+        window.addEventListener('scroll', resizeNavOnScroll);
+        </script>
+    </body>
+</html>
