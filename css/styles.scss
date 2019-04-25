@@ -26,29 +26,16 @@ $btn-primary-gradient2: #caa200;
 
 
 /* NAVIGATION */
-
 nav {
-    width: 100%;
-    padding-top: .5rem;
-    padding-bottom: 0.4rem;
-    position: fixed;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-
-#nav-logo {
-    height: 8rem;
-}
-
-nav ul {
-    display: grid;
-    grid-auto-flow: column; 
-    grid-column-gap: 1.5rem;
+    height: 0;
 }
 
 nav li {
     list-style: none;
+}
+
+#nav-logo {
+    height: 5rem;
 }
 
 .nav-link {
@@ -57,20 +44,10 @@ nav li {
     font-size: 1.4rem;
     line-height: 100%;
     color: $dark-gray;
-    display: inline-block;
-    margin-top: 1rem;
 }
 
 .nav-link:hover, .nav-link:active {
     color: $off-black;
-}
-
-.nav-scroll {
-    background: $off-white;
-}
-
-.nav-scroll #nav-logo {
-    height: 3.5rem;
 }
 
 nav, .nav-link, .button, #nav-logo {
@@ -148,6 +125,7 @@ section {
 .grid {
     display: grid;
     grid-auto-flow: row;
+    grid-row-gap: 3rem;
 }
 
 article img {
@@ -226,16 +204,117 @@ h5 {
 
 
 
-/* MEDIA QUERIES (FOR SCREENS LARGER THAN PHONE) */
+/* MEDIA QUERIES */
+
+@media (max-width: 80rem) {
+    #menuToggle {
+        display: block;
+        position: relative;
+        top: 2rem;
+        left: 2rem;
+        z-index: 1;
+        -webkit-user-select: none;
+        user-select: none;
+    }
+    
+    #menuToggle input {
+        display: block;
+        width: 40px;
+        height: 32px;
+        position: absolute;
+        top: -7px;
+        left: -5px;
+        cursor: pointer;
+        opacity: 0; /* hide this */
+        z-index: 2; /* and place it over the hamburger */
+        -webkit-touch-callout: none;
+    }
+    
+    #menuToggle span {
+        display: block;
+        width: 33px;
+        height: 4px;
+        margin-bottom: 5px;
+        position: relative;
+        background: $off-black;
+        border-radius: 3px;
+        z-index: 1;
+        transform-origin: 4px 0;
+        transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+                    background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+                    opacity 0.55s ease;
+    }
+    
+    #menuToggle span:first-child {
+        transform-origin: 0% 0%;
+    }
+    
+    #menuToggle span:nth-last-child(2) {
+        transform-origin: 0% 100%;
+    }
+    
+    /* 
+     * Transform all the slices of hamburger
+     * into a crossmark.
+     */
+    #menuToggle input:checked ~ span {
+        opacity: 1;
+        transform: rotate(45deg) translate(-2px, -1px);
+    }
+    
+    /*
+     * But let's hide the middle one.
+     */
+    #menuToggle input:checked ~ span:nth-last-child(3) {
+        opacity: 0;
+        transform: rotate(0deg) scale(0.2, 0.2);
+    }
+    
+    /*
+     * Ohyeah and the last one should go the other direction
+     */
+    #menuToggle input:checked ~ span:nth-last-child(2) {
+        transform: rotate(-45deg) translate(0, -1px);
+    }
+    
+    /*
+     * Make this absolute positioned
+     * at the top left of the screen
+     */
+    #menu
+    {
+        position: absolute;
+        width: 100%;
+        margin: -100px 0 0 -2rem;
+        padding: 8rem 1.5rem 2rem;
+    
+        background: #ededed;
+        -webkit-font-smoothing: antialiased;
+        /* to stop flickering of text in safari */
+    
+        transform-origin: 0% 0%;
+        transform: translate(-100%, 0);
+    
+        transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+    }
+    
+    .nav-link {
+        padding: .75rem 0;
+        display: block;
+    }
+    
+    /*
+     * And let's slide it in from the left
+     */
+    #menuToggle input:checked ~ ul {
+      transform: none;
+    }
+}
 
 @media (min-width: 45rem) {
     .container, .container-thin {
         padding-left: 10%;
         padding-right: 10%;
-    }
-
-    #nav-logo {
-        width: 10rem;
     }
     
     h1 {
@@ -258,8 +337,47 @@ h5 {
 }
 
 @media (min-width: 80rem) {
+    #menuToggle input, #menuToggle span {
+        display: none;
+    }
+
     .container-thin {
         padding-left: 17.5%;
         padding-right: 17.5%;
+    }
+
+    nav {
+        width: 100%;
+        height: auto;
+        padding: .5rem 10%;
+        position: fixed;
+    }
+
+    #menu {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    #nav-logo {
+        height: 8rem;
+    }
+    
+    nav ul {
+        display: grid;
+        grid-auto-flow: column; 
+        grid-column-gap: 1.5rem;
+    }
+    
+    .nav-link {
+        display: inline-block;
+        margin-top: 1rem;
+    }
+    
+    .nav-scroll {
+        background: $off-white;
+    }
+    
+    .nav-scroll #nav-logo {
+        height: 3.5rem;
     }
 }
