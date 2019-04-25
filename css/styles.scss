@@ -1,13 +1,23 @@
 ---
 ---
+$font-stack: Lato, system-ui, sans-serif;
+$light-gray: #c8c2bd;
+$dark-gray: #504d3e;
+$off-white: #f9f9f8;
+$off-black: #110009;
+$btn-gradient1: #a49f8b;
+$btn-gradient2: #7c734e;
+$btn-primary-gradient1: #fc0;
+$btn-primary-gradient2: #caa200;
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Roboto;
+    font-family: $font-stack;
 }
 
-.container, .thin-container {
+.container, .container-thin {
     padding-left: 5%;
     padding-right: 5%;
 }
@@ -19,54 +29,52 @@
 
 nav {
     width: 100%;
-    display: grid;
-    grid-template-columns: 4.5rem 1fr;
+    padding-top: .5rem;
+    padding-bottom: 0.4rem;
     position: fixed;
-    transition: .15s;
-    padding-top: 1rem;
-    padding-bottom: .5rem;
-    z-index: 100;
-}
-
-#nav-logo-a {
-    padding-right: 1rem;
-    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 #nav-logo {
-    width: 100%;
+    height: 8rem;
 }
 
-nav, #nav-logo, .nav-link, .button, #nav-logo-a, #nav-logo {
-    transition: .15s;
+nav ul {
+    display: grid;
+    grid-auto-flow: column; 
+    grid-column-gap: 1.5rem;
 }
 
 nav li {
     list-style: none;
-    display: inline-block;
-    margin: .15rem .25rem .3rem;
-}
-
-nav ul {
-    text-align: right;
 }
 
 .nav-link {
     text-decoration: none;
-    font: 700 1.5rem/100% Roboto Condensed;
     text-transform: uppercase;
-}
-
-.nav-link, h1, h2 {
-    color: #423f33;
+    font-size: 1.4rem;
+    line-height: 100%;
+    color: $dark-gray;
+    display: inline-block;
+    margin-top: 1rem;
 }
 
 .nav-link:hover, .nav-link:active {
-    color: #deb200;
+    color: $off-black;
 }
 
 .nav-scroll {
-    background: #fff;
+    background: $off-white;
+}
+
+.nav-scroll #nav-logo {
+    height: 3.5rem;
+}
+
+nav, .nav-link, .button, #nav-logo {
+    transition: .15s;
 }
 
 
@@ -87,35 +95,35 @@ header {
 }
 
 header .container {
-    padding-top: 11rem;
+    padding-top: 12.5rem;
     width: 100%;
     height: 100%;
-    background: rgba(255,250,235,.85);
+    background: rgba(240,230,210,.8);
     text-align: center;
 }
 
 h1 {
-    font: 400 3rem/100% Roboto;
+    font-weight: 400;
+    font-size: 3rem;
+    line-height: 100%;
     margin-bottom: 1.5rem;
-}
-
-.typewrite {
-    display: block;
 }
 
 .button {
     text-decoration: none;
-    font: 700 1.3rem/100% Roboto Condensed;
+    font-weight: 700;
+    font-size: 1.3rem;
+    line-height: 100%;
     text-transform: uppercase;
     color: #f9f9f8;
-    background: linear-gradient(45deg, #a49f8b, #7c734e);
+    background: linear-gradient(45deg, $btn-gradient1, $btn-gradient2);
     padding: .65em .85em;
     border-radius: 2em;
     display: inline-block;
 }
 
 .button-primary {
-     background: linear-gradient(45deg, #fc0, #caa200);
+     background: linear-gradient(45deg, $btn-primary-gradient1, $btn-primary-gradient2);
 }
 
 .button:first-of-type {
@@ -132,43 +140,40 @@ h1 {
 /* MAIN SECTIONS */
 
 section {
-    background: #f9f9f8;
-    padding-top: 2.5rem;
-    padding-bottom: 2.5rem;
+    background: $off-white;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 
-article {
-    padding-bottom: 2.5rem;
+.grid {
+    display: grid;
+    grid-auto-flow: row;
 }
 
-article:last-of-type {
-    padding-bottom: 0;
-}
-
-.half, .third {
-    margin-bottom: 1rem;
-    width: 100%;
+article img {
+    border-radius: 2rem;
+    max-width: 100%;
 }
 
 h2 {
-    font: 700 1.85rem/125% Roboto;
+    font-size: 1.85rem;
+    line-height: 125%;
     margin-bottom: 1rem;
 }
 
-.flexbox {
-    display: flex;
-    flex-wrap: wrap;
-}
-
 p {
-    font-size: 1rem;
-    line-height: 145%;
+    font-size: 1.1rem;
+    line-height: 150%;
     margin: 1rem 0;
-    color: #706c58;
+    color: $dark-gray;
 }
 
-img {
-    max-width: 100%;
+article {
+    margin-bottom: 3rem;
+}
+
+article:last-of-type {
+    margin-bottom: 0;
 }
 
 
@@ -178,11 +183,11 @@ img {
 /* FOOTER */
 
 footer {
-    background: #423f33;
+    background: $dark-gray;
     padding-top: 2.5rem;
     padding-bottom: 1rem;
     text-align: center;
-    color: #eeede9;
+    color: $off-white;
 }
 
 footer .logo {
@@ -192,13 +197,13 @@ footer .logo {
 }
 
 h4 {
-    color: #f9f9f8;
+    color: $off-white;
     font-size: 1.5rem;
     margin-bottom: 1rem;
 }
 
 footer a {
-    color: #f9f9f8;
+    color: $off-white;
 }
 
 .social-icon img {
@@ -211,7 +216,7 @@ footer p {
     font-size: .9rem;
     margin: .5rem 0;
     line-height: 125%;
-    color: #eeede9;
+    color: $off-white;
 }
 
 h5 {
@@ -224,9 +229,13 @@ h5 {
 /* MEDIA QUERIES (FOR SCREENS LARGER THAN PHONE) */
 
 @media (min-width: 45rem) {
-    .container, .thin-container {
+    .container, .container-thin {
         padding-left: 10%;
         padding-right: 10%;
+    }
+
+    #nav-logo {
+        width: 10rem;
     }
     
     h1 {
@@ -236,53 +245,21 @@ h5 {
     header .button {
         font-size: 1.6rem;
     }
-    
-    nav {
-        grid-template-columns: 7.5rem 1fr;
-    }
-    
-    .nav-scroll {
-        padding-top: .5rem;
-        padding-bottom: .15rem;
-    }
-    
-    .nav-scroll #nav-logo {
-        width: 3rem;
-    }
-    
-    .nav-scroll ul {
-        padding-top: .75rem;
-    }
-    
-    .half {
-        width: 50%;
+
+    .two-columns {
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 2rem;
     }
 
-    .half:first-of-type {
-        padding-right: 1rem;
-    }
-
-    .half:last-of-type {
-        padding-left: 1rem;
+    .three-columns {
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-column-gap: 1rem;
     }
 }
 
 @media (min-width: 80rem) {
-    nav {
-        grid-template-columns: 10rem 1fr;
-    }
-    
-    .nav-link {
-        margin-left: .75rem;
-    }
-    
-    .thin-container {
+    .container-thin {
         padding-left: 17.5%;
         padding-right: 17.5%;
-    }
-    
-    .third {
-        width: 33.3%;
-        padding: 0 .5rem;
     }
 }

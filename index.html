@@ -1,35 +1,53 @@
 ---
 title: Home
-layout: homepage
 hero-background: <video muted playsinline autoplay loop src="/media/hero.mp4"></video>
 hero-content: |
     <h1>
         We <b>weave</b>
-        <b class="typewrite" data-period="250" data-type='[ "engineering", "FIRST", "inspiration", "robotics" ]'><span class="wrap"></span></b>
-        into our community
+        <i><b class="typewrite" data-period="2000" data-type='[ "engineering", "FIRST", "inspiration", "robotics" ]'><span class="wrap"></span></b></i>
+        <span style="display: block">into our community</span>
     </h1>
     <a href="about" class="button">Meet the Team</a>
     <a href="sponsors" class="button button-primary">Donate</a>
 ---
 
-    <article class="flexbox">
-        <div class="half">
-            <h2>Nice to meet you</h2>
-            <p>We're Team 5962, also known as perSEVERE, a <a href=""><i>FIRST</i> Robotics Competition (FRC)</a> team from Lowell, Massachusetts.</p>
-            <a href="about" class="button button-small">Learn More</a>
+    <article class="grid two-columns">
+        <div>
+            <h2>About Us</h2>
+            <p>We're Team 5962, also known as perSEVERE, a <i>FIRST</i> Robotics Competition (FRC) team from Lowell, Massachusetts. We welcome students ages 14+ from any school, as well as mentors from any town or company.</p>
+            <p>Every year, we analyze the game that <i>FIRST</i> releases and design, build, wire, and test a robot to compete with teams from across New England and around the world. We're also highly involved in our community through fundraising and outreach events!</p>
+            <a href="about" class="button">Learn More</a>
         </div>
-        <div class="half">
+        <div>
             <img src="media/unh.jpg" alt="Group photo of Team 5962 at UNH District Event 2019">
         </div>
     </article>
     
-    <article class="flexbox">
-        <div class="half">
+    <article class="grid two-columns">
+        <div>
             <img src="media/wis.jpg" alt="">
         </div>
-        <div class="half">
-            <h2>FIRST in our community</h2>
-            <p>Placeholder text: We're a student-led team that gives everyone opportunities to learn mechanical, electrical, and software engineering, as well as business, communication, and teamwork skills. We believe that <i>FIRST</i> is a life-changing experience that everyone should be able to have, so we spread STEM (science, technology, engineering, and math) within our community through events and outreach initiatives.</p>
-            <a href="outreach" class="button">Outreach</a>
+        <div>
+            <h2>Latest Updates</h2>
+            {% for post in site.posts %}
+            <p>{{ post.content | strip_html | truncatewords: 60 }}</p>
+            {% endfor %}
+            <a href="news" class="button button-primary">More News</a>
         </div>
     </article>
+
+    <article class="grid two-columns">
+        <div>
+            <h2>Sponsors</h2>
+            <p>The generosity of our sponsors is crucial to our success. Our 2018 season platinum sponsors included Merrimack Valley Robotics, UMass Lowell, Analog Devices, and Stanley Black & Decker. Gold sponsors were MFC Electronics, Best Buy, IBM, Ruland, Kronos, Boston Scientific, BAE Systems, Brooks Automation, and Josh Nichols & Sam Wilson. Silver sponsors included Kronos, Fisher Unitech, and Bose.</p>
+            <a href="sponsor" class="button button-primary">Sponsor</a>
+        </div>
+        <div>
+            <img src="media/rowdy.jpg" alt="">
+        </div>
+    </article>
+
+    <script>
+    // Typewriter
+    var TxtType=function(t,e,i){this.toRotate=e,this.el=t,this.loopNum=0,this.period=parseInt(i,10)||2e3,this.txt="",this.tick(),this.isDeleting=!1};TxtType.prototype.tick=function(){var t=this.loopNum%this.toRotate.length,e=this.toRotate[t];this.isDeleting?this.txt=e.substring(0,this.txt.length-1):this.txt=e.substring(0,this.txt.length+1),this.el.innerHTML='<span class="wrap">'+this.txt+"</span>";var i=this,s=200-100*Math.random();this.isDeleting&&(s/=2),this.isDeleting||this.txt!==e?this.isDeleting&&""===this.txt&&(this.isDeleting=!1,this.loopNum++,s=250):(s=this.period,this.isDeleting=!0),setTimeout(function(){i.tick()},s)},window.onload=function(){for(var t=document.getElementsByClassName("typewrite"),e=0;e<t.length;e++){var i=t[e].getAttribute("data-type"),s=t[e].getAttribute("data-period");i&&new TxtType(t[e],JSON.parse(i),s)}var n=document.createElement("style");n.type="text/css",n.innerHTML=".typewrite > .wrap { border-right: 0.08em solid #423f33}",document.body.appendChild(n)};
+    </script>
