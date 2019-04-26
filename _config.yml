@@ -20,19 +20,19 @@ defaults:
   values:
     layout: default
 - scope:
-    path: ""
-    type: "mentors"
+    path: ''
+    type: mentors
   values:
-    name:
-    role:
+    name: 
+    role: 
     order_number: 100
 - scope:
-    path: ""
-    type: "students"
+    path: ''
+    type: students
   values:
-    name:
-    role:
-    grad-year:
+    name: 
+    role: 
+    grad-year: 
 description: Team 5962, also known as perSEVERE, is a FIRST Robotics Competition (FRC)
   team from Lowell, Massachusetts. Since our rookie season in 2016, we've welcomed
   middle and high school students from the Merrimack Valley and bring STEM to our
