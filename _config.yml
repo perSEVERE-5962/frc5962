@@ -2,9 +2,15 @@
 title: perSEVERE - FRC Team 5962
 timezone: UTC
 collections:
+  mentors:
+    title: Mentors
+    output: false
   posts:
     title: Posts
     output: true
+  students:
+    title: Students
+    output: false
   uploads:
     title: Uploads
     output: true
@@ -45,6 +51,3 @@ nav-links:
   url: "/contact"
 sass:
   style: compressed
-collections:
-  - students
-  - mentors
