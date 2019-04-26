@@ -31,3 +31,6 @@ nav-links:
   url: "/contact"
 sass:
   style: compressed
+collections:
+  - students
+  - mentors
