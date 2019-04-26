@@ -11,21 +11,27 @@ story: Our story
 {{ page.story }}
 </article>
 
+<div class="divider"></div>
+
 ## Our Students
 
 <article class="grid three-columns" markdown="1">
-{% for student in site.students %}
-**{{ student.name }}{% if student.grad-year %} '{{ student.grad-year | slice: 2, 2 }}{% endif %}**
+{% assign ordered-students = site.students | sort: "order-number" %}
+{% for student in ordered-students %}
+**{{ student.title }}{% if student.grad-year %} '{{ student.grad-year | slice: 2, 2 }}{% endif %}**
 <br>{% if student.role %}{{ student.role }}{% endif %}
 {% endfor %}
 </article>
 
+
+<div class="divider"></div>
+
 ## Our Mentors
 
 <article class="grid two-columns" markdown="1">
-{% assign ordered_mentors = site.mentors | sort: "order_number" %}
-{% for mentor in ordered_mentors %}
-**{{ mentor.name }}**
+{% assign ordered-mentors = site.mentors | sort: "order-number" %}
+{% for mentor in ordered-mentors %}
+**{{ mentor.title }}**
 <br>{% if mentor.role %}{{ mentor.role }}{% endif %}
 {% endfor %}
 </article>
