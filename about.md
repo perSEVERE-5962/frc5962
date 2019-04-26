@@ -2,9 +2,12 @@
 title: About
 hero-img-url: "/media/unh.jpg"
 hero-title: We are Team 5962 <br>perSEVERE
+story:
 ---
 
 ## Our Story
+
+
 
 ## Our Students
 
