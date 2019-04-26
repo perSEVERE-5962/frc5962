@@ -66,24 +66,34 @@ nav, .nav-link, .button, #nav-logo {
     position: fixed;
 }
 
+#hero {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 header {
     height: 35rem;
     overflow: hidden;
 }
 
 header .container {
-    padding-top: 12.5rem;
     width: 100%;
     height: 100%;
     background: rgba(240,230,210,.8);
     text-align: center;
+    display: table;
+}
+
+.hero-content {
+    display: table-cell;
+    vertical-align: middle;
 }
 
 h1 {
-    font-weight: 400;
     font-size: 3rem;
-    line-height: 100%;
-    margin-bottom: 1.5rem;
+    line-height: 120%;
+    margin-bottom: 2rem;
 }
 
 .button {
@@ -210,7 +220,7 @@ h5 {
         display: block;
         position: relative;
         top: 2rem;
-        left: 2rem;
+        padding-left: 2rem;
         z-index: 1;
         -webkit-user-select: none;
         user-select: none;
@@ -222,7 +232,7 @@ h5 {
         height: 32px;
         position: absolute;
         top: -7px;
-        left: -5px;
+        margin-left: -5px;
         cursor: pointer;
         opacity: 0; /* hide this */
         z-index: 2; /* and place it over the hamburger */

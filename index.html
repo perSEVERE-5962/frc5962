@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: homepage
 hero-background: <video muted playsinline autoplay loop src="/media/hero.mp4"></video>
 hero-content: |
     <h1>
@@ -12,6 +13,19 @@ hero-content: |
     <a href="sponsors" class="button button-primary">Donate</a>
 ---
 
+<header>
+    <div id="hero">
+        {{ page.hero-background }}
+    </div>
+
+    <div class="container light-overlay">
+        <div class="hero-content">
+            {{ page.hero-content }}
+        </div>
+    </div>
+</header>
+
+<section class="container-thin">
     <article class="grid two-columns">
         <div>
             <h2>About Us</h2>
@@ -47,8 +61,9 @@ hero-content: |
             <img src="media/rowdy.jpg" alt="">
         </div>
     </article>
+</section>
 
-    <script>
-    // Typewriter
-    var TxtType=function(t,e,i){this.toRotate=e,this.el=t,this.loopNum=0,this.period=parseInt(i,10)||2e3,this.txt="",this.tick(),this.isDeleting=!1};TxtType.prototype.tick=function(){var t=this.loopNum%this.toRotate.length,e=this.toRotate[t];this.isDeleting?this.txt=e.substring(0,this.txt.length-1):this.txt=e.substring(0,this.txt.length+1),this.el.innerHTML='<span class="wrap">'+this.txt+"</span>";var i=this,s=200-100*Math.random();this.isDeleting&&(s/=2),this.isDeleting||this.txt!==e?this.isDeleting&&""===this.txt&&(this.isDeleting=!1,this.loopNum++,s=250):(s=this.period,this.isDeleting=!0),setTimeout(function(){i.tick()},s)},window.onload=function(){for(var t=document.getElementsByClassName("typewrite"),e=0;e<t.length;e++){var i=t[e].getAttribute("data-type"),s=t[e].getAttribute("data-period");i&&new TxtType(t[e],JSON.parse(i),s)}var n=document.createElement("style");n.type="text/css",n.innerHTML=".typewrite > .wrap { border-right: 0.08em solid #423f33}",document.body.appendChild(n)};
-    </script>
+<script>
+// Typewriter
+var TxtType=function(t,e,i){this.toRotate=e,this.el=t,this.loopNum=0,this.period=parseInt(i,10)||2e3,this.txt="",this.tick(),this.isDeleting=!1};TxtType.prototype.tick=function(){var t=this.loopNum%this.toRotate.length,e=this.toRotate[t];this.isDeleting?this.txt=e.substring(0,this.txt.length-1):this.txt=e.substring(0,this.txt.length+1),this.el.innerHTML='<span class="wrap">'+this.txt+"</span>";var i=this,s=200-100*Math.random();this.isDeleting&&(s/=2),this.isDeleting||this.txt!==e?this.isDeleting&&""===this.txt&&(this.isDeleting=!1,this.loopNum++,s=250):(s=this.period,this.isDeleting=!0),setTimeout(function(){i.tick()},s)},window.onload=function(){for(var t=document.getElementsByClassName("typewrite"),e=0;e<t.length;e++){var i=t[e].getAttribute("data-type"),s=t[e].getAttribute("data-period");i&&new TxtType(t[e],JSON.parse(i),s)}var n=document.createElement("style");n.type="text/css",n.innerHTML=".typewrite > .wrap { border-right: 0.08em solid #423f33}",document.body.appendChild(n)};
+</script>
