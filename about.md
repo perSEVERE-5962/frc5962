@@ -1,6 +1,6 @@
 ---
 title: About
-hero-img-url: "/media/unh.jpg"
+hero-img-url: "/media/nedcmp.jpg"
 hero-title: We are Team 5962 <br>perSEVERE
 story: >
     <p>In April 2015, a few engineers from Analog Devices approached Dracut High School to explore the possibility of starting an FRC team as part of the school's Robotics Club. Despite months of effort from many people, the school was, unfortunately, unable to support an FRC team.</p>
