@@ -11,12 +11,13 @@ collections:
   students:
     title: Students
     output: false
+  tags:
+    title: Tags
+    output: true
+    permalink: "/tags/:name/"
   uploads:
     title: Uploads
     output: true
-  tags:
-    output: true
-    permalink: /tags/:name/
 defaults:
 - scope:
     path: ''
