@@ -4,16 +4,16 @@ hero-img-url: "/media/unh.jpg"
 hero-title: News
 ---
 
-<article class="grid" style="grid-template-columns: 2fr 1fr" markdown="1">
+<article class="grid three-columns" markdown="1">
 
-<section markdown="1">
+<article markdown="1" style="grid-column: 1 / 3">
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url }})
 {{ post.content }}
 {% endfor %}
-</section>
+</article>
 
-<aside markdown="1">
+<aside markdown="1" style="grid-column: 3">
 ## Tags
 <ul markdown="1">
 {% for tag in site.tags %}
