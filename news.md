@@ -6,5 +6,5 @@ hero-title: News
 
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url }})
-{{ post.excerpt }}
+{{ post.content }}
 {% endfor %}
