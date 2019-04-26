@@ -85,7 +85,7 @@ nav, .nav-link, .button, #nav-logo { transition: .15s }
 }
 
 header {
-    height: 50vh;
+    height: 60vh;
     overflow: hidden;
 }
 
@@ -100,12 +100,13 @@ header .container {
 .hero-content {
     display: table-cell;
     vertical-align: middle;
+    padding-top: 5rem;
 }
 
 h1 {
     font-size: 3rem;
     line-height: 120%;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .button {
@@ -119,6 +120,7 @@ h1 {
     padding: .65em .85em;
     border-radius: 2em;
     display: inline-block;
+    margin-top: 1rem;
 }
 
 .button-primary {
@@ -149,6 +151,7 @@ section {
 article img {
     border-radius: 2rem;
     max-width: 100%;
+    margin: 1rem 0;
 }
 
 h2 {
