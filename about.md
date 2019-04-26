@@ -15,7 +15,8 @@ hero-title: We are Team 5962 <br>perSEVERE
 
 ## Our Mentors
 
-{% for mentor in site.mentors %}
+{% assign ordered_mentors = site.mentors | sort: "order_number" %}
+{% for mentor in ordered_mentors %}
 **{{ mentor.name }}**
 <br>{% if mentor.role %}{{ mentor.role }}{% endif %}
 {% endfor %}
