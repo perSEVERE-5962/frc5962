@@ -5,7 +5,7 @@ hero-title: We are Team 5962 <br>perSEVERE
 story: Our story
 ---
 
-## Our Story
+## Our Story and Mission
 
 <article markdown="1">
 {{ page.story }}
