@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: homepage
-hero-background: <video muted playsinline autoplay loop src="/media/hero.mp4"></video>
 hero-content: |
   <h1>
       Join us and<br>
@@ -15,7 +14,10 @@ hero-content: |
 
 <header>
     <div id="hero">
-        {{ page.hero-background }}
+        <video playsinline autoplay loop>
+            <source src="/media/hero.mp4" type="video/mp4" />
+            <source src="/media/hero.ogv" type="video/ogg" />
+        </video>
     </div>
 
     <div class="container light-overlay">
