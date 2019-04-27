@@ -14,6 +14,3 @@ hero-title: Contact
     <textarea id="msg" name="msg"></textarea>
     <input type="submit" value="Send">
 </form> 
-
-## Our Home
-We meet at the UMass Lowell Makerspace, Falmouth 102 on Wednesday and Fridays 5-8 and Sunday 10-2
