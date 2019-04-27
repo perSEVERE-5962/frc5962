@@ -18,3 +18,6 @@ We plan on growing both of out FLL and FLL Jr. programs to all of our local elem
 
 ## English Language Learners in STEM
 We’ve noticed that it can be challenging for local immigrant and refugee students to access engineering electives and activities while adjusting to a new country, language, and lifestyle. We have held an after-school event for those students, helping them assemble and solder parts to make an Altoid tin flashlight.
+
+## Cub Scouts
+We worked with our local Cub Scouts Den to help them earn there robot achievement badge. We talked to them about FIRST and helped them make a robot using the We Do 2.0 Kits
