@@ -10,4 +10,4 @@ At the event the students do activities learning mechanical, electrical, softwar
 We host the event at UMass Lowell in there makerspace, which is 102 Falmouth Hall.
 
 ## FLL and FLL Jr.
-With the help of our parent organization Merrimack Valley Robotics and our local elementary schools we have 24 FLL Jr. teams and recently started 2 FLL Teams. We host a 2 expos each year at Lowell High school to celebrates the students work. During the expo there are many activities for the students to do besides presenting to the judges.
+With the help of our parent organization Merrimack Valley Robotics and our local elementary schools we have 24 FLL Jr. teams and recently started 2 FLL Teams. We host a 2 expos each year at Lowell High school to celebrates the students work. During the expo there are many activities for the students to do besides presenting to the judges. We have station we the students can drive our robot, Lego free build, face painting and build marshmallow bridges.
