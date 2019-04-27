@@ -29,6 +29,9 @@ story: "<p>In April 2015, a few engineers from Analog Devices approached Dracut 
 
 <div class="divider"></div>
 
+## Our Home
+We meet at the UMass Lowell Makerspace, Falmouth 102 on Wednesday and Fridays 5-8 and Sunday 10-2
+
 ## Our Students
 
 <article class="grid three-columns" markdown="1">
