@@ -16,4 +16,4 @@ hero-title: Contact
 </form> 
 
 ## Our Home
-We meet at the > UMass Lowell Makerspace, Falmouth 102> 
+We meet at the UMass Lowell Makerspace, Falmouth 102 on Wednesday and Fridays 5-8 and Sunday 10-2
