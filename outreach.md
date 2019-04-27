@@ -29,3 +29,6 @@ Each summer we host a STEM night at a Lowell Spinners Baseball game. During this
 Each year in September we have a booth at Dracut Old Home day to spread FRC to the students who attend there from other sports clubs. We also let kids drive our robot and introduce them to our younger programs, FLL and FLL jr. Also we raffle over 10 raffle basket at this event.
 
 ## Boston Mini Maker Faire
+We represented NE FIRST at the Boston Maker Faire. We had a booth to present FIRST, specifically FRC to passerby's. We showed our robot and talked about what FIRST is and how you can join a FIRST team near you.
+
+## School Science Fairs
