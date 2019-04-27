@@ -14,3 +14,5 @@ hero-title: Contact
     <textarea id="msg" name="msg"></textarea>
     <input type="submit" value="Send">
 </form> 
+
+We meet at the Umass Lowell Makerspace
