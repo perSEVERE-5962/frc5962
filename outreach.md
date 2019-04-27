@@ -27,3 +27,5 @@ Each summer we host a STEM night at a Lowell Spinners Baseball game. During this
 
 ## Dracut Old Home Day
 Each year in September we have a booth at Dracut Old Home day to spread FRC to the students who attend there from other sports clubs. We also let kids drive our robot and introduce them to our younger programs, FLL and FLL jr. Also we raffle over 10 raffle basket at this event.
+
+## Boston Mini Maker Faire
