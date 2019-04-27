@@ -25,7 +25,7 @@ story: "<p>In April 2015, a few engineers from Analog Devices approached Dracut 
 
 <article markdown="1">
 {{ page.story }}
-</article
+
 
 <div class="divider"></div>
 
