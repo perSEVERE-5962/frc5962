@@ -17,3 +17,4 @@ During the expo there are many activities for the students to do besides present
 We plan on growing both of out FLL and FLL Jr. programs to all of our local elementary and middle schools in the upcoming year.
 
 ## English Language Learners in STEM
+We’ve noticed that it can be challenging for local immigrant and refugee students to access engineering electives and activities while adjusting to a new country, language, and lifestyle. We have held an after-school event for those students, helping them assemble and solder parts to make an Altoid tin flashlight. 
