@@ -13,10 +13,19 @@ Stanley Black & Decker
 
 
 ## Gold Sponsors - $1000 - $3,999
+Colonial Electronic Manufacturing
+Best Buy
+Ruland Manufacturing
+IBM
+Juniper Networks
+BAE Systems
 
 ## Silver Sponsors - $500 - $999
+Bose
+Kronos
+Fisher Unitech  
 
 ## Bronze Sponsors - $100 - $499
+No Bronze Sponsors
 
-## Brass Sponsors - $1 - $99
 
