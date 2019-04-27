@@ -30,8 +30,10 @@ story: "<p>In April 2015, a few engineers from Analog Devices approached Dracut 
 <div class="divider"></div>
 
 ## Our Home
-This space is graciously offered to us by the UMass Lowell College of Engineering since 2016. We have access to 3d printers, Laser cutters, Power Tools, Laptops, Mills and CNC's
 We meet at the UMass Lowell Makerspace, Falmouth 102 on Wednesday and Fridays 5-8 and Sunday 10-2.
+
+
+This space is graciously offered to us by the UMass Lowell College of Engineering since 2016. We have access to 3d printers, Laser cutters, Power Tools, Laptops, Mills and CNC's
 
 
 ## Our Students
