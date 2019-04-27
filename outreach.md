@@ -36,4 +36,4 @@ We represented NE FIRST at the Boston Maker Faire. We had a booth to present FIR
 
 
 ## School Science Fairs
-Every year our local elementary, middle and high schools invite us to there science fairs to present
+Every year our local elementary, middle and high schools invite us to there science fairs to present. At these events we present our robot, FIRST and let kids drive our robot around.
