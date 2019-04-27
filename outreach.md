@@ -34,6 +34,5 @@ Each year in September we have a booth at Dracut Old Home day to spread FRC to t
 ## Boston Mini Maker Faire
 We represented NE FIRST at the Boston Maker Faire. We had a booth to present FIRST, specifically FRC to passerby's. We showed our robot and talked about what FIRST is and how you can join a FIRST team near you.
 
-
 ## School Science Fairs
 Every year our local elementary, middle and high schools invite us to there science fairs to present. At these events we present our robot, FIRST and let kids drive our robot around.
