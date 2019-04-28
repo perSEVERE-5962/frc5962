@@ -19,9 +19,9 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 ## Gold Sponsors - $1000 - $3,999
 ![bestbuy.png](/uploads/bestbuy.png)
 ### * Ruland Manufacturing
-### * IBM
+![IBM.png](/uploads/IBM.png)
 ### * Juniper Networks
-### * BAE Systems
+![bae.jpg](/uploads/bae.jpg)
 ![cem.jpg](/uploads/cem.jpg)
 <div class="divider"></div>
 ## Silver Sponsors - $500 - $999
