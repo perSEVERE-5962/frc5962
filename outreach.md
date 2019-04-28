@@ -1,7 +1,7 @@
 ---
 title: Outreach
 hero-title: Weaving FIRST into our community
-hero-img-url: 
+hero-img-url: "/uploads/IBM_vectorized.svg"
 ---
 
 ## Our Mission
