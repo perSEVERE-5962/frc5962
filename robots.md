@@ -8,7 +8,7 @@ hero-title: Robots
 ### Quick Facts
 Status - In service
 Size - 32" L x 27" W x 40 H
-Wieght - 97 Lbs
+Weight - 97 Lbs 
 
 Robot Abilities
 * Tank tread that hits like a truck
