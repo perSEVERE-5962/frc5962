@@ -26,7 +26,7 @@ Robot Code (insert link)
 ## 2018 Robot: T-Pose
 ### Quick Facts
 Status - Retired
-Size - 28" L x 32" W x 54" H
+Size - 32" L x 28" W x 54" H
 Weight - 105 Lbs 
 ### Robot Abilities
 * Single climb or Triple Climb
