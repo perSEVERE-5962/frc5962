@@ -6,10 +6,10 @@ Our sponsors are a big reason for our success, and we are incredibly grateful fo
 
 
 ## Platinum Sponsors - $4,000+
-University of Massachusetts Lowell  
-Analog Devices
-Boston Scientific
-Stanley Black & Decker
+* University of Massachusetts Lowell  
+* Analog Devices
+* Boston Scientific
+* Stanley Black & Decker
 
 
 ## Gold Sponsors - $1000 - $3,999
