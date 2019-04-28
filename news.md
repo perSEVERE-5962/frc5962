@@ -9,8 +9,12 @@ hero-title: News
 <article class="posts" markdown="1" style="grid-column: 1 / 3">
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url }})
+*{{ post.date | date: "%B %-d, %Y" }}*
 {{ post.content }}
-{{ post.tags }}
+<div class="post-data">
+{% if post.tags %}{% for tag in post.tags %}<a class="tag" href="{{ tag | prepend:'/tags/' | prepend:site.url }}">{{ tag }}</a> {% endfor %}{% endif %}
+</div>
+<div class="divider"></div>
 {% endfor %}
 </article>
 

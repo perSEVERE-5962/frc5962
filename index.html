@@ -48,8 +48,8 @@ hero-content: |
         </div>
         <div>
             <h2>Latest Updates</h2>
-            {% for post in site.posts %}
-            <p>{{ post.content | strip_html | truncatewords: 60 }}</p>
+            {% for post in site.posts limit:3 %}
+            <p><i><a href="{{ post.url }}">{{ post.date | date: "%B %-d" }}</a></i>: {{ post.content | strip_html | truncatewords: 40 }}</p>
             {% endfor %}
             <a href="news" class="button button-primary">More News</a>
         </div>
