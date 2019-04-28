@@ -6,6 +6,7 @@ hero-title: Our Robots
 
 ## 2019 Robot: Antares
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 [Reveal Video](https://www.youtube.com/watch?v=26EiVH5yALo)
 
@@ -16,6 +17,9 @@ hero-title: Our Robots
 =======
 [Reveal Video](https://www.youtube.com/watch?v=26EiVH5yALo), [Robot CAD](https://cad.onshape.com/documents/6ddadaa1401b09b0db981197/w/9b4cabd8c16b3040e3490b17/e/161b1cd32036719df984757d), [Robot Code](https://github.com/perSEVERE-5962)
 >>>>>>> 6d1c4f1757a9079eddc0afd46b33cbd11cb51aee
+=======
+[Reveal Video](https://www.youtube.com/watch?v=26EiVH5yALo)   [Robot CAD](https://cad.onshape.com/documents/6ddadaa1401b09b0db981197/w/9b4cabd8c16b3040e3490b17/e/161b1cd32036719df984757d)   [Robot Code](https://github.com/perSEVERE-5962)
+>>>>>>> c0a005b683718092fef0c403fb8f6374aecc65f0
 ### Quick Facts
 
 1. Status - In service
@@ -29,9 +33,9 @@ hero-title: Our Robots
 * Sandstorm autonomous
 
 ### Competitions
-#### North Shore
-UNH
-NEDCMP
+**North Shore
+**UNH
+**NEDCMP
 ![2019 Robot: Antares](/media/antares.png)
 
 <div class="divider"></div>
