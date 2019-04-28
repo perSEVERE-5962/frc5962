@@ -47,6 +47,8 @@ nav-links:
   url: "/about"
 - name: News
   url: "/news"
+- name: Robots
+  url: "/robots"
 - name: Outreach
   url: "/outreach"
 - name: Sponsors
