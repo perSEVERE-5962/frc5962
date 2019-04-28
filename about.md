@@ -51,9 +51,6 @@ This space is graciously offered to us by the UMass Lowell College of Engineerin
 {% endfor %}
 </article>
 
-
-<div class="divider"></div>
-
 ## Our Mentors
 
 <article class="grid two-columns" markdown="1">
