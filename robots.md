@@ -36,5 +36,17 @@ Weight - 105 Lbs
 
 
 ## 2017 Robot: Stinger
+### Quick Facts
+Status - Dissasmbled
+Size - 36" L x 40" W x 24" H
+Weight - 110 Lbs 
+### Robot Abilities
+* 4 second climb
+* Dual intake
+* Gear floor pickup and loading station
+* Ball shooter
+
+
+
 
 ## 2016 Robot: Scropio
