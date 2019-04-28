@@ -4,8 +4,8 @@ title: Sponsors
 
 Our sponsors are a big reason for our success, and we are incredibly grateful for their donations. Donations pay for registration fees, food, parts for our robot, transportation, and other expenses. Donations also make our many outreach initiatives possible.
 
-## Sponsorship Request Form
-If you would like to sponsor FRC Team 5962[Click Here](https://drive.google.com/file/d/1cbe8bZwyNJ8WoEUp1mdeV8005pS-tHRw/view?usp=sharing)
+## Sponsorship Request
+If you would like to sponsor FRC Team 5962 fill out our [Sponsorship Request Form](https://drive.google.com/file/d/1cbe8bZwyNJ8WoEUp1mdeV8005pS-tHRw/view?usp=sharing)
 <div class="divider"></div>
 ## Platinum Sponsors - $4,000+
 ### * University of Massachusetts Lowell  
