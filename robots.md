@@ -6,9 +6,9 @@ hero-title: Our Robots
 
 ## 2019 Robot: Antares
 ### Quick Facts
-Status - In service
-Size - 32" L x 27" W x 40" H
-Weight - 97 Lbs 
+1. Status - In service
+2. Size - 32" L x 27" W x 40" H
+3. Weight - 97 Lbs 
 ### Robot Abilities
 * Tank tread that hits like a truck
 * Low level Hatch and Ball
@@ -20,35 +20,29 @@ Reveal Video (insert link)
 Robot CAD (insert link)
 
 Robot Code (insert link)
+
 ![2019 Robot: Antares](/media/antares.png)
-
-
+<div class="divider"></div>
 ## 2018 Robot: T-Pose
 ### Quick Facts
-Status - Retired
-Size - 32" L x 28" W x 54" H
-Weight - 105 Lbs 
+1. Status - Retired
+2. Size - 32" L x 28" W x 54" H
+3. Weight - 105 Lbs 
 ### Robot Abilities
 * Single climb or Triple Climb
 * Vault/Switch bot
-
-
-
-
+<div class="divider"></div>
 ## 2017 Robot: Stinger
 ### Quick Facts
-Status - Dissasmbled
-Size - 40" L x 36" W x 24" H
-Weight - 110 Lbs 
+1. Status - Dissasmbled
+2. Size - 40" L x 36" W x 24" H
+3. Weight - 110 Lbs 
 ### Robot Abilities
 * 4 second climb
 * Dual intake
 * Gear floor pickup and loading station
 * Ball shooter
-
-
-
-
+<div class="divider"></div>
 ## 2016 Robot: Scropio
 ### Quick Facts
 1. Status - Completely gone
