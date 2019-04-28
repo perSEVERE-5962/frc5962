@@ -11,8 +11,10 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 <div class="divider"></div>
 ## Platinum Sponsors - $4,000+
 ![mvr.jpg](/uploads/mvr.jpg)
-
-
+![uml.jpg](/uploads/uml.jpg)
+![adi.jpg](/uploads/adi.jpg)
+![BSC.jpg](/uploads/BSC.jpg)
+![stab.png](/uploads/stab.png)
 <div class="divider"></div>
 ## Gold Sponsors - $1000 - $3,999
 ### * Colonial Electronic Manufacturing
