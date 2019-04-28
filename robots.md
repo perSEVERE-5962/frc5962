@@ -9,8 +9,7 @@ hero-title: Robots
 Status - In service
 Size - 32" L x 27" W x 40 H
 Weight - 97 Lbs 
-
-Robot Abilities
+### Robot Abilities
 * Tank tread that hits like a truck
 * Low level Hatch and Ball
 * Level two hab climb
