@@ -21,6 +21,10 @@ story: "<p>In April 2015, a few engineers from Analog Devices approached Dracut 
   New Hampshire, and beyond.</p>\n"
 ---
 
+## Mission Statement
+The mission of Merrimack Valley Robotics, Inc. and FRC Team 5962 is to promote growth of Science, Technology, Engineering, and Math (STEM) activities for students in kindergarten through 12th grade within the Merrimack Valley and surrounding areas of Massachusetts and Southern New Hampshire.
+
+
 ## Our Story and Mission
 
 <article markdown="1">
@@ -28,6 +32,7 @@ story: "<p>In April 2015, a few engineers from Analog Devices approached Dracut 
 </article
 
 <div class="divider"></div>
+
 
 ## Our Home
 We meet at the UMass Lowell Makerspace, Falmouth 102 on Wednesday and Fridays 5-8 and Sunday 10-2.
