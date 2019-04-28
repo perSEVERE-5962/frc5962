@@ -1,6 +1,6 @@
 ---
-title: "Meet Antares: Our 2019 Robot Reveal"
-date: 2019-02-25
+title: 'Meet Antares: Our 2019 Robot Reveal'
+date: 2019-02-25 00:00:00 Z
 tags:
 - robots
 - robot-reveal
