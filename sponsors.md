@@ -38,5 +38,6 @@ Our sponsors are a big reason for our success, and we are incredibly grateful fo
 
 ## Sponsorship Request Form
 
-If you would like to sponsor FRC Team 5962 (click here)
+If you would like to sponsor FRC Team 5962 
+(click here ( insert link))
 
