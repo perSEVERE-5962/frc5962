@@ -34,7 +34,7 @@ If you would like to sponsor FRC Team 5962, please fill out our [Sponsorship Req
 
 ### IBM
 
-[IBM_vectorized.svg](/uploads/IBM_vectorized.svg)
+![IBM_vectorized.svg](/uploads/IBM_vectorized.svg)
 
 ### Juniper Networks
 
