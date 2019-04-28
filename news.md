@@ -6,7 +6,7 @@ hero-title: News
 
 <article class="grid three-columns">
 
-<article class="posts" markdown="1" style="grid-column: 1 / 3">
+<article class="posts two-thirds" markdown="1">
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url }})
 *{{ post.date | date: "%B %-d, %Y" }}*
@@ -18,13 +18,16 @@ hero-title: News
 {% endfor %}
 </article>
 
-<aside markdown="1" style="grid-column: 3">
-## Tags
-<ul markdown="1">
-{% for tag in site.tags %}
-<li><a href="{{ tag[0] | prepend: '/tags/' | prepend: site.url }}">{{ tag[0] }}</a></li>
-{% endfor %}
+<aside class="one-third" markdown="1">
+## Archive
+
+{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%B %Y'"  %}
+{% for yearMonth in postsByYearMonth %}
+<b>{{ yearMonth.name }}</b>
+<ul>
+{% for post in yearMonth.items %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
 </ul>
+{% endfor %}
 </aside>
 
 </article>
