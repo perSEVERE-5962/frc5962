@@ -30,5 +30,5 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 ![fisher unitech.jpg](/uploads/fisher%20unitech.jpg)  
 <div class="divider"></div>
 ## Bronze Sponsors - $100 - $499
-### * FIRST HQ
-### * Anderson Power Products
+![firsthq.jpg](/uploads/firsthq.jpg)
+![app.jpg](/uploads/app.jpg)
