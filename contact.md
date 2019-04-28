@@ -5,10 +5,11 @@ hero-title: Contact
 
 ## Contact Us
 
-1 University Ave
-Lowell, MA 01854
+We meet in the UMass Lowell Lawrence Lin Makerspace located at 1 University Ave, Lowell, MA 01854.
 
-[FRCTeam5962@gmail.com](mailto:FRCTeam5962@gmail.com)
+Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack Valley Robotics, P.O. Box 1152, Lowell, MA 01853**.
+
+We can be reached at [FRCTeam5962@gmail.com](mailto:FRCTeam5962@gmail.com) or via the form below.
 
 <form action="https://formspree.io/frc_team_5962_captains@googlegroups.com" method="POST">
     <label for="name">Name: </label>
