@@ -20,7 +20,6 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 ### * Best Buy
 ### * Ruland Manufacturing
 ### * IBM
-![2000px-IBM_logo.svg_.png](/uploads/2000px-IBM_logo.svg_.png)
 ### * Juniper Networks
 ### * BAE Systems
 <div class="divider"></div>
