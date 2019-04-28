@@ -52,6 +52,7 @@ hero-title: Our Robots
 1. Status - Completely gone
 2. Size - 33" L x 27" W x 18" H
 3. Weight - 100 Lbs 
+
 ### Robot Abilities
 * Tank tread that hits like a truck
 * Auto low goal
