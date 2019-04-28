@@ -12,6 +12,7 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 ## Platinum Sponsors - $4,000+
 ### * University of Massachusetts Lowell  
 ### * Analog Devices
+![adi logo.jpg](/uploads/adi%20logo.jpg)
 ### * Boston Scientific
 ### * Stanley Black & Decker
 <div class="divider"></div>
