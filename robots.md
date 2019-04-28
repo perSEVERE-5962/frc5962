@@ -75,9 +75,9 @@ hero-title: Our Robots
 1. Rank 32 with a record of 4-7-1
 
 **Southern NH**
-1.Rank 21 with a record of 8-8-0
-2.Alliance 4, eliminated in semifinals
-3.Team Spirit Award
+1. Rank 21 with a record of 8-8-0
+2. Alliance 4, eliminated in semifinals
+3. Team Spirit Award
  
 <div class="divider"></div>
 ## 2016 Robot: Scropio
@@ -93,7 +93,15 @@ hero-title: Our Robots
 
 ### Competitions
 **North Shore**
+1. Rank 13 with a record of 7-7-0 
+2. Alliance 4, eliminated in quarterfinals
+3. Rookie All Star Award
 
 **Southern NH**
+1. Rank 11 with a record of 8-7-0
+2. Alliance 5, eliminated in quarterfinals
+3. Gracious Professionalism Award, Highest Rookie Seed
 
 **NEDCMP**
+1. Rank 61 with a record of 2-10-0 
+2. Rookie Inspiration Award
