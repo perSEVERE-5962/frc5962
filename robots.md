@@ -23,6 +23,7 @@ Robot Code (insert link)
 
 ![2019 Robot: Antares](/media/antares.png)
 <div class="divider"></div>
+<div class="pics-size-2" markdown="1">
 ## 2018 Robot: T-Pose
 ### Quick Facts
 1. Status - Retired
