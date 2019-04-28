@@ -25,8 +25,8 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 ![cem.jpg](/uploads/cem.jpg)
 <div class="divider"></div>
 ## Silver Sponsors - $500 - $999
-### * Bose
-### * Kronos
+![bose.jpg](/uploads/bose.jpg)
+![kronos.jpg](/uploads/kronos.jpg)
 ### * Fisher Unitech  
 <div class="divider"></div>
 ## Bronze Sponsors - $100 - $499
