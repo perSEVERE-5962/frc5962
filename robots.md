@@ -29,7 +29,7 @@ hero-title: Our Robots
 3. [Rampbot double climb](https://www.youtube.com/watch?time_continue=6&v=XmqTzBPbCpA)
 
 **NEDCMP**
-1. *Rank 61 with a record of 3-9-0*
+1. Rank 61 with a record of 3-9-0
 2. Ended season with red card
 ![2019 Robot: Antares](/media/antares.png)
 <div class="divider"></div>
