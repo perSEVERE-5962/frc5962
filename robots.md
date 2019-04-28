@@ -15,8 +15,8 @@ Weight - 97 Lbs
 * Level two hab climb
 * Sandstorm autonomous
 #### Reveal Video
-Robot CAD
-Robot Code
+Robot CAD (insert link)
+Robot Code (insert link)
 ![2019 Robot: Antares](/media/antares.png)
 
 
