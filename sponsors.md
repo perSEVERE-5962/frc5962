@@ -13,19 +13,20 @@ Our sponsors are a big reason for our success, and we are incredibly grateful fo
 
 
 ## Gold Sponsors - $1000 - $3,999
-Colonial Electronic Manufacturing
-Best Buy
-Ruland Manufacturing
-IBM
-Juniper Networks
-BAE Systems
+* Colonial Electronic Manufacturing
+* Best Buy
+* Ruland Manufacturing
+* IBM
+* Juniper Networks
+* BAE Systems
 
 ## Silver Sponsors - $500 - $999
-Bose
-Kronos
-Fisher Unitech  
+* Bose
+* Kronos
+* Fisher Unitech  
 
 ## Bronze Sponsors - $100 - $499
-No Bronze Sponsors
+* FIRST HQ
+* Anderson Power Products
 
 
