@@ -14,6 +14,9 @@ Weight - 97 Lbs
 * Low level Hatch and Ball
 * Level two hab climb
 * Sandstorm autonomous
+#### Reveal Video
+Robot CAD
+Robot Code
 ![2019 Robot: Antares](/media/antares.png)
 
 
