@@ -1,7 +1,6 @@
 ---
 title: Mike Johnston
-role: Lead Mentor, President of Merrimack Valley Robotics, Software Systems Engineering
-  Manager at Analog Devices
+role: Lead Mentor, President of Merrimack Valley Robotics
 order-number: 1
 ---
 
