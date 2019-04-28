@@ -87,7 +87,8 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 1. Rank 21 with a record of 8-8-0
 2. Alliance 4, eliminated in semifinals
 3. Team Spirit Award
- 
+
+![stinger.jpg](/uploads/stinger.jpg) 
 <div class="divider"></div>
 ## 2016 Robot: Scropio
 *FIRST Stronghold*
@@ -115,3 +116,5 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 **NEDCMP**
 1. Rank 61 with a record of 2-10-0 
 2. Rookie Inspiration Award
+
+![scorpio.jpg](/uploads/scorpio.jpg)
