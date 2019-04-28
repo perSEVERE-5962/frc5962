@@ -259,6 +259,24 @@ h3 {
     font-size: 1.3rem;
 }
 
+.pics-size-1 img {
+    width: 20rem;
+}
+
+.pics-size-2 img {
+    width: 15rem;
+}
+
+.pics-size-3 img, .pics-size-4 img {
+    width: 10rem;
+}
+
+.pics-size-1 img, .pics-size-2 img, .pics-size-3 img, .pics-size-4 img {
+    max-width: 100%;
+    vertical-align: top;
+    margin-right: 1rem;
+}
+
 /* FOOTER */
 
 footer {
