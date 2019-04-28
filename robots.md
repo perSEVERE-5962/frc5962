@@ -51,9 +51,9 @@ Weight - 110 Lbs
 
 ## 2016 Robot: Scropio
 ### Quick Facts
-Status - Completely gone
-Size - 33" L x 27" W x 18" H
-Weight - 100 Lbs 
+1. Status - Completely gone
+2. Size - 33" L x 27" W x 18" H
+3. Weight - 100 Lbs 
 ### Robot Abilities
 * Tank tread that hits like a truck
 * Auto low goal
