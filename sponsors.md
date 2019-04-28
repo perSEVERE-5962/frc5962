@@ -4,6 +4,10 @@ title: Sponsors
 
 Our sponsors are a big reason for our success, and we are incredibly grateful for their donations. Donations pay for registration fees, food, parts for our robot, transportation, and other expenses. Donations also make our many outreach initiatives possible.
 
+## Sponsorship Request Form
+If you would like to sponsor FRC Team 5962 
+(click here ( insert link))
+
 ## Platinum Sponsors - $4,000+
 ### * University of Massachusetts Lowell  
 ### * Analog Devices
@@ -26,9 +30,3 @@ Our sponsors are a big reason for our success, and we are incredibly grateful fo
 ## Bronze Sponsors - $100 - $499
 ### * FIRST HQ
 ### * Anderson Power Products
-<div class="divider"></div>
-## Sponsorship Request Form
-<div class="divider"></div>
-If you would like to sponsor FRC Team 5962 
-(click here ( insert link))
-
