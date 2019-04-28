@@ -29,7 +29,7 @@ The mission of Merrimack Valley Robotics, Inc. and FRC Team 5962 is to promote g
 
 <article markdown="1">
 {{ page.story }}
-</article
+</article>
 
 <div class="divider"></div>
 
