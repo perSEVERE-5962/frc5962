@@ -19,14 +19,14 @@ hero-title: Our Robots
 
 ### Competitions
 **North Shore**
-1. *Rank 15 with a record of 7-7-1*
-2. *Alliance 3, eliminated in quarterfinals*
-3. *District Chairman's Award*
+1. Rank 15 with a record of 7-7-1
+2. Alliance 3, eliminated in quarterfinals
+3. District Chairman's Award
 
 **UNH**
-1. *Rank 20 with a record of 5-7-2*
-2. *Alliance 3, eliminated in quarterfinals*
-3. [*Rampbot double climb*](https://www.youtube.com/watch?time_continue=6&v=XmqTzBPbCpA)
+1. Rank 20 with a record of 5-7-2
+2. Alliance 3, eliminated in quarterfinals
+3. [Rampbot double climb](https://www.youtube.com/watch?time_continue=6&v=XmqTzBPbCpA)
 
 **NEDCMP**
 1. *Rank 61 with a record of 3-9-0*
