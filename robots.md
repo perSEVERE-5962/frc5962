@@ -22,7 +22,7 @@ hero-title: Our Robots
 [Robot Code](https://github.com/perSEVERE-5962)
 
 ![2019 Robot: Antares](/media/antares.png)
-
+<div class="divider"></div>
 ## 2018 Robot: T-Pose
 ### Quick Facts
 1. Status - Retired
