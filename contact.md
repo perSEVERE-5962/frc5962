@@ -8,7 +8,7 @@ hero-title: Contact
 1 University Ave
 Lowell, MA 01854
 
-FRCTeam5962@gmail.com (insert email link)
+[FRCTeam5962@gmail.com](mailto:FRCTeam5962@gmail.com)
 
 <form action="https://formspree.io/frc_team_5962_captains@googlegroups.com" method="POST">
     <label for="name">Name: </label>
