@@ -1,5 +1,7 @@
 ---
 title: Outreach
+hero-title: Weaving FIRST into our community
+hero-img-url: 
 ---
 
 ## Our Mission
