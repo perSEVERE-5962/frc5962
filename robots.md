@@ -31,6 +31,7 @@ hero-title: Our Robots
 **NEDCMP**
 1. Rank 61 with a record of 3-9-0
 2. Ended season with red card
+
 ![2019 Robot: Antares](/media/antares.png)
 <div class="divider"></div>
 ## 2018 Robot: T-Pose
@@ -57,6 +58,7 @@ hero-title: Our Robots
 
 **Detriot Championships Daly divsion**
 1. Rank 60 with a record of 2-8-0
+
 ![t-pose.jpg](/uploads/t-pose.jpg)
 <div class="divider"></div>
 ## 2017 Robot: Stinger
