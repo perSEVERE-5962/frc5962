@@ -19,7 +19,9 @@ hero-title: Our Robots
 
 ### Competitions
 **North Shore**
-*x*
+*Rank 15 with a record of 7-7-1*
+*Alliance 3, eliminated in quarterfinals*
+*District Chairman's Award*
 
 **UNH**
 
