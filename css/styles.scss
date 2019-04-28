@@ -123,7 +123,7 @@ h1 {
     font-size: 1.3rem;
     line-height: 100%;
     text-transform: uppercase;
-    color: #f9f9f8;
+    color: $off-white;
     background: linear-gradient(45deg, $btn-gradient1, $btn-gradient2);
     padding: .65em .85em;
     border-radius: 2em;
@@ -135,6 +135,7 @@ h1 {
 .button-primary, input[type="submit"] {
      background: linear-gradient(45deg, $btn-primary-gradient1, $btn-primary-gradient2);
      cursor: pointer;
+     color: $off-white;
 }
 
 .button:first-of-type {
@@ -143,6 +144,11 @@ h1 {
 
 .button:hover, input[type="submit"]:hover {
     transform: scale(1.1);
+}
+
+input[type="text"]:focus, input[type="email"]:focus, textarea:focus {
+        box-shadow: 0 0 5px 1px $btn-gradient1;
+        outline: none;
 }
 
 /* MAIN SECTIONS */
@@ -271,7 +277,7 @@ h4 {
     margin-bottom: 1rem;
 }
 
-footer a {
+footer a, footer a:hover, footer a:active {
     color: $off-white;
 }
 
