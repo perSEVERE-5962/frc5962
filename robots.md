@@ -31,10 +31,15 @@ Robot Code (insert link)
 ![2019 Robot: Antares](/media/antares.png)
 
 ## 2018 Robot: T-Pose
+
 ### Quick Facts
+
 Status - Retired
+
 Size - 28" L x 32" W x 54" H
+
 Weight - 105 Lbs 
+
 ### Robot Abilities
 
 
