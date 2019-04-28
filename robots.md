@@ -5,10 +5,7 @@ hero-title: Robots
 ---
 
 ## 2019 Robot: Antares
-Quick Facts - 
-Status - In service
-Size 27″ W x 32″ L x 40" H
-Weight 97 lbs
+
 Robot Abilities
 * Tank tread that hits like a truck
 * Low level Hatch and Ball
