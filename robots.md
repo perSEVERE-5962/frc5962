@@ -15,7 +15,7 @@ hero-title: Our Robots
 * Level two hab climb
 * Sandstorm autonomous
 
-Reveal Video (insert link)
+[Reveal Video](https://www.youtube.com/watch?v=26EiVH5yALo)
 
 [Robot CAD](https://cad.onshape.com/documents/6ddadaa1401b09b0db981197/w/9b4cabd8c16b3040e3490b17/e/161b1cd32036719df984757d)
 
