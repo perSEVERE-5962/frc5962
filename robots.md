@@ -5,15 +5,8 @@ hero-title: Our Robots
 ---
 
 ## 2019 Robot: Antares
-
-[Reveal Video](https://www.youtube.com/watch?v=26EiVH5yALo)
-
-[Robot CAD](https://cad.onshape.com/documents/6ddadaa1401b09b0db981197/w/9b4cabd8c16b3040e3490b17/e/161b1cd32036719df984757d)
-
-[Robot Code](https://github.com/perSEVERE-5962)
-
+[Reveal Video](https://www.youtube.com/watch?v=26EiVH5yALo)      [Robot CAD](https://cad.onshape.com/documents/6ddadaa1401b09b0db981197/w/9b4cabd8c16b3040e3490b17/e/161b1cd32036719df984757d)      [Robot Code](https://github.com/perSEVERE-5962)
 ### Quick Facts
-
 1. Status - In service
 2. Size - 32" L x 27" W x 40" H
 3. Weight - 97 Lbs 
@@ -33,15 +26,12 @@ hero-title: Our Robots
 **UNH**
 1. *Rank 20 with a record of 5-7-2*
 2. *Alliance 3, eliminated in quarterfinals*
-3. *Rampbot double climb*
+3. [*Rampbot double climb*](https://www.youtube.com/watch?time_continue=6&v=XmqTzBPbCpA)
 
 **NEDCMP**
 ![2019 Robot: Antares](/media/antares.png)
-
 <div class="divider"></div>
-
 ## 2018 Robot: T-Pose
-
 ### Quick Facts
 1. Status - Retired
 2. Size - 32" L x 28" W x 54" H
@@ -51,8 +41,6 @@ hero-title: Our Robots
 * Single climb or Triple Climb
 * Vault/Switch bot
 
-<<<<<<< HEAD
-=======
 ### Competitions
 **North Shore**
 
@@ -61,11 +49,8 @@ hero-title: Our Robots
 **NEDCMP**
 
 **Detriot Championships Daly divsion**
->>>>>>> 78f673790084592992d957bd72b63adfa40d6133
 <div class="divider"></div>
-
 ## 2017 Robot: Stinger
-
 ### Quick Facts
 1. Status - Dissasmbled
 2. Size - 40" L x 36" W x 24" H
@@ -77,17 +62,12 @@ hero-title: Our Robots
 * Gear floor pickup and loading station
 * Ball shooter
 
-<<<<<<< HEAD
-=======
 ### Competitions
 **North Shore**
 
 **Southern NH**
->>>>>>> 78f673790084592992d957bd72b63adfa40d6133
 <div class="divider"></div>
-
 ## 2016 Robot: Scropio
-
 ### Quick Facts
 1. Status - Completely gone
 2. Size - 33" L x 27" W x 18" H
