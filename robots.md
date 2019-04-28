@@ -43,7 +43,7 @@ hero-title: Our Robots
 
 **NEDCMP**
 
-** Detriot Championships, Daly divsion**
+**Detriot Championships Daly divsion**
 <div class="divider"></div>
 ## 2017 Robot: Stinger
 ### Quick Facts
