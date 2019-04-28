@@ -16,7 +16,6 @@ hero-title: Our Robots
 * Level two hab climb
 * Sandstorm autonomous
 ### Competitions
-
 ![2019 Robot: Antares](/media/antares.png)
 <div class="divider"></div>
 ## 2018 Robot: T-Pose
