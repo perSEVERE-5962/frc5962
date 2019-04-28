@@ -11,9 +11,9 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 <div class="divider"></div>
 ## Platinum Sponsors - $4,000+
 ![mvr logo.jpg](/uploads/mvr%20logo.jpg)
-### UML
+![Learning with Purpose title_tcm18-287966.jpg](/uploads/Learning%20with%20Purpose%20title_tcm18-287966.jpg)
 ![adi logo.jpg](/uploads/adi%20logo.jpg)
-### * Boston Scientific
+
 ![stanley logo 2.png](/uploads/stanley%20logo%202.png)
 <div class="divider"></div>
 ## Gold Sponsors - $1000 - $3,999
