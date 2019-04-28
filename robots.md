@@ -52,7 +52,7 @@ hero-title: Our Robots
 2. District Chairman's Award
 
 **NEDCMP**
-1.Rank 46 with a record of 5-7-0
+1. Rank 46 with a record of 5-7-0
 2. Regional Chairman's Award
 
 **Detriot Championships Daly divsion**
