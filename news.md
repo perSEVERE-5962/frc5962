@@ -11,9 +11,9 @@ hero-title: News
 ## [{{ post.title }}]({{ post.url }})
 *{{ post.date | date: "%B %-d, %Y" }}*
 {{ post.content }}
-<div class="post-data">
+<!--<div class="post-data"> TAGS
 {% if post.tags %}{% for tag in post.tags %}<a class="tag" href="{{ tag | prepend:'/tags/' | prepend:site.url }}">{{ tag }}</a> {% endfor %}{% endif %}
-</div>
+</div>-->
 <div class="divider"></div>
 {% endfor %}
 </article>

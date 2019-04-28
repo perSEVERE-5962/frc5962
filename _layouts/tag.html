@@ -4,7 +4,8 @@ layout: default
 
 <h1>Tagged {{ page.tag }}</h1>
 
-{% assign posts = site.tags[page.tag] %}
-{% for post in posts %}
-  {% include post.html %}
+{% for post in site.tags[page.tag] %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+    {{ post.description }}
+  </li>
 {% endfor %}
