@@ -5,8 +5,6 @@ hero-title: Our Robots
 ---
 
 ## 2019 Robot: Antares
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 [Reveal Video](https://www.youtube.com/watch?v=26EiVH5yALo)
 
@@ -14,12 +12,6 @@ hero-title: Our Robots
 
 [Robot Code](https://github.com/perSEVERE-5962)
 
-=======
-[Reveal Video](https://www.youtube.com/watch?v=26EiVH5yALo), [Robot CAD](https://cad.onshape.com/documents/6ddadaa1401b09b0db981197/w/9b4cabd8c16b3040e3490b17/e/161b1cd32036719df984757d), [Robot Code](https://github.com/perSEVERE-5962)
->>>>>>> 6d1c4f1757a9079eddc0afd46b33cbd11cb51aee
-=======
-[Reveal Video](https://www.youtube.com/watch?v=26EiVH5yALo)   [Robot CAD](https://cad.onshape.com/documents/6ddadaa1401b09b0db981197/w/9b4cabd8c16b3040e3490b17/e/161b1cd32036719df984757d)   [Robot Code](https://github.com/perSEVERE-5962)
->>>>>>> c0a005b683718092fef0c403fb8f6374aecc65f0
 ### Quick Facts
 
 1. Status - In service
@@ -33,9 +25,14 @@ hero-title: Our Robots
 * Sandstorm autonomous
 
 ### Competitions
-**North Shore
-**UNH
-**NEDCMP
+**North Shore**
+1. *Rank 15 with a record of 7-7-1*
+2. *Alliance 3, eliminated in quarterfinals*
+3. *District Chairman's Award*
+
+**UNH**
+
+**NEDCMP**
 ![2019 Robot: Antares](/media/antares.png)
 
 <div class="divider"></div>
@@ -51,6 +48,17 @@ hero-title: Our Robots
 * Single climb or Triple Climb
 * Vault/Switch bot
 
+<<<<<<< HEAD
+=======
+### Competitions
+**North Shore**
+
+**Greater Boston**
+
+**NEDCMP**
+
+**Detriot Championships Daly divsion**
+>>>>>>> 78f673790084592992d957bd72b63adfa40d6133
 <div class="divider"></div>
 
 ## 2017 Robot: Stinger
@@ -66,6 +74,13 @@ hero-title: Our Robots
 * Gear floor pickup and loading station
 * Ball shooter
 
+<<<<<<< HEAD
+=======
+### Competitions
+**North Shore**
+
+**Southern NH**
+>>>>>>> 78f673790084592992d957bd72b63adfa40d6133
 <div class="divider"></div>
 
 ## 2016 Robot: Scropio
@@ -79,3 +94,10 @@ hero-title: Our Robots
 * Tank tread that hits like a truck
 * Auto low goal
 * Low goal capabilities
+
+### Competitions
+**North Shore**
+
+**Southern NH**
+
+**NEDCMP**
