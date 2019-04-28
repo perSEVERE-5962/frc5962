@@ -10,6 +10,6 @@ hero-title: Robots
 
 ## 2018 Robot: T-Pose
 
-## 2017 Robot
+## 2017 Robot: Stinger
 
-## 2016 Robot
+## 2016 Robot: Scropio
