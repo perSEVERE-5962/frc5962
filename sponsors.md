@@ -6,13 +6,17 @@ Our sponsors are a big reason for our success, and we are incredibly grateful fo
 
 ## Sponsorship Request
 If you would like to sponsor FRC Team 5962 fill out our [Sponsorship Request Form](https://drive.google.com/file/d/1cbe8bZwyNJ8WoEUp1mdeV8005pS-tHRw/view?usp=sharing)
+
 <div class="divider"></div>
+
 ## Platinum Sponsors - $4,000+
 ### * University of Massachusetts Lowell  
 ### * Analog Devices
 ### * Boston Scientific
 ### * Stanley Black & Decker
+
 <div class="divider"></div>
+
 ## Gold Sponsors - $1000 - $3,999
 ### * Colonial Electronic Manufacturing
 ### * Best Buy
@@ -20,12 +24,16 @@ If you would like to sponsor FRC Team 5962 fill out our [Sponsorship Request For
 ### * IBM
 ### * Juniper Networks
 ### * BAE Systems
+
 <div class="divider"></div>
+
 ## Silver Sponsors - $500 - $999
 ### * Bose
 ### * Kronos
 ### * Fisher Unitech  
+
 <div class="divider"></div>
+
 ## Bronze Sponsors - $100 - $499
 ### * FIRST HQ
 ### * Anderson Power Products
