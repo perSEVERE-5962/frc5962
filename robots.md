@@ -5,6 +5,7 @@ hero-title: Our Robots
 ---
 
 ## 2019 Robot: Antares
+*Destination: Deep Space*
 [Reveal Video](https://www.youtube.com/watch?v=26EiVH5yALo)      [Robot CAD](https://cad.onshape.com/documents/6ddadaa1401b09b0db981197/w/9b4cabd8c16b3040e3490b17/e/161b1cd32036719df984757d)      [Robot Code](https://github.com/perSEVERE-5962)
 ### Quick Facts
 1. Status - In service
@@ -35,6 +36,7 @@ hero-title: Our Robots
 ![2019 Robot: Antares](/media/antares.png)
 <div class="divider"></div>
 ## 2018 Robot: T-Pose
+*FIRST Power Up*
 ### Quick Facts
 1. Status - Retired
 2. Size - 32" L x 28" W x 54" H
@@ -62,6 +64,7 @@ hero-title: Our Robots
 ![t-pose.jpg](/uploads/t-pose.jpg)
 <div class="divider"></div>
 ## 2017 Robot: Stinger
+*FIRST Steamworks*
 ### Quick Facts
 1. Status - Dissasmbled
 2. Size - 40" L x 36" W x 24" H
@@ -84,6 +87,7 @@ hero-title: Our Robots
  
 <div class="divider"></div>
 ## 2016 Robot: Scropio
+*FIRST Stronghold*
 ### Quick Facts
 1. Status - Completely gone
 2. Size - 33" L x 27" W x 18" H
