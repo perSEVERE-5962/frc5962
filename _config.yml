@@ -25,6 +25,11 @@ defaults:
     layout: default
 - scope:
     path: ''
+    type: posts
+  values:
+    layout: posts
+- scope:
+    path: ''
     type: mentors
   values:
     role: 

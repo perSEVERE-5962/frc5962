@@ -1,5 +1,6 @@
 ---
 title: About
+layout: default-with-hero
 hero-img-url: "/media/nedcmp.jpg"
 hero-title: We are Team 5962 <br>perSEVERE
 ---
