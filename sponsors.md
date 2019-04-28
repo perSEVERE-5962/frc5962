@@ -12,6 +12,7 @@ Our sponsors are a big reason for our success, and we are incredibly grateful fo
 * Stanley Black & Decker
 
 
+
 ## Gold Sponsors - $1000 - $3,999
 * Colonial Electronic Manufacturing
 * Best Buy
