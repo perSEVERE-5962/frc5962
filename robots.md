@@ -16,10 +16,13 @@ hero-title: Our Robots
 * Low level Hatch and Ball
 * Level two hab climb
 * Sandstorm autonomous
+
 ### Competitions
-**North Shore
-**UNH
-**NEDCMP
+**North Shore**
+
+**UNH**
+
+**NEDCMP**
 ![2019 Robot: Antares](/media/antares.png)
 <div class="divider"></div>
 ## 2018 Robot: T-Pose
@@ -27,6 +30,7 @@ hero-title: Our Robots
 1. Status - Retired
 2. Size - 32" L x 28" W x 54" H
 3. Weight - 105 Lbs 
+
 ### Robot Abilities
 * Single climb or Triple Climb
 * Vault/Switch bot
@@ -36,6 +40,7 @@ hero-title: Our Robots
 1. Status - Dissasmbled
 2. Size - 40" L x 36" W x 24" H
 3. Weight - 110 Lbs 
+
 ### Robot Abilities
 * 4 second climb
 * Dual intake
