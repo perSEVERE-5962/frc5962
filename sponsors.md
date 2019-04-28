@@ -29,7 +29,7 @@ Our sponsors are a big reason for our success, and we are incredibly grateful fo
 ### * Anderson Power Products
 <div class="divider"></div>
 ## Sponsorship Request Form
-
+<div class="divider"></div>
 If you would like to sponsor FRC Team 5962 
 (click here ( insert link))
 
