@@ -7,7 +7,7 @@ Our sponsors are a big reason for our success, and we are incredibly grateful fo
 ## Sponsorship Request Form
 If you would like to sponsor FRC Team 5962 
 (click here ( insert link))
-
+<div class="divider"></div>
 ## Platinum Sponsors - $4,000+
 ### * University of Massachusetts Lowell  
 ### * Analog Devices
