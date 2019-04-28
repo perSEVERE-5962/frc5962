@@ -14,6 +14,7 @@ Weight - 97 Lbs
 * Low level Hatch and Ball
 * Level two hab climb
 * Sandstorm autonomous
+
 Reveal Video (insert link)
 
 Robot CAD (insert link)
