@@ -34,6 +34,15 @@ hero-title: Our Robots
 ### Robot Abilities
 * Single climb or Triple Climb
 * Vault/Switch bot
+
+### Competitions
+**North Shore**
+
+**Greater Boston**
+
+**NEDCMP**
+
+** Detriot Championships, Daly divsion**
 <div class="divider"></div>
 ## 2017 Robot: Stinger
 ### Quick Facts
@@ -46,6 +55,11 @@ hero-title: Our Robots
 * Dual intake
 * Gear floor pickup and loading station
 * Ball shooter
+
+### Competitions
+**North Shore**
+
+**Southern NH**
 <div class="divider"></div>
 ## 2016 Robot: Scropio
 ### Quick Facts
@@ -57,3 +71,10 @@ hero-title: Our Robots
 * Tank tread that hits like a truck
 * Auto low goal
 * Low goal capabilities
+
+### Competitions
+**North Shore**
+
+**Southern NH**
+
+**NEDCMP**
