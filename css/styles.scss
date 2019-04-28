@@ -23,6 +23,14 @@ $btn-primary-gradient2: #caa200;
     padding-right: 5%;
 }
 
+a {
+    color: $btn-gradient2;
+}
+
+a:hover, a:active {
+    color: $dark-gray;
+}
+
 /* NAVIGATION */
 
 nav {
@@ -234,6 +242,11 @@ aside li {
 aside li:before {
     content: "• ";
     margin-right: 0.5rem;
+}
+
+h3 {
+    margin: .5rem 0;
+    font-size: 1.3rem;
 }
 
 /* FOOTER */
