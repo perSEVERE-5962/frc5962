@@ -1,6 +1,7 @@
 ---
 title: Contact
 hero-title: Contact
+hero-img-url: 
 ---
 
 ## Contact Us
