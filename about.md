@@ -49,6 +49,7 @@ This space is graciously offered to us by the UMass Lowell College of Engineerin
 **{{ student.title }}{% if student.grad-year %} '{{ student.grad-year | slice: 2, 2 }}{% endif %}**
 <br>{% if student.role %}{{ student.role }}{% endif %}
 {% endfor %}
+</article>
 
 ## Our Mentors
 
