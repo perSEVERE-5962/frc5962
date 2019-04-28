@@ -19,6 +19,7 @@ hero-title: Our Robots
 
 ### Competitions
 **North Shore**
+*x*
 
 **UNH**
 
