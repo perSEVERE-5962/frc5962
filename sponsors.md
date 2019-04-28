@@ -14,7 +14,7 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 ### * University of Massachusetts Lowell  
 ![adi logo.jpg](/uploads/adi%20logo.jpg)
 ### * Boston Scientific
-![sbad logo.jpg](/uploads/sbad%20logo.jpg)
+
 <div class="divider"></div>
 ## Gold Sponsors - $1000 - $3,999
 ### * Colonial Electronic Manufacturing
