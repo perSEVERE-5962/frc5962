@@ -24,6 +24,9 @@ hero-title: Our Robots
 3. *District Chairman's Award*
 
 **UNH**
+1. *Rank 20 with a record of 5-7-2*
+2. *Alliance 3, eliminated in quarterfinals*
+3. *Rampbot double climb*
 
 **NEDCMP**
 ![2019 Robot: Antares](/media/antares.png)
