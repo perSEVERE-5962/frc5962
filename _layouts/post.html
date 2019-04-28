@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h3>{{ page.date | date: "%B %-d, %Y" }}</h3>
+
+<div class="divider"></div>
+
+{{ content }}
+
+<div class="divider"></div>
+
+<div class="post-data">
+{% if page.tags %}{% for tag in page.tags %}<a class="tag" href="{{ tag | prepend:'/tags/' | prepend:site.url }}">{{ tag }}</a> {% endfor %}{% endif %}
+</div>

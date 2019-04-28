@@ -244,12 +244,12 @@ textarea {
     grid-column: 3;
 }
 
-aside li {
+aside li, section li {
     display: block;
     margin: .15rem 0 .15rem 1.5rem;
 }
 
-aside li:before {
+aside li:before, section li:before {
     content: "• ";
     margin-right: 0.5rem;
 }

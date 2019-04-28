@@ -27,7 +27,11 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: posts
+    layout: post
+- scope:
+    path: '/tags/'
+  values:
+    layout: default
 - scope:
     path: ''
     type: mentors
@@ -62,3 +66,7 @@ nav-links:
   url: "/contact"
 sass:
   style: compressed
+plugins:
+- jekyll/tagging
+tag_page_layout: tag
+tag_page_dir: /tags
