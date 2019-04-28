@@ -52,10 +52,11 @@ hero-title: Our Robots
 2. District Chairman's Award
 
 **NEDCMP**
-1.
-2.
+1.Rank 46 with a record of 5-7-0
+2. Regional Chairman's Award
 
 **Detriot Championships Daly divsion**
+1. Rank 60 with a record of 2-8-0
 <div class="divider"></div>
 ## 2017 Robot: Stinger
 ### Quick Facts
@@ -71,8 +72,13 @@ hero-title: Our Robots
 
 ### Competitions
 **North Shore**
+1. Rank 32 with a record of 4-7-1
 
 **Southern NH**
+1.Rank 21 with a record of 8-8-0
+2.Alliance 4, eliminated in semifinals
+3.Team Spirit Award
+ 
 <div class="divider"></div>
 ## 2016 Robot: Scropio
 ### Quick Facts
