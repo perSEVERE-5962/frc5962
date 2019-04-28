@@ -57,6 +57,7 @@ hero-title: Our Robots
 
 **Detriot Championships Daly divsion**
 1. Rank 60 with a record of 2-8-0
+![t-pose.jpg](/uploads/t-pose.jpg)
 <div class="divider"></div>
 ## 2017 Robot: Stinger
 ### Quick Facts
