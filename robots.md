@@ -5,7 +5,10 @@ hero-title: Robots
 ---
 
 ## 2019 Robot: Antares
-
+Quick Facts - 
+Status - In service
+Size 27″ W x 32″ L x 40" H
+Weight 97 lbs
 ![2019 Robot: Antares](/media/antares.png)
 
 ## 2018 Robot: T-Pose
