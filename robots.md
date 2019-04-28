@@ -9,12 +9,12 @@ Quick Facts -
 Status - In service
 Size 27″ W x 32″ L x 40" H
 Weight 97 lbs
-![2019 Robot: Antares](/media/antares.png)
 Robot Abilities
 * Tank tread that hits like a truck
 * Low level Hatch and Ball
 * Level two hab climb
 * Sandstorm autonomous
+![2019 Robot: Antares](/media/antares.png)
 
 
 ## 2018 Robot: T-Pose
