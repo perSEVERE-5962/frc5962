@@ -1,7 +1,7 @@
 ---
 title: Robots
 hero-img-url: "/media/antares.png"
-hero-title: Robots
+hero-title: Our Robots
 ---
 
 ## 2019 Robot: Antares
