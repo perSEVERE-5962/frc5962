@@ -45,10 +45,15 @@ hero-title: Our Robots
 
 ### Competitions
 **North Shore**
+1. Rank 32 with a record of 5-7-0
 
 **Greater Boston**
+1. Rank 36 with a record of 4-8-0
+2. District Chairman's Award
 
 **NEDCMP**
+1.
+2.
 
 **Detriot Championships Daly divsion**
 <div class="divider"></div>
