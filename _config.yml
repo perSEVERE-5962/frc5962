@@ -29,7 +29,7 @@ defaults:
   values:
     layout: post
 - scope:
-    path: '/tags/'
+    path: "/tags/"
   values:
     layout: default
 - scope:
@@ -69,4 +69,4 @@ sass:
 plugins:
 - jekyll/tagging
 tag_page_layout: tag
-tag_page_dir: /tags
+tag_page_dir: "/tags"
