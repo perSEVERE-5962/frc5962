@@ -4,8 +4,8 @@ hero-img-url: "/media/antares.png"
 hero-title: Our Robots
 ---
 
-Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Robotics Competition (FRC) challenge. WE have competed at local qualifying events, the New England Championship and even the World Championship in Detroit. Here are our Robots!
-
+Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Robotics Competition (FRC) challenge. We have competed at local qualifying events in MA and NH, the New England Championship and even the World Championship in Detroit. Here are our Robots!
+ 
 ## 2019 Robot: Antares
 *Destination: Deep Space*
 ### Robot Resources
