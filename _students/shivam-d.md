@@ -5,3 +5,4 @@ grad-year: 2021
 order-number: 1
 ---
 
+Lowell High
