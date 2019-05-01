@@ -6,7 +6,7 @@ date: 2019-05-01 15:52:00 Z
 All of our resources are coming soon! Stay Tuned!
 
 ## CAD
-Onshape Tutorial
+[Onshape Tutorial](https://docs.google.com/document/d/1EW8V7WBNBqr19iqDcAsuY5-3FRw1PEwA37WWa0JXmIY/edit?usp=sharing)
 <div class="divider"></div>
 ## Awards
 <div class="divider"></div>
