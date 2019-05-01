@@ -6,12 +6,12 @@ hero-title: Our Robots
 
 Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Robotics Competition (FRC) challenge. We have competed at local offseason events, district qualifying events in MA and NH, the New England District Championship and even the World Championship in Detroit. Here are our Robots!
 ## 2020 Robot: Coming Next Year
-*Infinite Recharge which is next years game will be released in the first weeks of January*
+*Infinite Recharge, which is next years game will be released in the first weeks of January*
 ### Quick Facts
-Coming in February 2020!
+1. Coming in February 2020!
 
 ### Robot Abilities
-Coming in February 2020!
+1. Coming in February 2020!
 
 ### Competitions
 We will decide which competitions we want to attend in late fall of this year
