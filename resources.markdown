@@ -18,7 +18,7 @@ We are currently developing PID, motion profile and pathweaver. This will be up 
 1. [**FRC 5962 Github**](https://github.com/perSEVERE-5962)
 
 Resources that are coming soon
-2. **PID**
+2. **PID control**
 3. **Talon SRX Motion Profile**
 4. **Pathweaver**
 <div class="divider"></div>
