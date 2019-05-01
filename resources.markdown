@@ -38,6 +38,9 @@ Every year we create a Business Plan to help plan our budget and fundraising. We
 ## Team Handbook
 1. **Coming Soon!**
 <div class="divider"></div>
+## Safety Manual
+1. **Coming Soon!**
+<div class="divider"></div>
 ## Website Design
 Our website was designed and developed by [Kat Huang '19](https://github.com/katavie) and is maintained by the team. It uses Jekyll (static site generator), Github Pages (static site hosting), and Siteleaf (content management system).
 
