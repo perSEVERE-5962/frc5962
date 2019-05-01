@@ -19,5 +19,7 @@ We are currently developing PID, motion profile and pathweaver. This will be up 
 We are currently designing a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management. Once this is done it will be available here for everyone.
 <div class="divider"></div>
 ## Business Plan
+1. Coming Soon
 <div class="divider"></div>
-## Team Manual 
+## Team Manual
+1. Coming Soon
