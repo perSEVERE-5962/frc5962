@@ -9,7 +9,9 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 *Infinite Recharge which is next years game will be released in the first weeks of January*
 ### Competitions
 We will decide which competitions we want to attend in late fall of this year
+
 **TBD**
+
 **TBD**
 <div class="divider"></div>
 ## 2019 Robot: Antares
