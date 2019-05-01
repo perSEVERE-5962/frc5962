@@ -35,7 +35,7 @@ We are currently designing a FRC electrical board that can be mounted anywhere o
 Every year we create a Business Plan to help plan our budget and fundraising. We create a SWOT analysis to help plan our fundraising goals. We use our previous years data to help create our upcoming seasons Business Plan.
 1. [**Business Plan 2019-2020**](https://docs.google.com/document/d/1WJFH7Q3jdkd5h0qAjHdc1_-HC7mRxRFzdW_oiN_ZC4I/edit)
 <div class="divider"></div>
-## Team Manual
+## Team Handbook
 1. **Coming Soon!**
 <div class="divider"></div>
 ## Website Design
