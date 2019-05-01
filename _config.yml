@@ -60,6 +60,8 @@ nav-links:
   url: "/robots"
 - name: Outreach
   url: "/outreach"
+- name: Resources
+  url: "/resources"
 - name: Sponsors
   url: "/sponsors"
 - name: Contact
