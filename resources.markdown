@@ -19,7 +19,8 @@ Resources that are coming soon
 2. [**Deans List**](https://docs.google.com/document/d/1jsvJo0S5RdJKJvr_4ljAqHa5hZCJTQINEO9Yd9EgZBQ/edit?usp=sharing)
 <div class="divider"></div>
 ## Software 
-We are currently developing PID, motion profile and pathweaver. This will be up soon. In the meantime if you have questions about the software development feel free to [contact us](https://frcpersevere.com/contact).
+We are currently developing PID, motion profile and pathweaver. This will be up soon. In the meantime if you have questions about the software development feel free to [contact us](https://frcpersevere.com/contact). We've got our code for the all of our FRC seasons up on our GitHub right now!
+
 1. [**FRC 5962 Github**](https://github.com/perSEVERE-5962)
 
 Resources that are coming soon
