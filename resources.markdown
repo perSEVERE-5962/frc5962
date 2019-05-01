@@ -10,7 +10,7 @@ We use onshape to design and CAD all of our robots. We have created a document w
 1. [**Onshape Fundamentals**](https://docs.google.com/document/d/1EW8V7WBNBqr19iqDcAsuY5-3FRw1PEwA37WWa0JXmIY/edit?usp=sharing)
 <div class="divider"></div>
 ## Awards
-1. [**Chairman's Submission,**]coming soon
+1. Chairman's Submission
 <div class="divider"></div>
 ## Software 
 We are currently developing PID, motion profile and pathweaver. This will be up soon. In the meantime if you have questions about the software development feel free to [contact us](https://frcpersevere.com/contact)
