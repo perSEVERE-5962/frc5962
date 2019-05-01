@@ -19,7 +19,8 @@ We are currently developing PID, motion profile and pathweaver. This will be up 
 We are currently designing a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management. Once this is done it will be available here for everyone.
 <div class="divider"></div>
 ## Business Plan
-Every year we create a Business Plan to help plan our budget
+Every year we create a Business Plan to help plan our budget and fundraising. We create a SWOT analysis to help plan our fundraising goals. We use our previous years data to help create our upcoming seasons Business Plan.
+1. [Business Plan 2019-2020](https://docs.google.com/document/d/1WJFH7Q3jdkd5h0qAjHdc1_-HC7mRxRFzdW_oiN_ZC4I/edit)
 <div class="divider"></div>
 ## Team Manual
-1. Coming Soon
+1. Coming Soon!
