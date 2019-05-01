@@ -16,7 +16,8 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 3. Weight - 97 Lbs 
 
 ### Robot Abilities
-* Tank tread that hits like a truck
+* Tank tread 
+* Hits like a truck
 * Low level Hatch and Ball
 * Level two hab climb
 * Sandstorm autonomous
@@ -34,7 +35,7 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 
 **NEDCMP**
 1. Rank 61 with a record of 3-9-0
-2. Ended season with red card
+2. Ended season with red card:).
 
 ![2019 Robot: Antares](/media/antares.png)
 <div class="divider"></div>
@@ -63,6 +64,7 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 
 **Detriot Championships Daly divsion**
 1. Rank 60 with a record of 2-8-0
+2. Played with some amazing teams
 
 ![t-pose.jpg](/uploads/t-pose.jpg)
 <div class="divider"></div>
@@ -86,7 +88,8 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 **Southern NH**
 1. Rank 21 with a record of 8-8-0
 2. Alliance 4, eliminated in semifinals
-3. Team Spirit Award
+3. Pushed 501 across field to climb
+4. Team Spirit Award
 
 ![stinger.jpg](/uploads/stinger.jpg) 
 <div class="divider"></div>
