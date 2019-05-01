@@ -29,7 +29,9 @@ More resources that are coming soon
 4. **Pathweaver**
 <div class="divider"></div>
 ## Electrical
-We are currently designing a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management. Once this is done it will be available here for everyone.
+We are currently designing a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management.
+Coming soon
+1. **Electrical Board**
 <div class="divider"></div>
 ## Business Plan
 Every year we create a Business Plan to help plan our budget and fundraising. We create a SWOT analysis to help plan our fundraising goals. We use our previous years data to help create our upcoming seasons Business Plan.
