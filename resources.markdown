@@ -10,8 +10,10 @@ We use onshape to design and CAD all of our robots. We have created a document w
 1. [**Onshape Fundamentals**](https://docs.google.com/document/d/1EW8V7WBNBqr19iqDcAsuY5-3FRw1PEwA37WWa0JXmIY/edit?usp=sharing)
 <div class="divider"></div>
 ## Awards
+1. [**Chairman's Submission,**]coming soon
 <div class="divider"></div>
 ## Software 
+
 <div class="divider"></div>
 ## Electrical
 <div class="divider"></div>
