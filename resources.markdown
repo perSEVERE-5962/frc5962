@@ -15,7 +15,11 @@ We use onshape to design and CAD all of our robots. We have created a document w
 <div class="divider"></div>
 ## Software 
 We are currently developing PID, motion profile and pathweaver. This will be up soon. In the meantime if you have questions about the software development feel free to [contact us](https://frcpersevere.com/contact).
-1. [**FRC 5962 Github**](https://github.com/perSEVERE-5962)
+1. [**FRC 5962 Github**]
+2. **PID - Coming soon**
+3. **Motion Profile**
+4. **Pathweaver**
+(https://github.com/perSEVERE-5962)
 <div class="divider"></div>
 ## Electrical
 We are currently designing a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management. Once this is done it will be available here for everyone.
