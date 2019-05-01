@@ -3,7 +3,7 @@ title: Resources
 date: 2019-05-01 15:52:00 Z
 ---
 
-All of our resources are coming soon! Stay Tuned!
+More resources are coming soon! Stay Tuned!
 
 ## CAD
 We use onshape to design and CAD all of our robots. We have created a document with links to all of features you need to know to start Onshape with your team.
