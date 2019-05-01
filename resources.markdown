@@ -24,3 +24,6 @@ Every year we create a Business Plan to help plan our budget and fundraising. We
 <div class="divider"></div>
 ## Team Manual
 1. **Coming Soon!**
+<div class="divider"></div>
+## Website Design
+
