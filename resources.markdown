@@ -40,6 +40,6 @@ Every year we create a Business Plan to help plan our budget and fundraising. We
 ## Website Design
 Our website was designed and developed by [Kat Huang '19](https://github.com/katavie) and is maintained by the team. It uses Jekyll (static site generator), Github Pages (static site hosting), and Siteleaf (content management system).
 
-If you want to learn more how to create your own custom codded and designed website feel free to [contact us](https://frcpersevere.com/contact).
+If you want to learn more on how to create your own custom codded and designed website feel free to [contact us](https://frcpersevere.com/contact).
 1. This is the [source code](https://github.com/katavie/frc5962) for frcpersevere.com
 
