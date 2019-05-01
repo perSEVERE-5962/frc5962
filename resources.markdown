@@ -6,7 +6,8 @@ date: 2019-05-01 15:52:00 Z
 All of our resources are coming soon! Stay Tuned!
 
 ## CAD
-[**Onshape Tutorial**](https://docs.google.com/document/d/1EW8V7WBNBqr19iqDcAsuY5-3FRw1PEwA37WWa0JXmIY/edit?usp=sharing)
+We use onshape to design and CAD all of our robots. We have created a document with links to all of features you need to know to start Onshape with your team.
+[**Onshape Fundamentals**](https://docs.google.com/document/d/1EW8V7WBNBqr19iqDcAsuY5-3FRw1PEwA37WWa0JXmIY/edit?usp=sharing)
 <div class="divider"></div>
 ## Awards
 <div class="divider"></div>
