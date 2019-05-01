@@ -12,7 +12,6 @@ We will decide which competitions we want to attend in late fall of this year
 **TBD**
 **TBD**
 <div class="divider"></div>
-Competitons
 ## 2019 Robot: Antares
 *Destination: Deep Space*
 ### Robot Resources
