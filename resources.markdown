@@ -7,7 +7,13 @@ More resources are coming soon! Stay Tuned!
 
 ## CAD
 We use onshape to design and CAD all of our robots. We have created a document with links to all of features you need to know to start Onshape with your team.
-1. [**Onshape Fundamentals**](https://docs.google.com/document/d/1EW8V7WBNBqr19iqDcAsuY5-3FRw1PEwA37WWa0JXmIY/edit?usp=sharing)
+1. [**Onshape Fundamentals**]
+(https://docs.google.com/document/d/1EW8V7WBNBqr19iqDcAsuY5-3FRw1PEwA37WWa0JXmIY/edit?usp=sharing)
+
+Resources that are coming soon
+2. **West Coast Chassis**
+3. **Cascade 3 stage Linear Slide**
+4. **Bumpers Guide**
 <div class="divider"></div>
 ## Awards
 1. [**Chairman's Submission**](https://docs.google.com/document/d/13yqCbfhJfrTapg6CZ2C-kUNU0ePPVMqtW84_iZLOZn0/edit)
