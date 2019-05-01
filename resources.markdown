@@ -13,14 +13,15 @@ We use onshape to design and CAD all of our robots. We have created a document w
 1. [**Chairman's Submission**](https://docs.google.com/document/d/13yqCbfhJfrTapg6CZ2C-kUNU0ePPVMqtW84_iZLOZn0/edit)
 <div class="divider"></div>
 ## Software 
-We are currently developing PID, motion profile and pathweaver. This will be up soon. In the meantime if you have questions about the software development feel free to [contact us](https://frcpersevere.com/contact)
+We are currently developing PID, motion profile and pathweaver. This will be up soon. In the meantime if you have questions about the software development feel free to [contact us] 
+(https://frcpersevere.com/contact)
 <div class="divider"></div>
 ## Electrical
 We are currently designing a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management. Once this is done it will be available here for everyone.
 <div class="divider"></div>
 ## Business Plan
 Every year we create a Business Plan to help plan our budget and fundraising. We create a SWOT analysis to help plan our fundraising goals. We use our previous years data to help create our upcoming seasons Business Plan.
-1. [Business Plan 2019-2020](https://docs.google.com/document/d/1WJFH7Q3jdkd5h0qAjHdc1_-HC7mRxRFzdW_oiN_ZC4I/edit)
+1. [**Business Plan 2019-2020**](https://docs.google.com/document/d/1WJFH7Q3jdkd5h0qAjHdc1_-HC7mRxRFzdW_oiN_ZC4I/edit)
 <div class="divider"></div>
 ## Team Manual
-1. Coming Soon!
+1. **Coming Soon!**
