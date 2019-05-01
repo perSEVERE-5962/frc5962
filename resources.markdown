@@ -3,9 +3,10 @@ title: Resources
 date: 2019-05-01 15:52:00 Z
 ---
 
-Resources coming soon! Stay Tuned!
+All of our resources are coming soon! Stay Tuned!
 
 ## CAD
+Onshape Tutorial
 <div class="divider"></div>
 ## Awards
 <div class="divider"></div>
