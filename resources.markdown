@@ -14,7 +14,11 @@ We use onshape to design and CAD all of our robots. We have created a document w
 * CAD
 * Instructions
 3. **Cascade 3 stage Linear Slide**
+* CAD
+* Instructions
 4. **Bumpers Guide**
+* CAD
+* Instructions
 <div class="divider"></div>
 ## Awards
 1. [**Chairman's Submission**](https://docs.google.com/document/d/13yqCbfhJfrTapg6CZ2C-kUNU0ePPVMqtW84_iZLOZn0/edit)
@@ -51,4 +55,3 @@ Our website was designed and developed by [Kat Huang '19](https://github.com/kat
 
 If you want to learn more on how to create your own custom codded and designed website feel free to [contact us](https://frcpersevere.com/contact).
 1. This is the [source code](https://github.com/katavie/frc5962) for frcpersevere.com
-
