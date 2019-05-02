@@ -13,7 +13,7 @@ We use onshape to design and CAD all of our robots. We have created a document w
 2. **West Coast Chassis**
 * CAD
 * Instructions
-3. **Cascade 3 stage Linear Slide**
+3. **Cascade 3 Stage Linear Slide**
 * CAD
 * Instructions
 4. **Bumpers Guide**
@@ -36,8 +36,11 @@ More resources that are coming soon
 <div class="divider"></div>
 ## Electrical
 We are currently designing a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management.
+
 Coming soon
 1. **Electrical Board**
+* CAD
+* Instructions
 <div class="divider"></div>
 ## Business Plan
 Every year we create a Business Plan to help plan our budget and fundraising. We create a SWOT analysis to help plan our fundraising goals. We use our previous years data to help create our upcoming seasons Business Plan.
