@@ -49,7 +49,7 @@ Every year we create a Business Plan to help plan our budget and fundraising. We
 <div class="divider"></div>
 ## Team Handbook
 A team handbook is a good way to present all of the team logistical material for students and mentors. This can contain team rules and goals. 
-1. **Coming Soon!**
+1. **Coming Soon**
 <div class="divider"></div>
 ## Safety Manual
 We have a strong saftey program to make sure everyone on our team is safe.
