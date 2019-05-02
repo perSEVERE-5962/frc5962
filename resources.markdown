@@ -22,7 +22,7 @@ We use onshape to design and CAD all of our robots. We have created a document w
 <div class="divider"></div>
 ## Awards
 1. [**Chairman's Submission**](https://docs.google.com/document/d/13yqCbfhJfrTapg6CZ2C-kUNU0ePPVMqtW84_iZLOZn0/edit)
-2. **Chairman’s Video**
+2. [**Chairman’s Video**](https://youtu.be/6P5sQGA5Y00)
 3. [**Deans List**](https://docs.google.com/document/d/1jsvJo0S5RdJKJvr_4ljAqHa5hZCJTQINEO9Yd9EgZBQ/edit?usp=sharing)
 <div class="divider"></div>
 ## Software 
