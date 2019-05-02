@@ -3,8 +3,6 @@ title: Resources
 date: 2019-05-01 15:52:00 Z
 ---
 
-Our goal is to make resources ranging from software to budgeting available for all teams to use to help them out.
-
 More resources are coming soon! Stay Tuned!
 
 ## Mechanical/CAD
@@ -23,7 +21,6 @@ We use onshape to design and CAD all of our robots. We have created a document w
 * Instructions
 <div class="divider"></div>
 ## Awards
-Here are our latest award submissions.
 1. [**Chairman's Submission**](https://docs.google.com/document/d/13yqCbfhJfrTapg6CZ2C-kUNU0ePPVMqtW84_iZLOZn0/edit)
 2. [**Deans List**](https://docs.google.com/document/d/1jsvJo0S5RdJKJvr_4ljAqHa5hZCJTQINEO9Yd9EgZBQ/edit?usp=sharing)
 <div class="divider"></div>
@@ -32,14 +29,14 @@ We are currently developing PID, motion profile and pathfinder. This will be up 
 
 1. [**FRC 5962 Github**](https://github.com/perSEVERE-5962)
 
-### More resources that are coming soon
+More resources that are coming soon
 2. **PID control**
 3. **Talon SRX Motion Profile**
 4. **Pathfinder**
 <div class="divider"></div>
 ## Electrical
 We are currently designing a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management.
-### Coming soon
+Coming soon
 1. **Electrical Board**
 * CAD
 * Instructions
@@ -49,8 +46,7 @@ Every year we create a Business Plan to help plan our budget and fundraising. We
 1. [**Business Plan 2019-2020**](https://docs.google.com/document/d/1WJFH7Q3jdkd5h0qAjHdc1_-HC7mRxRFzdW_oiN_ZC4I/edit)
 <div class="divider"></div>
 ## Team Handbook
-A team handbook is a good way to present all of the team logistical material for students and mentors. This can contain team rules and goals. 
-1. **Coming Soon**
+1. **Coming Soon!**
 <div class="divider"></div>
 ## Safety Manual
 We have a strong saftey program to make sure everyone on our team is safe.
