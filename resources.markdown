@@ -3,6 +3,8 @@ title: Resources
 date: 2019-05-01 15:52:00 Z
 ---
 
+Our goal is to make resources ranging from software to budgeting available for all teams to use to help them out.
+
 More resources are coming soon! Stay Tuned!
 
 ## Mechanical/CAD
@@ -29,7 +31,7 @@ We are currently developing PID, motion profile and pathfinder. This will be up 
 
 1. [**FRC 5962 Github**](https://github.com/perSEVERE-5962)
 
-### More resources that are coming soon
+More resources that are coming soon
 2. **PID control**
 3. **Talon SRX Motion Profile**
 4. **Pathfinder**
@@ -37,7 +39,7 @@ We are currently developing PID, motion profile and pathfinder. This will be up 
 ## Electrical
 We are currently designing a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management.
 
-### Coming soon
+Coming soon
 1. **Electrical Board**
 * CAD
 * Instructions
