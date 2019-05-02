@@ -4,11 +4,9 @@ date: 2019-05-01 15:52:00 Z
 ---
 
 More resources are coming soon! Stay Tuned!
-
 ## Mechanical/CAD
 We use onshape to design and CAD all of our robots. We have created a document with links to all of features you need to know to start Onshape with your team.
 1. [**Onshape Fundamentals**](https://docs.google.com/document/d/1EW8V7WBNBqr19iqDcAsuY5-3FRw1PEwA37WWa0JXmIY/edit?usp=sharing)
-
 ### Resources that are coming soon
 2. **West Coast Chassis**
 * CAD
@@ -26,9 +24,7 @@ We use onshape to design and CAD all of our robots. We have created a document w
 <div class="divider"></div>
 ## Software 
 We are currently developing PID, motion profile and pathfinder. This will be up soon. In the meantime if you have questions about the software development feel free to [contact us](https://frcpersevere.com/contact). We've got our code for the all of our FRC seasons up on our GitHub right now!
-
 1. [**FRC 5962 Github**](https://github.com/perSEVERE-5962)
-
 More resources that are coming soon
 2. **PID control**
 3. **Talon SRX Motion Profile**
