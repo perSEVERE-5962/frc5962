@@ -11,6 +11,8 @@ We use onshape to design and CAD all of our robots. We have created a document w
 
 ### Resources that are coming soon
 2. **West Coast Chassis**
+* CAD
+* Instructions
 3. **Cascade 3 stage Linear Slide**
 4. **Bumpers Guide**
 <div class="divider"></div>
