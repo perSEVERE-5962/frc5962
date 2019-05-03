@@ -37,7 +37,7 @@ We meet at the UMass Lowell Makerspace (Falmouth 102) a few times a week. This s
 <div class="divider"></div>
 
 ## Our Mentors
-Team mentors work for businesses in the area, are parents of team members, are students at UMASS Lowell where the team meets. The mentors are all volunteers, offering hundreds of hours (or more) of service each year to help the team
+Team mentors work for businesses in the area, are parents of team members, are students at UMASS Lowell where the team meets. The mentors are all volunteers, offering hundreds of hours (or more) of service each year to help the team out.
 <article class="grid two-columns" markdown="1">
 {% assign ordered-mentors = site.mentors | sort: "order-number" %}
 {% for mentor in ordered-mentors %}
