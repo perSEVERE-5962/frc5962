@@ -52,7 +52,7 @@ Every year we create a Business Plan to help plan our budget and fundraising. We
 1. **Coming Soon!**
 <div class="divider"></div>
 ## Safety Manual
-We have a strong saftey program to make sure everyone on our team is safe.
+Since day one we have had a strong saftey program to make sure everyone on our team is safe. This includes a team safety manual, tool training and saftey quizzes.
 1. [**Safety Manual**](https://docs.google.com/document/d/1oKhk3WXcw2LXKPLWLW2FS7eSsgwbKcDd9MzfdhAFvlk/edit?usp=sharing)
 <div class="divider"></div>
 ## Website Design
