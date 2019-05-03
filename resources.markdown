@@ -3,7 +3,7 @@ title: Resources
 date: 2019-05-01 15:52:00 Z
 ---
 
-Feel free to copy and borrow ideas from our resources, we simply ask that you let us know if you found them helpful.
+Feel free to copy and borrow ideas from our resources, we simply ask that you [let us know](https://frcpersevere.com/contact) if you found them helpful.
 
 More resources are coming soon! Stay Tuned!
 
