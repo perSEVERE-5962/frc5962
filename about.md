@@ -25,7 +25,7 @@ We meet at the UMass Lowell Makerspace (Falmouth 102) a few times a week. This s
 <div class="divider"></div>
 
 ## Our Students
-We students for many different towns and schools. They are trained in both technical and non-technical skills including CAD, electronics, programming and business skills.
+We have students for many different towns and schools from the Merrimack valley and southern New Hampshire. They are all trained in both technical and non-technical skills including CAD, electronics, programming and business skills.
 <article class="grid three-columns" markdown="1">
 {% assign ordered-students = site.students | sort: "order-number" %}
 {% for student in ordered-students %}
