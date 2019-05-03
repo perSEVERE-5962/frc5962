@@ -60,4 +60,4 @@ Our website was designed and developed by [Kat Huang '19](https://github.com/kat
 
 If you want to learn more on how to create your own custom codded and designed website feel free to [contact us](https://frcpersevere.com/contact).
 
-1.[Source code](https://github.com/katavie/frc5962) for frcpersevere.com
+* [Source code](https://github.com/katavie/frc5962) for frcpersevere.com
