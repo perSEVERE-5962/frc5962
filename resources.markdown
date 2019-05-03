@@ -60,4 +60,4 @@ Since day one we have had a strong saftey program to make sure everyone on our t
 ## Website Design
 Our website was designed and developed by [Kat Huang '19](https://github.com/katavie) and is maintained by the team. It uses Jekyll (static site generator), Github Pages (static site hosting), and Siteleaf (content management system).
 If you want to learn more on how to create your own custom codded and designed website feel free to [contact us](https://frcpersevere.com/contact).
-* [Source code](https://github.com/katavie/frc5962) for frcpersevere.com
+* [Source code](https://github.com/katavie/frc5962) for our website
