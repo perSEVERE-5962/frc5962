@@ -39,8 +39,8 @@ STEM. Additionally, we utilize this event for recruitment.
 ## Boston Mini Maker Faire
 We represented NE FIRST at the Boston Maker Faire. We had a booth to present FIRST, specifically FRC to passerby's. We showed our robot and talked about what FIRST is and how you can join a FIRST team near you.
 <div class="divider"></div>
-## School Science Fairs
-Every year our local elementary, middle and high schools invite us to there science fairs to present. At these events we present our robot, FIRST and let kids drive our robot around.
+## Science Fairs and School Presentations 
+The team has been invited by the Dracut Brookside Elementary School and Lowell Public Middle Schools to showcase our robot at their science fair. At the science fairs, we let the children drive our robot in hopes to inspire them to join either FLL or FRC. However, when our robot is not available for display, we showcase our CAD models and inform the children of the amazing opportunities available through FIRST programs. Our team also hosts presentations at Lowell High School and are hoping to reach out to even more schools. At the schools, we give a demo of our robot and a presentation about our team. We also inform them of the many opportunities through FIRST such as FIRST Scholarships. Additionally, we also utilize these events as a method of recruitment.
 <div class="divider"></div>
 ## UML Nerve Center
 We were invited by UMass Lowell to have a both at the Nerve center open house where they showed off there robot "Valkyrie". We presented what FIRST is and our robot.
