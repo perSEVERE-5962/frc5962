@@ -60,5 +60,6 @@ The UML I2I Conference is where hundreds of younger kids and local technology co
 Dracut High School hosts the Dracut Annual Telethon to support their scholarship foundation. They broadcast various thing such
 as game shows, raffles, and fun segments on local television. We were invited to show off our robot and hold a booth at the event.
 Through this outreach opportunity, we were able to inform a wide audience of FIRST and STEM.
+<div class="divider"></div>
 ## Dracut Council on Aging
 In the past we have presented our robot and showed off its abilities at this event.
