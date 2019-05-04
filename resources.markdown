@@ -31,6 +31,7 @@ More resources that are coming soon
 2. [**PID control**](https://github.com/perSEVERE-5962/robotCode/blob/2019/src/main/java/frc/robot/sensors/pidControl.java)
 3. **Talon SRX Motion Profile**
 4. **Pathfinder**
+5. [**Sensor Control**](https://github.com/perSEVERE-5962/robotCode/tree/2019/src/main/java/frc/robot/sensors)
 <div class="divider"></div>
 ## Electrical
 We are currently designing a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management.
