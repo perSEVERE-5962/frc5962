@@ -44,7 +44,7 @@ The team has been invited by the Dracut Brookside Elementary School and Lowell P
 
 Our team also hosts presentations at Lowell High School and are hoping to reach out to even more schools. At the schools, we give a demo of our robot and a presentation about our team. We also inform them of the many opportunities through FIRST such as FIRST Scholarships. Additionally, we also utilize these events as a method of recruitment.
 <div class="divider"></div>
-## UML ENGINEERING HOCKEY NIGHT
+## UML Engineering Hockey Night
 On February 24, the University of Massachusetts Lowell (UML) has invited us to not only host our Women in STEM event but also attend their hockey game as a part of their Engineering Week. At the event, we got to showcase our robot and inform people about the wonders of FIRST and STEM.
 <div class="divider"></div>
 ## UMass Lowell NERVE Center Valkyrie Event
