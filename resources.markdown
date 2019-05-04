@@ -26,12 +26,11 @@ We use onshape to design and CAD all of our robots. We have created a document w
 We are currently developing motion profile and pathfinder. This will be up soon. In the meantime if you have questions about the software development feel free to [contact us](https://frcpersevere.com/contact). We've got our code for the all of our FRC seasons up on our GitHub right now!
 
 1. [**FRC 5962 Github**](https://github.com/perSEVERE-5962)
-
-More resources that are coming soon
 2. [**PID control**](https://github.com/perSEVERE-5962/robotCode/blob/2019/src/main/java/frc/robot/sensors/pidControl.java)
-3. **Talon SRX Motion Profile**
-4. **Pathfinder**
-5. [**Sensor Control**](https://github.com/perSEVERE-5962/robotCode/tree/2019/src/main/java/frc/robot/sensors)
+More resources that are coming soon
+3. [**Sensor Control**](https://github.com/perSEVERE-5962/robotCode/tree/2019/src/main/java/frc/robot/sensors)
+4. **Talon SRX Motion Profile**
+5. **Pathfinder**
 <div class="divider"></div>
 ## Electrical
 We are currently designing a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management.
