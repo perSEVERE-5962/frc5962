@@ -51,9 +51,7 @@ Every year, we have been invited to the UMass Lowell Nerve Center with our robot
 Our team was invited in both 2017 and 2018 to present at Analog Devices’ General Technical Conference. The event gave the team the perfect opportunity to showcase to our sponsor the progress we have made and spread word of FIRST.
 <div class="divider"></div>
 ## UML I2I CONFERENCE
-The UML I2I Conference is where hundreds of younger kids and local technology companies get to view the undergraduate capstone
-projects. Our team had not only been invited but have been given the chance to host our own booth there. The conference allows
-the team a great opportunity to strengthen our relationship with UML and spread the news of FIRST and STEM. At the conference,
-we hope to recruit more mentors, sponsorships, and maybe new members.
+The UML I2I Conference is where hundreds of younger kids and local technology companies get to view the undergraduate capstone projects. Our team had not only been invited but have been given the chance to host our own booth there. The conference allows the team a great opportunity to strengthen our relationship with UML and spread the news of FIRST and STEM. At the conference, we hope to recruit more mentors, sponsorships, and maybe new members.
+<div class="divider"></div>
 ## Dracut Council on Aging
 In the past we have presented our robot and showed off its abilities at this event.
