@@ -61,5 +61,8 @@ Dracut High School hosts the Dracut Annual Telethon to support their scholarship
 as game shows, raffles, and fun segments on local television. We were invited to show off our robot and hold a booth at the event.
 Through this outreach opportunity, we were able to inform a wide audience of FIRST and STEM.
 <div class="divider"></div>
+## Lowell National Park
+We hosted a event at the Bott Mills Museum where kids worked on STEM activities while visiting.
+<div class="divider"></div>
 ## Dracut Council on Aging
 In the past we have presented our robot and showed off its abilities at this event to the Dracut Council on Aging
