@@ -42,7 +42,7 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 ## 2018 Robot: T-Pose
 *FIRST Power Up*
 ### Robot Resources
-1. [Build Season Documentation ](https://drive.google.com/file/d/1JWv0Coi6OZ4Vyz1uH2o_Ml_jtn2VoeNR/view?usp=sharing)
+[Build Season Documentation ](https://drive.google.com/file/d/1JWv0Coi6OZ4Vyz1uH2o_Ml_jtn2VoeNR/view?usp=sharing)
 ### Quick Facts
 1. Status - Retired
 2. Size - 32" L x 28" W x 54" H
