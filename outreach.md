@@ -33,7 +33,8 @@ We worked with our local Cub Scouts Den to help them earn there robot achievemen
 Each summer we host a STEM night at a Lowell Spinners Baseball game. During this event we introduce passerby's to our robots and what FIRST is and the several programs we offer locally. We let kids drive our robot and have several raffle. In the past years our robot has thrown the first pitch at the Lowell Spinners baseball game. We have worked with other FRC teams to spread FIRST at this event.
 <div class="divider"></div>
 ## Dracut Old Home Day
-Each year in September we have a booth at Dracut Old Home day to spread FRC to the students who attend there from other sports clubs. We also let kids drive our robot and introduce them to our younger programs, FLL and FLL jr. Also we raffle over 10 raffle basket at this event.
+Our team attends Dracut Old Home Day, a community gathering, annually. At the event, we host a 50/50 raffle and bring our robot for anyone aged 3 to 73 to drive. This event allows us to inform our community for the benefits and joys of FIRST and
+STEM. Additionally, we utilize this event for recruitment.
 <div class="divider"></div>
 ## Boston Mini Maker Faire
 We represented NE FIRST at the Boston Maker Faire. We had a booth to present FIRST, specifically FRC to passerby's. We showed our robot and talked about what FIRST is and how you can join a FIRST team near you.
