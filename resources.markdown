@@ -27,7 +27,7 @@ Here are our latest award submissions.
 1. [**Chairman's Submission**](https://docs.google.com/document/d/13yqCbfhJfrTapg6CZ2C-kUNU0ePPVMqtW84_iZLOZn0/edit)
 2. [**Chairman’s Video**](https://youtu.be/6P5sQGA5Y00)
 3. [**Deans List**](https://docs.google.com/document/d/1jsvJo0S5RdJKJvr_4ljAqHa5hZCJTQINEO9Yd9EgZBQ/edit?usp=sharing)
-4. **Woodie Flowers**
+4. [**Woodie Flowers**](https://docs.google.com/document/d/1gxDb6VnBSeB-Ulc79RL-UbJAyVAus2I-w065i8MSdhY/edit?usp=sharing)
 <div class="divider"></div>
 ## Software 
 We are currently developing PID, motion profile and pathfinder. This will be up soon. In the meantime if you have questions about the software development feel free to [contact us](https://frcpersevere.com/contact). We've got our code for the all of our FRC seasons up on our GitHub right now!
