@@ -45,8 +45,9 @@ The team has been invited by the Dracut Brookside Elementary School and Lowell P
 ## UMass Lowell NERVE Center Valkyrie Event
 Every year, we have been invited to the UMass Lowell Nerve Center with our robot for their expo of the Valkyrie Robot that will go to Mars. Here, we are given the opportunity to present our team to the families and children who come to the event. Other companies and university officials come to the event as well.
 <div class="divider"></div>
-## Dracut Council on Aging
-In the past we have presented our robot and showed off its abilities at this event.
 ## ADI TECHNICAL CONFERENCE
 Our team was invited in both 2017 and 2018 to present at Analog Devices’ General Technical Conference. The event gave the
 team the perfect opportunity to showcase to our sponsor the progress we have made and spread word of FIRST.
+<div class="divider"></div>
+## Dracut Council on Aging
+In the past we have presented our robot and showed off its abilities at this event.
