@@ -47,3 +47,6 @@ Every year, we have been invited to the UMass Lowell Nerve Center with our robot
 <div class="divider"></div>
 ## Dracut Council on Aging
 In the past we have presented our robot and showed off its abilities at this event.
+## ADI TECHNICAL CONFERENCE
+Our team was invited in both 2017 and 2018 to present at Analog Devices’ General Technical Conference. The event gave the
+team the perfect opportunity to showcase to our sponsor the progress we have made and spread word of FIRST.
