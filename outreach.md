@@ -42,4 +42,6 @@ We represented NE FIRST at the Boston Maker Faire. We had a booth to present FIR
 Every year our local elementary, middle and high schools invite us to there science fairs to present. At these events we present our robot, FIRST and let kids drive our robot around.
 <div class="divider"></div>
 ## UML Nerve Center
-## Dracut Concil on Aging
+<div class="divider"></div>
+## Dracut Council on Aging
+In the past we have presented our robot and showed off its abilities at this event.
