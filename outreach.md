@@ -42,6 +42,7 @@ We represented NE FIRST at the Boston Maker Faire. We had a booth to present FIR
 Every year our local elementary, middle and high schools invite us to there science fairs to present. At these events we present our robot, FIRST and let kids drive our robot around.
 <div class="divider"></div>
 ## UML Nerve Center
+We were invited by UMass Lowell to have a both at the Nerve center open house where they showed off there robot "Valkyrie". We presented what FIRST is and our robot.
 <div class="divider"></div>
 ## Dracut Council on Aging
 In the past we have presented our robot and showed off its abilities at this event.
