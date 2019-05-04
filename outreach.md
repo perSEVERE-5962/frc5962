@@ -40,9 +40,9 @@ STEM. Additionally, we utilize this event for recruitment.
 We represented NE FIRST at the Boston Maker Faire. We had a booth to present FIRST, specifically FRC to passerby's. We showed our robot and talked about what FIRST is and how you can join a FIRST team near you.
 <div class="divider"></div>
 ## Science Fairs and School Presentations 
-The team has been invited by the Dracut Brookside Elementary School and Lowell Public Middle Schools to showcase our robot at their science fair. At the science fairs, we let the children drive our robot in hopes to inspire them to join either FLL or FRC. 
+The team has been invited by the Dracut Brookside Elementary School and Lowell Public Middle Schools to showcase our robot at their science fair. At the science fairs, we let the children drive our robot in hopes to inspire them to join either FLL or FRC. However, when our robot is not available for display, we showcase our CAD models and inform the children of the amazing opportunities available through FIRST programs. 
 
-However, when our robot is not available for display, we showcase our CAD models and inform the children of the amazing opportunities available through FIRST programs. Our team also hosts presentations at Lowell High School and are hoping to reach out to even more schools. At the schools, we give a demo of our robot and a presentation about our team. We also inform them of the many opportunities through FIRST such as FIRST Scholarships. Additionally, we also utilize these events as a method of recruitment.
+Our team also hosts presentations at Lowell High School and are hoping to reach out to even more schools. At the schools, we give a demo of our robot and a presentation about our team. We also inform them of the many opportunities through FIRST such as FIRST Scholarships. Additionally, we also utilize these events as a method of recruitment.
 <div class="divider"></div>
 ## UMass Lowell NERVE Center Valkyrie Event
 Every year, we have been invited to the UMass Lowell Nerve Center with our robot for their expo of the Valkyrie Robot that will go to Mars. Here, we are given the opportunity to present our team to the families and children who come to the event. Other companies and university officials come to the event as well.
