@@ -56,10 +56,9 @@ Our team was invited in both 2017 and 2018 to present at Analog Devices’ Gener
 ## UML I2I CONFERENCE
 The UML I2I Conference is where hundreds of younger kids and local technology companies get to view the undergraduate capstone projects. Our team had not only been invited but have been given the chance to host our own booth there. The conference allows the team a great opportunity to strengthen our relationship with UML and spread the news of FIRST and STEM. At the conference, we hope to recruit more mentors, sponsorships, and maybe new members.
 <div class="divider"></div>
-## Dracut Council on Aging
-In the past we have presented our robot and showed off its abilities at this event.
-<div class="divider"></div>
 Dracut Telethon
 Dracut High School hosts the Dracut Annual Telethon to support their scholarship foundation. They broadcast various thing such
 as game shows, raffles, and fun segments on local television. We were invited to show off our robot and hold a booth at the event.
 Through this outreach opportunity, we were able to inform a wide audience of FIRST and STEM.
+## Dracut Council on Aging
+In the past we have presented our robot and showed off its abilities at this event.
