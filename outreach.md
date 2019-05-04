@@ -28,6 +28,7 @@ We’ve noticed that it can be challenging for local immigrant and refugee stude
 <div class="divider"></div>
 ## Cub Scouts
 We worked with our local Cub Scouts Den to help them earn there robot achievement badge. We talked to them about FIRST and helped them make a robot using the We Do 2.0 Kits. With the kits we provided we taught them about how robots are used in the workplace and with our help they made a robot hand.
+<div class="divider"></div>
 ## Lowell Spinners
 Each summer we host a STEM night at a Lowell Spinners Baseball game. During this event we introduce passerby's to our robots and what FIRST is and the several programs we offer locally. We let kids drive our robot and have several raffle. In the past years our robot has thrown the first pitch at the Lowell Spinners baseball game. We have worked with other FRC teams to spread FIRST at this event.
 <div class="divider"></div>
