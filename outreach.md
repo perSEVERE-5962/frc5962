@@ -56,6 +56,9 @@ Our team was invited in both 2017 and 2018 to present at Analog Devices’ Gener
 ## UML I2I Conference
 The UML I2I Conference is where hundreds of younger kids and local technology companies get to view the undergraduate capstone projects. Our team had not only been invited but have been given the chance to host our own booth there. The conference allows the team a great opportunity to strengthen our relationship with UML and spread the news of FIRST and STEM. At the conference, we hope to recruit more mentors, sponsorship's, and maybe new members.
 <div class="divider"></div>
+## eNable Lowell
+eNable is a volunteer group at UMass Lowell that designs and 3D prints assistive devices for children with physical disabilities at no cost to families. They recently reached out to us, and we’re helping them build a robotic ball shooter that will enable a local third-grader to play basketball from his wheelchair!
+<div class="divider"></div>
 ## Dracut Telethon
 Dracut High School hosts the Dracut Annual Telethon to support their scholarship foundation. They broadcast various thing such
 as game shows, raffles, and fun segments on local television. We were invited to show off our robot and hold a booth at the event.
