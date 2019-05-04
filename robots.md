@@ -72,6 +72,8 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 <div class="divider"></div>
 ## 2017 Robot: Stinger
 *FIRST Steamworks*
+### Robot Resources
+[Build Season Documentation](https://drive.google.com/file/d/0B9UaKfPcd05AVmZTOThkck5GYkU/view?usp=sharing)
 ### Quick Facts
 1. Status - Dissasmbled
 2. Size - 40" L x 36" W x 24" H
