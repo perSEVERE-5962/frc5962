@@ -27,6 +27,7 @@ We are currently developing motion profile and pathfinder. This will be up soon.
 
 1. [**FRC 5962 Github**](https://github.com/perSEVERE-5962)
 2. [**PID control**](https://github.com/perSEVERE-5962/robotCode/blob/2019/src/main/java/frc/robot/sensors/pidControl.java)
+
 More resources that are coming soon
 3. [**Sensor Control**](https://github.com/perSEVERE-5962/robotCode/tree/2019/src/main/java/frc/robot/sensors)
 4. **Talon SRX Motion Profile**
