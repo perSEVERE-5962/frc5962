@@ -4,8 +4,8 @@ hero-title: Weaving FIRST into our community
 hero-img-url: "/uploads/IBM_vectorized.svg"
 ---
 
-## Our Mission
-The mission of Merrimack Valley Robotics, Inc. and FRC Team 5962 is to promote growth of Science, Technology, Engineering, and Math (STEM) activities for students in kindergarten through 12th grade within the Merrimack Valley and surrounding areas of Massachusetts and Southern New Hampshire.
+### Our Mission
+**The mission of Merrimack Valley Robotics, Inc. and FRC Team 5962 is to promote growth of Science, Technology, Engineering, and Math (STEM) activities for students in kindergarten through 12th grade within the Merrimack Valley and surrounding areas of Massachusetts and Southern New Hampshire.**
 
 With the help of our parent organization Merrimack Valley Robotics we host several outreach events every year along with supporting a FIRST Robotics Competition team, 24 FIRST Lego League Jr. teams and 2 FIRST Lego League teams.
 <div class="divider"></div>
