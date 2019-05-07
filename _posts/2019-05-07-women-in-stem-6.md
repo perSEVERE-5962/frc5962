@@ -12,5 +12,6 @@ We're back with our 6th Women in STEM event on Saturday, June (TBD) for (am) to 
 
 [Click here to register](https://docs.google.com/forms/d/1nFz--pnSOxbuCLWFT2WQXR0woQ8k7T_Rjkh7tjKGWYQ/edit) or scan the code below!
 
+![frame.jpg](/uploads/frame.jpg)
 
 
