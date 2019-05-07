@@ -1,5 +1,6 @@
 ---
 title: Women in STEM 6
+date: 2019-05-07 17:00:00 Z
 tags:
 - outreach
 - women-in-stem
