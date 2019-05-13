@@ -92,6 +92,7 @@ title: Women in STEM
                 <span class="form-question-title">What do you hope to learn from the event?</span>
                 <span aria-label="Required question" class="required-asterisk">*</span>
             </label>
+            <span class="form-question-description">E.g. engineering skills, to building a network, learning how to navigate STEM classes to prepare for college, anything else</span>
             <div class="text-input-container">
                 <textarea aria-label="What do you hope to learn from the event?" autocomplete="none" name="entry.1065438568" id="learn" required=""></textarea>
             </div>
