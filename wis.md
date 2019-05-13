@@ -2,7 +2,7 @@
 title: Women in STEM
 ---
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSf3LKE8p3xl8G38HcA_ATfw_aOcSuyIuQDsV1E_lzKn3ddBNg/formResponse" method="POST" target="secret-frame" onsubmit="redirectToThanksPage();">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSf3LKE8p3xl8G38HcA_ATfw_aOcSuyIuQDsV1E_lzKn3ddBNg/formResponse" method="POST" target="secret-frame" onsubmit="showThanks();">
     <div class="form-header">
         <h2 class="form-title">Team 5962 perSEVERE: Women in STEM Day Registration</h2>
         <p class="form-description">
@@ -109,12 +109,13 @@ title: Women in STEM
         </div>
     </div>
     <input type="submit" class="button" value="Submit">
+    <p id="thanks" style="display:none">YAY! Thanks for registering! You're all set—we'll send you an email to remind you about the event when it gets closer.</p>
 </form>
 
 <iframe name="secret-frame" width="0" height="0" border="0" style="display: none;"></iframe>
 
 <script>
-function redirectToThanksPage() {
-    window.location = '/registered';
+function showThanks() {
+    document.getElementById('thanks').style.display = "block";
 }
 </script>

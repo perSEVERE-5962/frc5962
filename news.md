@@ -4,9 +4,7 @@ hero-img-url: "/media/unh.jpg"
 hero-title: News
 ---
 
-<article class="grid three-columns">
-
-<article class="posts two-thirds" markdown="1">
+<article class="posts" markdown="1">
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url }})
 *{{ post.date | date: "%B %-d, %Y" }}*
@@ -18,6 +16,7 @@ hero-title: News
 {% endfor %}
 </article>
 
+<!--
 <aside class="one-third" markdown="1">
 ## Archive
 
@@ -29,5 +28,4 @@ hero-title: News
 </ul>
 {% endfor %}
 </aside>
-
-</article>
+-->
