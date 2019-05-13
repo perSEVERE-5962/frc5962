@@ -8,7 +8,9 @@ tags:
 - events
 ---
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSf3LKE8p3xl8G38HcA_ATfw_aOcSuyIuQDsV1E_lzKn3ddBNg/formResponse" method="POST" target="secret-frame" onsubmit="redirectToThanksPage();">
+We're back with our 6th Women in STEM event on Saturday, June 8th for 10am to 3pm! Any girls ages 11-18 are welcome to sign up for a day of hands-on activities in electrical, mechanical, and software engineering. You'll get the opportunity to learn from engineers from companies and UMass Lowell! Register by June 1 or before we fill up!
+
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSf3LKE8p3xl8G38HcA_ATfw_aOcSuyIuQDsV1E_lzKn3ddBNg/formResponse" method="POST" target="secret-frame" onsubmit="showThanks();">
     <div class="form-header">
         <h2 class="form-title">Team 5962 perSEVERE: Women in STEM Day Registration</h2>
         <p class="form-description">
@@ -115,12 +117,13 @@ tags:
         </div>
     </div>
     <input type="submit" class="button" value="Submit">
+    <p id="thanks" style="display:none">YAY! Thanks for registering! You're all set—we'll send you an email to remind you about the event when it gets closer.</p>
 </form>
 
 <iframe name="secret-frame" width="0" height="0" border="0" style="display: none;"></iframe>
 
 <script>
-function redirectToThanksPage() {
-    window.location = '/registered';
+function showThanks() {
+    document.getElementById('thanks').style.display = "block";
 }
 </script>
