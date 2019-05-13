@@ -10,6 +10,8 @@ $btn-gradient1: #a49f8b;
 $btn-gradient2: #7c734e;
 $btn-primary-gradient1: #fc0;
 $btn-primary-gradient2: #caa200;
+$light-yellow: #fff1bb;
+$off-red: #794848;
 
 * {
     margin: 0;
@@ -445,4 +447,49 @@ h5 {
     .two-thirds, .one-third {
         grid-column: 1 / 4;
     }
+}
+
+form {
+    background: $light-yellow;
+    padding: 1.75rem;
+    border-radius: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.form-question {
+    margin: 1rem 0;
+}
+
+.form-question-description {
+    display: block;
+    margin: .25rem 0;
+}
+
+.form-legend, .required-asterisk {
+    color: $off-red;
+}
+
+label {
+    font-weight: bold;
+}
+
+form input, textarea {
+    padding: .3rem .5rem;
+    margin-top: .25rem;
+    border-radius: .5rem;
+    border: 1px solid $light-gray;
+    outline: none;
+}
+
+form input:focus, textarea:focus {
+    box-shadow: 0 0 5px 1px $light-gray;
+}
+
+input.button {
+    border: none;
+}
+
+textarea {
+    width: 100%;
+    resize: vertical;
 }
