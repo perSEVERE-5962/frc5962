@@ -479,6 +479,7 @@ form input, textarea {
     border-radius: .5rem;
     border: 1px solid $light-gray;
     outline: none;
+    max-width: 100%;
 }
 
 form input:focus, textarea:focus {
