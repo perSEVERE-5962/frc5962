@@ -494,3 +494,7 @@ textarea {
     width: 100%;
     resize: vertical;
 }
+
+.inactive {
+    background: $dark-gray !important;
+}

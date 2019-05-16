@@ -108,14 +108,15 @@ title: Women in STEM
             </div>
         </div>
     </div>
-    <input type="submit" class="button" value="Submit">
-    <p id="thanks" style="display:none">YAY! Thanks for registering! You're all set—we'll send you an email to remind you about the event when it gets closer.</p>
+    <input type="submit" id="submit-button" class="button inactive" value="Submit">
+    <h3 id="thanks" style="display:none">YAY! Thanks for registering! You're all set—we'll send you an email to remind you about the event when it gets closer.</h3>
 </form>
 
 <iframe name="secret-frame" width="0" height="0" border="0" style="display: none;"></iframe>
 
 <script>
 function showThanks() {
+    document.getElementById('submit-button').classList.add('inactive');
     document.getElementById('thanks').style.display = "block";
 }
 </script>
