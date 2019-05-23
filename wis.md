@@ -1,18 +1,14 @@
 ---
-title: Women in STEM
+title: Women in STEM Day
 ---
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSf3LKE8p3xl8G38HcA_ATfw_aOcSuyIuQDsV1E_lzKn3ddBNg/formResponse" method="POST" target="secret-frame" onsubmit="showThanks();">
     <div class="form-header">
-        <h2 class="form-title">Team 5962 perSEVERE: Women in STEM Day Registration</h2>
+        <h2 class="form-title">Register Today</h2>
         <p class="form-description">
-            <p>We're Team 5962 perSEVERE, a group of middle and high schoolers that participates in the FIRST Robotics Competition. Since 2016, we've held Women in STEM Days at the University of Massachusetts Lowell. Why? Even today, there are obstacles for girls and women in STEM fields due to their gender. One of the challenges is simply getting started and getting the opportunity to explore different subjects.</p>
-            <p>Join us for a day of hands-on activities in mechanical, electrical, and software engineering, as well as leadership. We'll have many volunteers from companies and UMass Lowell, and you'll have the chance to learn more about our robotics team. No experience necessary!</p>
-            <p>When: Saturday, June 8th, 2019 - Time 10am to 3pm<br>
-            Where: UMass Lowell Makerspace (Falmouth Hall 102)<br>
-            Who: Any female student, ages 11-18</p>
+            <p>Women in STEM Day is being run by FRC Team 5962, a high school robotics team in the Merrimack Valley. Join us for a day of hands-on activities in engineering and more! Any girls ages 11-18 are welcome. <b>Absolutely no experience is needed</b>, and lunch will be provided!</p>
+            <p>The deets: Saturday, June 8, 10am-3pm, UMass Lowell Makerspace (Falmouth Hall 102)</p>
         </p>
-        <p class="form-legend">* Required</p>
     </div>
     <div class="form-content">
         <div class="form-question">
