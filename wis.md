@@ -59,7 +59,7 @@ title: Women in STEM Day
         </div>
         <div class="form-question">
             <label class="form-question-title-container" for="parentName">
-                <span class="form-question-title">Parent name</span>
+                <span class="form-question-title">Parent/guardian name</span>
                 <span aria-label="Required question" class="required-asterisk">*</span>
             </label>
             <div class="text-input-container">
@@ -68,7 +68,7 @@ title: Women in STEM Day
         </div>
         <div class="form-question">
             <label class="form-question-title-container" for="parentEmail">
-                <span class="form-question-title">Parent email</span>
+                <span class="form-question-title">Parent/guardian email</span>
                 <span aria-label="Required question" class="required-asterisk">*</span>
             </label>
             <div class="text-input-container">
