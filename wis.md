@@ -7,7 +7,7 @@ title: Women in STEM Day
         <h2 class="form-title">Register Today</h2>
         <p class="form-description">
             <p>Women in STEM Day is being run by FRC Team 5962, a high school robotics team in the Merrimack Valley. Join us for a day of hands-on activities in engineering and more! Any girls ages 11-18 are welcome. <b>Absolutely no experience is needed</b>, and lunch will be provided!</p>
-            <p>The deets: Saturday, June 8, 10am-3pm, UMass Lowell Makerspace (Falmouth Hall 102)</p>
+            <p>The details: Saturday, June 8, 10am-3pm, UMass Lowell Makerspace (Falmouth Hall 102)</p>
         </p>
     </div>
     <div class="form-content">
