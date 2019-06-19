@@ -72,3 +72,5 @@ plugins:
 - jekyll/tagging
 tag_page_layout: tag
 tag_page_dir: "/tags"
+homepage_about_text: <p>We're Team 5962, also known as perSEVERE, a <i>FIRST</i> Robotics Competition (FRC) team from Lowell, Massachusetts. We welcome students ages 14+ from any school, as well as mentors from any town or company.</p><p>Every year, we analyze the game that <i>FIRST</i> releases and design, build, wire, and test a robot to compete with teams from across New England and around the world. We're also highly involved in our community through fundraising and outreach events!</p>
+homepage_sponsor_text: <p>The generosity of our sponsors is crucial to our success. Our 2018 season platinum sponsors included Merrimack Valley Robotics, UMass Lowell, Analog Devices, and Stanley Black & Decker. Gold sponsors were MFC Electronics, Best Buy, IBM, Ruland, Kronos, Boston Scientific, BAE Systems, Brooks Automation, and Josh Nichols & Sam Wilson. Silver sponsors included Kronos, Fisher Unitech, and Bose.</p>
