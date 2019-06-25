@@ -56,7 +56,6 @@ The UML I2I Conference is where hundreds of younger kids and local technology co
 <div class="divider"></div>
 ## eNable Lowell
 eNable is a volunteer group at UMass Lowell that designs and 3D prints assistive devices for children with physical disabilities at no cost to families. They recently reached out to us, and we’re helping them build a robotic ball shooter that will enable a local third-grader to play basketball from his wheelchair! To learn more about eNable Lowell please visit there [site](https://enablelowelluml.weebly.com/) 
-
 <div class="divider"></div>
 ## Dracut Telethon
 Dracut High School hosts the Dracut Annual Telethon to support their scholarship foundation. They broadcast various thing such as game shows, raffles, and fun segments on local television. We were invited to show off our robot and hold a booth at the event. Through this outreach opportunity, we were able to inform a wide audience of FIRST and STEM.
