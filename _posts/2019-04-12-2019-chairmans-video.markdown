@@ -1,6 +1,6 @@
 ---
 title: 2019 Chairman's Video
-date: 2019-06-27 14:52:00 Z
+date: 2019-04-12 08:00:00 Z
 ---
 
 Here is our 2019 Chairman's Video for the New England District Championship! Check out our video on YouTube: 
