@@ -15,7 +15,7 @@ We broadened our recruiting efforts, and by kickoff day our rookie season, our t
 
 **Our mission is to foster a vibrant, fun, and collaborative environment that inspires students to explore STEM, solve problems, and develop 21st century skills. We've earned the Chairman's Award at the district and regional level for our dedication to spreading *FIRST* in our communities.**
 
-With our parent organization, Merrimack Valley Robotics, we extend that mission to students K-12 in northeastern Massachusetts, southern New Hampshire, and beyond. Fpor more information about our parent organization Merimack valley Robtics please visit 
+With our parent organization, Merrimack Valley Robotics, we extend that mission to students K-12 in northeastern Massachusetts, southern New Hampshire, and beyond. For more information about our parent organization Merrimack valley Robotics please visit [mvrobtics.net](mvrobotics.net)
 
 <div class="divider"></div>
 
