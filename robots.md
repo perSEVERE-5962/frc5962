@@ -16,7 +16,7 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 2. Size - 32" L x 27" W x 40" H
 3. Weight - 97 Lbs 
 
-### Robot Abilicties
+### Robot Abilities
 * Tank tread 
 * Hits like a truck
 * Low level Hatch and Ball
