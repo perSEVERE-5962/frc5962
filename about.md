@@ -25,13 +25,13 @@ We meet at the UMass Lowell Makerspace (Falmouth 102) a few times a week. This s
 
 ## Our Students
 We have students from many different towns and schools from the Merrimack valley and Southern New Hampshire. We have students in both high school and middle school. They are all trained in both technical and non-technical skills including CAD, electronics, programming and business skills.
-<article class="grid three-columns" markdown="1">
-{% assign ordered-students = site.students | sort: "order-number" %}
-{% for student in ordered-students %}
-**{{ student.title }}{% if student.grad-year %} '{{ student.grad-year | slice: 2, 2 }}{% endif %}**
-{% if student.role %}<br>{{ student.role }}{% endif %}
-{% if student.school %}<br>{{ student.school }}{% endif %}
-{% endfor %}
+<article class="grid three-columns">
+  {% assign ordered-students = site.students | sort: "order-number" %}
+  {% for student in ordered-students %}
+    <b>{{ student.title }}{% if student.grad-year %} '{{ student.grad-year | slice: 2, 2 }}{% endif %}</b>
+    {% if student.role %}<br>{{ student.role }}{% endif %}
+    {% if student.school %}<br>{{ student.school }}{% endif %}
+  {% endfor %}
 </article>
 
 <div class="divider"></div>
