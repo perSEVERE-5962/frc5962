@@ -28,9 +28,11 @@ We have students from many different towns and schools from the Merrimack valley
 <article class="grid three-columns">
   {% assign ordered-students = site.students | sort: "order-number" %}
   {% for student in ordered-students %}
-    <b>{{ student.title }}{% if student.grad-year %} '{{ student.grad-year | slice: 2, 2 }}{% endif %}</b>
-    {% if student.role %}<br>{{ student.role }}{% endif %}
-    {% if student.school %}<br>{{ student.school }}{% endif %}
+    <p>
+      <b>{{ student.title }}{% if student.grad-year %} '{{ student.grad-year | slice: 2, 2 }}{% endif %}</b>
+      {% if student.role %}<br>{{ student.role }}{% endif %}
+      {% if student.school %}<br>{{ student.school }}{% endif %}
+    </p>
   {% endfor %}
 </article>
 
