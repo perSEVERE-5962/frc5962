@@ -20,6 +20,11 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 <div class="divider"></div>
 <div class="pics-size-2" markdown="1">
 ## Gold Sponsors - $1000 - $3,999
+![mvr.jpg](/uploads/mvr.jpg)
+![uml.jpg](/uploads/uml.jpg)
+![adi.jpg](/uploads/adi.jpg)
+![BSC.jpg](/uploads/BSC.jpg)
+![stab.png](/uploads/stab.png)
 ![bestbuy.png](/uploads/bestbuy.png)
 ![cem.jpg](/uploads/cem.jpg)
 ![IBM.png](/uploads/IBM.png)
