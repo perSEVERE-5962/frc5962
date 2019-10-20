@@ -7,6 +7,7 @@ hero-title: Our Robots
 Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Robotics Competition (FRC) challenge. Since then we have competed at local offseason events, district qualifying events in Massachusetts and New Hampshire, the New England District Championship and even the World Championship in Detroit. Here are our Robots!
 <div class="divider"></div>
 ## 2020 Robot: *Coming February 2020*
+*FIRST RISE*
 ## 2019 Robot: Antares
 *Destination: Deep Space*
 ### Robot Resources
