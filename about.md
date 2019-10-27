@@ -5,7 +5,7 @@ hero-title: We are Team 5962 <br>perSEVERE
 layout: default-with-hero
 ---
 
-## Our Story and Mission
+## .....Our Story and Mission
 
 In April 2015, a few engineers from Analog Devices approached Dracut High School to explore the possibility of starting an FRC team as part of the school's Robotics Club. Despite months of effort from many people, the school was, unfortunately, unable to support an FRC team.
 
@@ -19,26 +19,29 @@ With our parent organization, Merrimack Valley Robotics, we extend that mission 
 <div class="divider"></div>
 
 ## Our Home
+
 We meet at the UMass Lowell Makerspace (Falmouth 102) a few times a week. This space has graciously offered to us by the Francis College of Engineering since 2016. We have access to 3D printers, laser cutters, power tools, laptops, mills, and CNCs.
 
 <div class="divider"></div>
 
 ## Our Students
+
 We have students from many different towns and schools from the Merrimack valley and Southern New Hampshire. We have students in both high school and middle school. They are all trained in both technical and non-technical skills including CAD, electronics, programming and business skills.
 <article class="grid three-columns">
-  {% assign ordered-students = site.students | sort: "order-number" %}
-  {% for student in ordered-students %}
-    <p>
-      <b>{{ student.title }}{% if student.grad-year %} '{{ student.grad-year | slice: 2, 2 }}{% endif %}</b>
-      {% if student.role %}<br>{{ student.role }}{% endif %}
-      {% if student.school %}<br>{{ student.school }}{% endif %}
-    </p>
-  {% endfor %}
+{% assign ordered-students = site.students | sort: "order-number" %}
+{% for student in ordered-students %}
+<p>
+<b>{{ student.title }}{% if student.grad-year %} '{{ student.grad-year | slice: 2, 2 }}{% endif %}</b>
+{% if student.role %}<br>{{ student.role }}{% endif %}
+{% if student.school %}<br>{{ student.school }}{% endif %}
+</p>
+{% endfor %}
 </article>
 
 <div class="divider"></div>
 
 ## Our Mentors
+
 Team mentors work for businesses in the area, are parents of team members, are students at UMASS Lowell where the team meets. The mentors are all volunteers, offering hundreds of hours (or more) of service each year to help the team out.
 <article class="grid two-columns" markdown="1">
 {% assign ordered-mentors = site.mentors | sort: "order-number" %}
