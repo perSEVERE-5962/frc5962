@@ -5,4 +5,4 @@ grad-year: 2021
 school: Lowell High School
 ---
 
-[image1.png](/uploads/image1.png)
+![image1.png](/uploads/image1.png)
