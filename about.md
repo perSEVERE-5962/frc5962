@@ -33,6 +33,7 @@ We have students from many different towns and schools from the Merrimack valley
 <p>
 <b>{{ student.title }}{% if student.grad-year %} '{{ student.grad-year | slice: 2, 2 }}{% endif %}</b>
 {% if student.role %}<br>{{ student.role }}{% endif %}
+{% if student.content %}<br>{{ student.content }} {% endif %}
 {% if student.school %}<br>{{ student.school }}{% endif %}
 </p>
 {% endfor %}
