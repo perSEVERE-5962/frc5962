@@ -34,7 +34,7 @@ We have students from many different towns and schools from the Merrimack valley
 <b>{{ student.title }}{% if student.grad-year %} '{{ student.grad-year | slice: 2, 2 }}{% endif %}</b>
 {% if student.role %}<br>{{ student.role }}{% endif %}
 {% if student.school %}<br>{{ student.school }}{% endif %}
-{% if (/uploads/WoodieFlowers-e1571017605955.jpg)}<br>{{ student.image }}{% endif %}
+{% if (student.uploads/image}<br>{{ student.uploads/image }}{% endif %}
 </p>
 {% endfor %}
 </article>
