@@ -35,7 +35,6 @@ We have students from many different towns and schools from the Merrimack valley
 {% if student.role %}<br>{{ student.role }}{% endif %}
 {% if student.school %}<br>{{ student.school }}{% endif %}
 </p>
-</article>![WoodieFlowers-e1571017605955.jpg](/uploads/WoodieFlowers-e1571017605955.jpg)
 {% endfor %}
 </article>
 
