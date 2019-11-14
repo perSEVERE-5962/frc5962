@@ -6,4 +6,4 @@ school: Lowell High School
 image: 
 ---
 
-![image1.png](/students/image1.png)
+![image1.png](/uploads/image1.png)
