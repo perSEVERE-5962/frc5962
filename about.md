@@ -34,9 +34,7 @@ We have students from many different towns and schools from the Merrimack valley
 <b>{{ student.title }}{% if student.grad-year %} '{{ student.grad-year | slice: 2, 2 }}{% endif %}</b>
 {% if student.role %}<br>{{ student.role }}{% endif %}
 {% if student.school %}<br>{{ student.school }}{% endif %}
-{% if student.image %}<br>
-![]({{ student.image }})
-{% endif %}
+{% if student.image %}<br><img src="{{ student.image }}">{% endif %}
 </p>
 {% endfor %}
 </article>
