@@ -43,7 +43,7 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 **NEDCMP**
 1. Rank 61 with a record of 3-9-0
 2. Ended season with red card:)
-![antares.png](/uploads/antares.png)
+![anteres.jpg](/uploads/anteres.jpg)
 <div class="divider"></div>
 ##2018 Robot: T-Pose
 *FIRST Power Up*
