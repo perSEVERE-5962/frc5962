@@ -8,18 +8,16 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 <div class="divider"></div>
 ## 2020 Robot: *Coming February 2020*
 *FIRST RISE*
+
+
 ## 2019 Robot: Antares
 *Destination: Deep Space*
-### Robot Resources
-[Reveal Video](https://www.youtube.com/watch?v=26EiVH5yALo)      [CAD Model](https://cad.onshape.com/documents/6ddadaa1401b09b0db981197/w/9b4cabd8c16b3040e3490b17/e/161b1cd32036719df984757d)      [Robot Code](https://github.com/perSEVERE-5962/robotCode)
-[Software Documentation](https://docs.google.com/document/d/1WgOHF0AnV8vpATgtXjAYOdAPVupjYB3YqCQq-tk4akU/edit?usp=sharing)
-### Quick Facts
 1. Status - Retired
 2. Size - 32" L x 27" W x 40" H
 3. Weight - 97 Lbs 
 
 ### Robot Abilities
-* Tank tread 
+* Tank tread
 * Hits like a truck
 * Low level Hatch and Ball
 * Level two hab climb
@@ -29,7 +27,7 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 **North Shore**
 1. Rank 15 with a record of 7-7-1
 2. Alliance 3, eliminated in quarterfinals
-3. District Chairman's Award
+3. District Chairman’s Award
 
 **UNH**
 1. Rank 20 with a record of 5-7-2
@@ -38,11 +36,10 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 
 **NEDCMP**
 1. Rank 61 with a record of 3-9-0
-2. Ended season with red card:).
-
-![2019 Robot: Antares](/media/antares.png)
+2. Ended season with red card:)
+![antares.png](/uploads/antares.png)
 <div class="divider"></div>
-## 2018 Robot: T-Pose
+**2018 Robot: T-Pose
 *FIRST Power Up*
 ### Robot Resources
 [Build Season Documentation ](https://drive.google.com/file/d/1JWv0Coi6OZ4Vyz1uH2o_Ml_jtn2VoeNR/view?usp=sharing)
@@ -128,3 +125,5 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 2. Rookie Inspiration Award
 
 ![scorpio.jpg](/uploads/scorpio.jpg)
+
+
