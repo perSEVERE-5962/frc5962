@@ -9,13 +9,13 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 ## 2020 Robot: *Coming February 2020*
 *FIRST RISE*
 
-###Robot resources
+### Robot resources
 [Reveal Video](coming soon)
 [CAD Model](https://cad.onshape.com/documents/68dce85548079dfad7b1e80a/w/d899c5a6dee52c5114aab0c1/e/62d8292272560235852fb71f)
 [Build Documentation](https://drive.google.com/drive/folders/1CnV7eAEW24l4gZKWawwlTPhfJns1DySC?usp=sharing)
 [Robot Code](https://github.com/perSEVERE-5962/robotCode)
 [Software Documentation ](https://drive.google.com/open?id=100TK3qDJXTKX6wWa_DoFICc5gKBVCUSh)
-###Quick Facts
+### Quick Facts
 1. Status - In Competiiton
 2. Size - 32" L x 26" W x 27" H
 3. Weight - 90 Lbs 
