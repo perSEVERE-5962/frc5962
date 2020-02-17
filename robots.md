@@ -47,7 +47,7 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 [Robot Code](https://github.com/perSEVERE-5962/robotCode)
 [Software Documentation ](https://docs.google.com/document/d/1WgOHF0AnV8vpATgtXjAYOdAPVupjYB3YqCQq-tk4akU/edit#heading=h.w260rrutxnba)
 
-###Quick Facts
+### Quick Facts
 1. Status - Retired
 2. Size - 32" L x 27" W x 40" H
 3. Weight - 97 Lbs 
