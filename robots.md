@@ -22,7 +22,7 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 
 ### Robot Abilities
 * Quick Ball Scorer
-*Quick Level Hang
+* Quick Level Hang
 * Multiple Auto Paths
 
 ### Competitions’
