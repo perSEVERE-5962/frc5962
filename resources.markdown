@@ -10,6 +10,7 @@ We use onshape to design and CAD all of our robots. We have created a document w
 1. [**Onshape Fundamentals**](https://docs.google.com/document/d/1EW8V7WBNBqr19iqDcAsuY5-3FRw1PEwA37WWa0JXmIY/edit?usp=sharing)
 
 We created a 6 wheel colson West Coast drivetrain powered by 6 minicims. This is available for any teams to use and learn from.
+
 **West Coast Chassis**
 * [**CAD**](/uploads/5962%20West%20Coast%20Drive.step)
 
