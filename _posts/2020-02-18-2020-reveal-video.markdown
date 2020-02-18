@@ -4,5 +4,5 @@ date: 2020-02-18 03:39:00 Z
 published: false
 ---
 
-After our first build season with no bag, we're proud to reveal our 20wo season robot, TBD! Check out our reveal video on YouTube:
+After our first build season with no bag, we're proud to reveal our 20wo season robot, TBD! If you want to learn more about the robot click here for documentation Check out our reveal video on YouTube:
 
