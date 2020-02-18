@@ -1,5 +1,6 @@
 ---
-title: 2020 Reveal Video
+title: 'Meet "NAme": Our 2020 Robot Reveal'
 date: 2020-02-18 03:39:00 Z
+published: false
 ---
 
