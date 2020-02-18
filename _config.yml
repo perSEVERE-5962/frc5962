@@ -56,7 +56,7 @@ nav-links:
   url: "/about"
 - name: News
   url: "/news"
-- name: "<center>Robots<center>"
+- name: Robots
   url: "/robots"
 - name: Outreach
   url: "/outreach"
