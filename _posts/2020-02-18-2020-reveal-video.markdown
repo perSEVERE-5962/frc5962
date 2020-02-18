@@ -6,3 +6,7 @@ published: false
 
 After our first build season with no bag, we're proud to reveal our 20wo season robot, TBD! If you want to learn more about the robot click here for documentation Check out our reveal video on YouTube:
 
+<iframe width="560" height="315" src="
+
+
+" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
