@@ -19,7 +19,7 @@ We created a 3 Stage Cascade Linear Slide Powered by 2 775pros This is available
 
 Here is a full robot with a custom drivetrain, linear slide and electrical board. We had trouble on those systems in the past so we wanted to take time to create them for us to improve on and for other teams to learn from.
 **Practice Robot**
-
+* [*CAD*](https://cad.onshape.com/documents/e80495c9718ef658b9602277/w/c900d22023e438b3f3762364/e/de3dcb95c2c5da76a88f254e)
 <div class="divider"></div>
 ## Software 
 We are currently developing motion profile and pathfinder. This will be up soon. In the meantime if you have questions about the software development feel free to [contact us](https://frcpersevere.com/contact). We've got our code for the all of our FRC seasons up on our GitHub right now!
