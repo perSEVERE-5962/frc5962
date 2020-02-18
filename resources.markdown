@@ -3,9 +3,7 @@ title: Resources
 date: 2019-05-01 15:52:00 Z
 ---
 
-Feel free to copy and borrow ideas from our resources, we simply ask that you [let us know](https://frcpersevere.com/contact) if you found them helpful.
-
-More resources are coming soon! Stay Tuned!
+Feel free to copy and borrow ideas from our resources, we simply ask that you [let us know](https://frcpersevere.com/contact) if you found them helpful. More resources are coming! Stay Tuned!
 
 ## Mechanical/CAD
 We use onshape to design and CAD all of our robots. We have created a document with links to all of features you need to know to start Onshape with your team.
