@@ -38,8 +38,10 @@ We are currently designing a FRC electrical board that can be mounted anywhere o
 
 Coming soon
 1. **Electrical Boards**
-* [Electrical Board No Pnuematcis.step]*(/uploads/Electrical%20Board%20No%20Pnuematcis.step)
-*[Electrical Board With Pnuematics.step](/uploads/Electrical%20Board%20With%20Pnuematics.step)
+[Electrical Board No Pnuematcis.step](/uploads/Electrical%20Board%20No%20Pnuematcis.step)
+[Electrical Board With Pnuematics.step](/uploads/Electrical%20Board%20With%20Pnuematics.step)
+
+
 <div class="divider"></div>
 ## Awards
 Here are our latest award submissions.
