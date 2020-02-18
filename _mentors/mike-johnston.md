@@ -3,5 +3,5 @@ title: Mike Johnston
 order-number: 2
 ---
 
-Alt. Lead Mentor
+Alternate Lead Mentor
 President of Merrimack Valley Robotics, Inc.
