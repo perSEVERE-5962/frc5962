@@ -31,7 +31,7 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 
 </div>
 <div class="divider"></div>
-<div class="pics-size-10)" markdown="1">
+<div class="pics-size-2" markdown="1">
 
 ## Silver Sponsors - $500 - $999
 
