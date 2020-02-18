@@ -14,6 +14,8 @@ We use onshape to design and CAD all of our robots. We have created a document w
 We created a 6 wheel colson West Coast drivetrain powered by 6 minicims. This is available for any teams to use and learn from.
 2. **West Coast Chassis**
 * [CAD](https://cad.onshape.com/documents/e80495c9718ef658b9602277/w/c900d22023e438b3f3762364/e/1785311103a4f3caaf46ebd2)
+We created a 3 Stage Cascade Linear Slide Powered by 2 775pros This is available for any teams to use and learn from.
+2. **West Coast Chassis**
 3. **Cascade 3 Stage Linear Slide**
 * [CAD](https://cad.onshape.com/documents/e80495c9718ef658b9602277/w/c900d22023e438b3f3762364/e/de3dcb95c2c5da76a88f254e)
 <div class="divider"></div>
