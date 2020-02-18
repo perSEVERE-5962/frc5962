@@ -3,7 +3,7 @@ title: Jamie Woodhead
 date: 2019-04-26 13:52:00 Z
 role: |-
   <pre>Lead Mentor
-  Vice President of Merrimack Valley Robotics, Inc
+  Vice President of Merrimack Valley Robotics, Inc.
   Parent of Student Team Member</pre>
 order-number: 1
 name: Jamie Woodhead
