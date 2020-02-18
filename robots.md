@@ -8,6 +8,7 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 <div class="divider"></div>
 ## 2020 Robot: *Coming February 2020*
 *FIRST RISE*
+
 ### Robot resources
 [Reveal Video](coming soon)
 [CAD Model](https://cad.onshape.com/documents/68dce85548079dfad7b1e80a/w/d899c5a6dee52c5114aab0c1/e/62d8292272560235852fb71f)
