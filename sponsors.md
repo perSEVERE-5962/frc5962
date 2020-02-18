@@ -45,7 +45,7 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 <div class="pics-size-4" markdown="1">
 
 ## Bronze Sponsors - $100 - $499
-
+![primos.jpg](/uploads/primos.jpg)
 
 
 </div>
