@@ -41,4 +41,4 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 ![primos.jpg](/uploads/primos.jpg)
 </div>
 <div class="divider"></div>
-<div class="pics-size-4" markdown="1">
+<div class="pics-size-7" markdown="1">
