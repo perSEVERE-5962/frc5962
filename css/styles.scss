@@ -280,8 +280,8 @@ h3 {
 }
 
 .small-header {
-    height: 10rem;
-    background: $off-white;
+    min-height: calc(100% + 10rem);
+    max-height: 40vh;
 }
 
 /* FOOTER */
