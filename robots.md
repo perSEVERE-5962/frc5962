@@ -1,5 +1,5 @@
 ---
-title: "<center>Our Robots<center>"
+title: Our Robots
 hero-img-url: "/media/antares.png"
 hero-title: Our Robots
 ---
