@@ -20,6 +20,7 @@ We created a 3 Stage Cascade Linear Slide Powered by 2 775pros This is available
 * [**CAD**](/uploads/3%20Stage%20Cascade%20Linear%20Slide.step)
 
 Here is a full robot with a custom drivetrain, linear slide and electrical board. We had trouble on those systems in the past so we wanted to take time to create them for us to improve on and for other teams to learn from.
+
 **Practice Robot**
 * [*CAD*](https://cad.onshape.com/documents/e80495c9718ef658b9602277/w/c900d22023e438b3f3762364/e/de3dcb95c2c5da76a88f254e)
 <div class="divider"></div>
