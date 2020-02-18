@@ -18,7 +18,7 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 ### Quick Facts
 1. Status - In Competiiton
 2. Size - 32" L x 26" W x 27" H
-3. Weight - 90 Lbs 
+3. Weight - 80 Lbs 
 
 ### Robot Abilities
 * Quick Ball Scorer
