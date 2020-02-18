@@ -11,9 +11,7 @@ If you would like to sponsor FRC Team 5962 fill out our [Sponsorship Request For
 Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack Valley Robotics, P.O. Box 1152, Lowell, MA 01853**.
 <div class="divider"></div>
 <div class="pics-size-1" markdown="1">
-
 ## Gold Sponsors - $1000+
-
 ![mvr-1e2981.jpg](/uploads/mvr-1e2981.jpg)
 ![uml.jpg](/uploads/uml.jpg)
 ![adi.jpg](/uploads/adi.jpg)
@@ -28,26 +26,19 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 ![teraydne.png](/uploads/teraydne.png)
 ![CC-Logo (1).jpg](/uploads/CC-Logo%20(1).jpg)
 ![APEX.png](/uploads/APEX.png)
-
 </div>
 <div class="divider"></div>
 <div class="pics-size-2" markdown="1">
-
 ## Silver Sponsors - $500 - $999
 ![neb.png](/uploads/neb.png)
 ![kronos.jpg](/uploads/kronos.jpg)
-![fisher unitech.jpg](/uploads/fisher%20unitech.jpg)
 ![workers-credit-union-1600x510.jpg](/uploads/workers-credit-union-1600x510.jpg)
-
-
+![fisher unitech.jpg](/uploads/fisher%20unitech.jpg)
 </div>
 <div class="divider"></div>
 <div class="pics-size-3" markdown="1">
-
 ## Bronze Sponsors - $100 - $499
 ![primos.jpg](/uploads/primos.jpg)
-
-
 </div>
 <div class="divider"></div>
 <div class="pics-size-4" markdown="1">
