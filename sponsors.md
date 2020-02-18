@@ -32,6 +32,7 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 ## Silver Sponsors - $500 - $999
 ![neb.png](/uploads/neb.png)
 ![kronos.jpg](/uploads/kronos.jpg)
+
 ![workers-credit-union-1600x510.jpg](/uploads/workers-credit-union-1600x510.jpg)
 ![fisher unitech.jpg](/uploads/fisher%20unitech.jpg)
 </div>
