@@ -1,7 +1,26 @@
+<!-- find hero of news page and use it for posts -->
+{% for item in site.pages %}
+    {% if item.title == 'News' %}
+      {% assign post-hero = item.hero-img-url %}
+    {% endif %}
+{% endfor %}
+
 <header class="small-header">
-  <div id="hero" style="background-image: url({{ page.hero-img-url }})"></div>
+  <div id="hero" style="background-image: url(
+    {% if page.path contains '_posts' %}
+      {{post-hero}}
+    {% else %}
+      {{ page.hero-img-url }}
+    {% endif %}
+  )"></div>
 
   <div class="container light-overlay">
-      <h1 class="hero-content">{{ page.hero-title }}</h1>
+      <h1 class="hero-content">
+        {% if page.path contains '_posts' %}
+          {{page.title}}
+        {% else %}
+          {{ page.hero-title }}
+        {% endif %}
+      </h1>
   </div>
 </header>
