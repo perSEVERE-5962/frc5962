@@ -7,7 +7,7 @@ layout: default-with-hero
 
 ## Our Story and Mission
 
-In April 2015, a few engineers from Analog Devices approached Dracut High School to explore the possibility of starting an FRC team as part of the school's Robotics Club. Despite months of effort from many people, the school was, unfortunately, unable to support an FRC team.
+In April 2015, an engineer from Analog Devices approached Dracut High School to explore the possibility of starting an FRC team as part of the school's Robotics Club. Despite initial hopes and months of effort from many people, the school was, unfortunately, unable to support an FRC team.
 
 Undeterred, 5 students and 4 mentors opened Team 5962 to anyone from the area, rather than only students at a single high school. We approached the University of Massachusetts Lowell, and the College of Engineering graciously offered the use of its Makerspace.
 
@@ -20,7 +20,7 @@ With our parent organization, Merrimack Valley Robotics, we extend that mission 
 
 ## Our Home
 
-We meet at the UMass Lowell Makerspace (Falmouth 102) a few times a week. This space has graciously offered to us by the Francis College of Engineering since 2016. We have access to 3D printers, laser cutters, power tools, laptops, mills, and CNCs.
+We meet at the UMass Lowell Makerspace (Falmouth 102) a few times a week. This space is graciously offered to us by the Francis College of Engineering. We have access to 3D printers, laser cutters, power tools, laptops, mills, and CNCs.
 
 <div class="divider"></div>
 
@@ -43,7 +43,7 @@ We have students from many different towns and schools from the Merrimack valley
 
 ## Our Mentors
 
-Team mentors work for businesses in the area, are parents of team members, are students at UMASS Lowell where the team meets. The mentors are all volunteers, offering hundreds of hours (or more) of service each year to help the team out.
+Team mentors work for businesses in the area, are parents of team members, and are students at UMass Lowell where the team meets. The mentors are all volunteers, offering hundreds of hours (or more) of service each year to help the team out.
 <article class="grid two-columns" markdown="1">
 {% assign ordered-mentors = site.mentors | sort: "order-number" %}
 {% for mentor in ordered-mentors %}
