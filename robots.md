@@ -160,6 +160,6 @@ hero-title: Our Robots
 1. Rank 61 with a record of 2-10-0 
 2. Rookie Inspiration Award
 
-![scorpio.jpg](/uploads/scorpio.jpg)
+![scorpio.jpg](/uploads/scorpio.jpg)<center>
 
 
