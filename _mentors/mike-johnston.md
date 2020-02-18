@@ -1,8 +1,8 @@
 ---
 title: Mike Johnston
 role: |-
-  Alt. Lead Mentor <br>
-  President of Merrimack Valley Robotics, Inc.
+  <pre>Alt. Lead Mentor
+  President of Merrimack Valley Robotics, Inc.</pre>
 order-number: 2
 ---
 
