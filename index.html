@@ -28,45 +28,47 @@ hero-content: |
 </header>
 
 <section class="container-thin">
-    <article class="grid two-columns">
-        <div>
-            <h2>About Us</h2>
-            {{ site.homepage_about_text }}
-            <a href="about" class="button">Learn More</a>
-        </div>
-        <div>
-            <img class="rounded" src="media/week0-team.jpg" alt="Group photo of Team 5962 at Bishop Guertin Week 0 Event 2020">
-        </div>
-    </article>
+    <div class="content">
+        <article class="grid two-columns">
+            <div>
+                <h2>About Us</h2>
+                {{ site.homepage_about_text }}
+                <a href="about" class="button">Learn More</a>
+            </div>
+            <div>
+                <img class="rounded" src="media/week0-team.jpg" alt="Group photo of Team 5962 at Bishop Guertin Week 0 Event 2020">
+            </div>
+        </article>
 
-    <div class="divider"></div>
-    
-    <article class="grid two-columns">
-        <div>
-            <img class="rounded" src="media/wis.jpg" alt="Women in STEM event photo">
-        </div>
-        <div>
-            <h2>Latest Updates</h2>
-            {% for post in site.posts limit:3 %}
-            <p><i><a href="{{ post.url }}">{{ post.date | date: "%B %-d" }}</a></i>: {{ post.content | strip_html | truncatewords: 40 }}</p>
-            {% endfor %}
-            <a href="news" class="button button-primary">More News</a>
-        </div>
-    </article>
+        <div class="divider"></div>
+        
+        <article class="grid two-columns">
+            <div>
+                <img class="rounded" src="media/wis.jpg" alt="Women in STEM event photo">
+            </div>
+            <div>
+                <h2>Latest Updates</h2>
+                {% for post in site.posts limit:3 %}
+                <p><i><a href="{{ post.url }}">{{ post.date | date: "%B %-d" }}</a></i>: {{ post.content | strip_html | truncatewords: 40 }}</p>
+                {% endfor %}
+                <a href="news" class="button button-primary">More News</a>
+            </div>
+        </article>
 
-    <div class="divider"></div>
+        <div class="divider"></div>
 
-    <article class="grid two-columns">
-        <div>
-            <h2>Sponsors</h2>
-            {{ site.homepage_sponsor_text }}
+        <article class="grid two-columns">
+            <div>
+                <h2>Sponsors</h2>
+                {{ site.homepage_sponsor_text }}
 
-            <a href="sponsors" class="button button-primary">Sponsor</a>
-        </div>
-        <div>
-            <img class="rounded" src="media/week0-drive-team.jpg" alt="Team 5962 Drive Team at Bishop Guertin Week 0 Event 2020">
-        </div>
-    </article>
+                <a href="sponsors" class="button button-primary">Sponsor</a>
+            </div>
+            <div>
+                <img class="rounded" src="media/week0-drive-team.jpg" alt="Team 5962 Drive Team at Bishop Guertin Week 0 Event 2020">
+            </div>
+        </article>
+    </div>
 </section>
 
 <script>
