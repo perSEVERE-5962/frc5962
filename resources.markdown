@@ -56,7 +56,7 @@ Every year we create a Business Plan to help plan our budget and fundraising. We
 1. [**Business Plan 2019-2020**](https://docs.google.com/document/d/1WJFH7Q3jdkd5h0qAjHdc1_-HC7mRxRFzdW_oiN_ZC4I/edit)
 <div class="divider"></div>
 ## Team Manual
-A team manual is a necessary guide for all team logistics for students and mentors
+A team manual is a necessary guide for all team logistics for students and mentors.
 1. [**Team Manual**](https://drive.google.com/open?id=1V4HHS-IIRkqcgn-rOXv6j44vs3KDZjWadIFHNSasaXo)
 <div class="divider"></div>
 ## Safety Manual
