@@ -17,7 +17,7 @@ We created a 6 wheel colson West Coast drivetrain powered by 6 minicims. This is
 
 We created a 3 Stage Cascade Linear Slide Powered by 2 775pros This is available for any teams to use and learn from.
 3. **Cascade 3 Stage Linear Slide**
-* [3 Stage Cascade Linear Slide.step](/uploads/3%20Stage%20Cascade%20Linear%20Slide.step)
+* [**CAD**](/uploads/3%20Stage%20Cascade%20Linear%20Slide.step)
 <div class="divider"></div>
 ## Software 
 We are currently developing motion profile and pathfinder. This will be up soon. In the meantime if you have questions about the software development feel free to [contact us](https://frcpersevere.com/contact). We've got our code for the all of our FRC seasons up on our GitHub right now!
