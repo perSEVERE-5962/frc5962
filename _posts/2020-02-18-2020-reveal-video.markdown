@@ -1,5 +1,5 @@
 ---
-title: 'Meet "NAme": Our 2020 Robot Reveal'
+title: 'Meet "Name": Our 2020 Robot Reveal'
 date: 2020-02-18 03:39:00 Z
 published: false
 ---
