@@ -38,9 +38,10 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 ![kronos.jpg](/uploads/kronos.jpg)
 ![fisher unitech.jpg](/uploads/fisher%20unitech.jpg)
 ![workers-credit-union-1600x510.jpg](/uploads/workers-credit-union-1600x510.jpg)
+
 </div>
 <div class="divider"></div>
-<div class="pics-size-2" markdown="1">
+<div class="pics-size-3)" markdown="1">
 
 ## Bronze Sponsors - $100 - $499
 ![primos.jpg](/uploads/primos.jpg)
@@ -48,4 +49,4 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 
 </div>
 <div class="divider"></div>
-<div class="pics-size-1" markdown="1">
+<div class="pics-size-3)" markdown="1">
