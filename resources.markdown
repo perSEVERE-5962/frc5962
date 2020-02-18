@@ -10,12 +10,15 @@ We use onshape to design and CAD all of our robots. We have created a document w
 1. [**Onshape Fundamentals**](https://docs.google.com/document/d/1EW8V7WBNBqr19iqDcAsuY5-3FRw1PEwA37WWa0JXmIY/edit?usp=sharing)
 
 We created a 6 wheel colson West Coast drivetrain powered by 6 minicims. This is available for any teams to use and learn from.
-2. **West Coast Chassis**
+**West Coast Chassis**
 * [**CAD**](/uploads/5962%20West%20Coast%20Drive.step)
 
 We created a 3 Stage Cascade Linear Slide Powered by 2 775pros This is available for any teams to use and learn from.
 3. **Cascade 3 Stage Linear Slide**
 * [**CAD**](/uploads/3%20Stage%20Cascade%20Linear%20Slide.step)
+
+Here is a full robot with a custom drivetrain, linear slide and electrical board. We had trouble on those systems in the past so we wanted to take time to create them for us to improve on and for other teams to learn from.
+4. **Practice Robot**
 <div class="divider"></div>
 ## Software 
 We are currently developing motion profile and pathfinder. This will be up soon. In the meantime if you have questions about the software development feel free to [contact us](https://frcpersevere.com/contact). We've got our code for the all of our FRC seasons up on our GitHub right now!
