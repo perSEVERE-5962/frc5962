@@ -28,9 +28,8 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 ### Competitions
 **Week Zero**
 1. Rank 6 with a record of 6-3-0
-2. Alliance 5 Captain, eliminated in finals
-3. Finalist
-4. World's First Official Climb
+2. Alliance 5 Captain, Finalist
+3. World's First Official Climb
 
 **North Shore**
 1. Coming soon
