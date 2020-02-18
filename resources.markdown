@@ -34,10 +34,8 @@ More resources that are coming soon
 5. **Pathfinder**
 <div class="divider"></div>
 ## Electrical
-We are currently designing a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management.
-
-Coming soon
-1. **Electrical Boards**
+We aesigned a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management.
+**Electrical Boards**
 1. [Electrical Board No Pnuematcis](/uploads/Electrical%20Board%20No%20Pnuematcis.step)
 2. [Electrical Board With Pnuematics](/uploads/Electrical%20Board%20With%20Pnuematics.step)
 
