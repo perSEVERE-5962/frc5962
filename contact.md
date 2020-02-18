@@ -1,7 +1,7 @@
 ---
 title: Contact
 hero-title: Contact
-hero-img-url: 
+hero-img-url: /media/unh.jpg
 ---
 
 ## Contact Us
