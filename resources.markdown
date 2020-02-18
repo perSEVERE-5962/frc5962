@@ -11,7 +11,7 @@ More resources are coming soon! Stay Tuned!
 We use onshape to design and CAD all of our robots. We have created a document with links to all of features you need to know to start Onshape with your team.
 1. [**Onshape Fundamentals**](https://docs.google.com/document/d/1EW8V7WBNBqr19iqDcAsuY5-3FRw1PEwA37WWa0JXmIY/edit?usp=sharing)
 
-We created a West Coast drivetrain
+We created a 6 wheel colson West Coast drivetrain powered by 6 minicims. This is available for any teams to use and learn from
 2. **West Coast Chassis**
 * CAD
 * Instructions
