@@ -1,6 +1,7 @@
 ---
 title: Resources
 date: 2019-05-01 15:52:00 Z
+hero-title: Resources
 ---
 
 Feel free to copy and borrow ideas from our resources, we simply ask that you [let us know](https://frcpersevere.com/contact) if you found them helpful. All of our CAD Files are STEP files, if you have trouble opening them please [contact us](https://frcpersevere.com/contact). More resources are coming. Stay Tuned!
