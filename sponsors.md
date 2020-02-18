@@ -26,7 +26,7 @@ Our mailing address for sponsorship request forms is **FRC Team 5962, Merrimack 
 ![juniper.png](/uploads/juniper.png)
 ![NBL.png](/uploads/NBL.png)
 ![teradyne.png](/uploads/teradyne.png)
-![carbon colors-311e2f.jpg](/uploads/carbon%20colors-311e2f.jpg
+![carbon colors-311e2f.jpg](/uploads/carbon%20colors-311e2f.jpg)
 
 </div>
 <div class="divider"></div>
