@@ -1,6 +1,6 @@
 ---
 title: Dave LeMasurier
-role: Lead Software Mentor
+role: Software Mentor
 order-number: 3
 ---
 
