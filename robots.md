@@ -1,6 +1,6 @@
 ---
 title: Our Robots
-hero-img-url: "/media/antares.png"
+hero-img-url: "/media/week0-robot.jpg"
 hero-title: Our Robots
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: News
-hero-img-url: "/media/unh.jpg"
+hero-img-url: "/media/week0-finals-hang.jpg"
 hero-title: News
 ---
 
