@@ -36,6 +36,7 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 
 **Bedford**
 1. Coming soon
+![e6a84d8ec53143e5933186e219a71f09 (1).jpg](/uploads/e6a84d8ec53143e5933186e219a71f09%20(1).jpg)
 <div class="divider"></div>
 ## 2019 Robot: Antares
 *Destination: Deep Space*
