@@ -18,7 +18,7 @@ Lowell, MA 01853<br>
 
 <div class="divider"></div>
 
-## Gold Sponsors - $1000\+
+## Gold Sponsors
 
 <div class="sponsor-pics" markdown="1">
 ![mvr-1e2981.jpg](/uploads/mvr-1e2981.jpg)
@@ -38,7 +38,7 @@ Lowell, MA 01853<br>
 </div>
 <div class="divider"></div>
 
-## Silver Sponsors - $500 - $999
+## Silver Sponsors
 
 <div class="sponsor-pics" markdown="1">
 ![neb.png](/uploads/neb.png)
@@ -48,7 +48,7 @@ Lowell, MA 01853<br>
 </div>
 <div class="divider"></div>
 
-## Bronze Sponsors - $100 - $499
+## Bronze Sponsors 
 
 <div class="sponsor-pics" markdown="1">
 ![primos.jpg](/uploads/primos.jpg)
