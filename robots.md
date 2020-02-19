@@ -4,7 +4,7 @@ hero-img-url: "/media/week0-robot.jpg"
 hero-title: Our Robots
 ---
 
-Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Robotics Competition (FRC) challenge. Since then we have competed at local offseason events, district qualifying events in Massachusetts and New Hampshire, the New England District Championship and even the World Championship in Detroit. Here are our Robots!
+Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Competition (FRC) challenge. We have competed at local off-season events, district qualifying events in Massachusetts and New Hampshire, the New England District Championship and even the World Championship in Detroit. <br>Here are our Robots!
 <div class="divider"></div>
 ## 2020 Robot: *NAME TBD*
 *FIRST RISE*
@@ -132,7 +132,7 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 
 ![stinger.jpg](/uploads/stinger.jpg) 
 <div class="divider"></div>
-## 2016 Robot: Scropio
+## 2016 Robot: Scorpio
 *FIRST Stronghold*
 ### Quick Facts
 1. Status - Completely gone
