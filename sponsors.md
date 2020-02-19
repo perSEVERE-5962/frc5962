@@ -10,15 +10,13 @@ Our sponsors are a big reason for our success, and we are incredibly grateful fo
 
 If you would like to sponsor FRC Team 5962, please use our [Sponsorship Request Form](https://docs.google.com/document/d/1uyhAb26nqWgYaaHQmjEV63Pm3g7mU7VQ0f5xBUOJ850/edit?usp=sharing)
 
-Our mailing address for sponsorship request forms is 
+Our mailing address is 
 
-## **`FRC Team 5962`**
+FRC Team 5962
+Merrimack Valley Robotics, Inc.
+P.O. Box 1152
+Lowell, MA 01853
 
-## **`Merrimack Valley Robotics, Inc.`**
-
-## **` P.O. Box 1152`**
-
-## **`Lowell, MA 01853`**
 <div class="divider"></div>
 
 ## Gold Sponsors - $1000\+
