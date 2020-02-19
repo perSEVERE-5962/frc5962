@@ -41,8 +41,8 @@ More resources that are coming soon
 We aesigned a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management.
 
 **Electrical Boards**
-1. [**Electrical Board No Pnuematics**](/uploads/Electrical%20Board%20No%20Pnuematcis%20(1).step)
-2. [**Electrical Board With Pnuematics**](/uploads/Electrical%20Board%20With%20Pnuematics.step)
+1. [**Electrical Board No Pnuematics**](https://drive.google.com/file/d/1bpSdBT4_TgeEp8lvhRSjUYhGw6UaM5q4/view?usp=sharing)
+2. [**Electrical Board With Pnuematics**](https://drive.google.com/file/d/1mza617qc-NxUCqU8GrNgUuYf-lT-7L8A/view?usp=sharing)
 
 
 <div class="divider"></div>
