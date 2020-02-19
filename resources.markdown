@@ -19,7 +19,7 @@ We created a 6 wheel colson West Coast drivetrain powered by 6 minicims. This is
 We created a 3 Stage Cascade Linear Slide Powered by 2 775pros This is available for any teams to use and learn from.
 
 **Cascade 3 Stage Linear Slide**
-* [**CAD**](/uploads/3%20Stage%20Cascade%20Linear%20Slide.step)
+* [**CAD**](https://drive.google.com/file/d/10uN9s3oOPhki4IremRiDv75slZNaS1C2/view?usp=sharing)
 
 Here is a full robot with a custom drivetrain, linear slide and electrical board. We had trouble on those systems in the past so we wanted to take time to create them for us to improve on and for other teams to learn from.
 
