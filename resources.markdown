@@ -43,6 +43,7 @@ We aesigned a FRC electrical board that can be mounted anywhere on a robot, has 
 **Electrical Boards**
 
 1. [**Electrical Board No Pnuematics**](/uploads/Electrical%20Board%20No%20Pnuematcis%20(1).step)
+
 2.[**Electrical Board With Pnuematics**](/uploads/Electrical%20Board%20With%20Pnuematics.step)
 
 
