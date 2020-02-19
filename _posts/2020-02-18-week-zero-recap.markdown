@@ -1,6 +1,6 @@
 ---
 title: Week Zero Recap
-date: 2020-02-17 15:00:00 Z
+date: 2020-02-18 19:00:00 Z
 ---
 
 Here is our Week Zero Recap! <br>
