@@ -36,7 +36,6 @@ Since 2016 FRC Team 5962 has made four robots to compete in that years FIRST Rob
 
 **Bedford**
 1. Coming soon
-![e6a84d8ec53143e5933186e219a71f09.jpeg](/uploads/e6a84d8ec53143e5933186e219a71f09.jpeg)
 <div class="divider"></div>
 ## 2019 Robot: Antares
 *Destination: Deep Space*
