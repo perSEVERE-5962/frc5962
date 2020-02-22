@@ -36,6 +36,7 @@ We are currently developing motion profile and pathfinder. This will be up soon.
 More resources that are coming soon
 4. **Talon SRX Motion Profile**
 5. **Pathfinder**
+6. **2020 Scouting App**
 <div class="divider"></div>
 ## Electrical
 We aesigned a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management.
