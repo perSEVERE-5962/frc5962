@@ -39,7 +39,7 @@ More resources that are coming soon
 6. **2020 Scouting App**
 <div class="divider"></div>
 ## Electrical
-We aesigned a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management.
+We designed a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management.
 
 **Electrical Boards**
 1. [**Electrical Board No Pnuematics**](https://drive.google.com/file/d/1bpSdBT4_TgeEp8lvhRSjUYhGw6UaM5q4/view?usp=sharing)
