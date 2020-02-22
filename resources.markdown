@@ -63,7 +63,7 @@ A team manual is a necessary guide for all team logistics for students and mento
 1. [**Team Manual**](https://drive.google.com/open?id=1V4HHS-IIRkqcgn-rOXv6j44vs3KDZjWadIFHNSasaXo)
 <div class="divider"></div>
 ## Safety Manual
-Since day one we have had a strong saftey program to make sure everyone on our team is safe. This includes a team safety manual, tool training and saftey quizzes.
+Since day one we have had a strong saftey program to make sure everyone on our team is safe. This includes a team safety manual, tool training and safety quizzes.
 1. [**Safety Manual**](https://docs.google.com/document/d/1oKhk3WXcw2LXKPLWLW2FS7eSsgwbKcDd9MzfdhAFvlk/edit?usp=sharing)
 <div class="divider"></div>
 ## Website Design
