@@ -6,7 +6,7 @@ hero-title: Our Robots
 
 Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Competition (FRC) challenge. We have competed at local off-season events, district qualifying events in Massachusetts and New Hampshire, the New England District Championship and even the World Championship in Detroit. <br>Here are our Robots!
 <div class="divider"></div>
-## 2020 Robot: *NAME TBD*
+## 2020 Robot: *TRENCHWALKER*
 *FIRST RISE*
 
 ### Robot resources
