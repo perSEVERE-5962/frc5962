@@ -33,7 +33,7 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 3. World's First Official Climb
 
 **North Shore**
-1. CANCELLED due to COVID-19
+1. CANCELLED due to health concerns
 
 **Bedford**
 1. Coming soon
