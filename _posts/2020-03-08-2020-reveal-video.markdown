@@ -6,3 +6,5 @@ date: 2020-03-08 17:00:00 Z
 After our first build season with no bag, we're proud to reveal our 2020 season robot, TBD! If you want to learn more about the robot [click here for documentation](https://frcpersevere.com/robots) 
 
 ![image.jpg](/uploads/image.jpg)
+[sstg-C32660E0-FF4B-4F13-AFD2-8B61BB47E52C.mov](/uploads/sstg-C32660E0-FF4B-4F13-AFD2-8B61BB47E52C.mov)
+
