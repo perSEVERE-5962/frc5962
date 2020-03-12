@@ -1,8 +1,9 @@
 ---
-title: North Shore Recap
+title: 2020 Competitions
 date: 2020-03-11 09:00:00 Z
 ---
 
-Our Reading Competition has been cancelled due to health concerns. 
+2020 FRC Season has been cancelled due to health concerns. 
 
-Here is the official statement from [NEFIRST](https://nefirst.org/2020/03/ne-first-covid-19-preparation/)
+Here is the official statement from [FIRST
+](https://www.firstinspires.org/covid-19)
