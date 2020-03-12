@@ -1,6 +1,6 @@
 ---
 title: North Shore Recap
 date: 2020-02-18 03:49:00 Z
-published: false
 ---
 
+Our Reading Competition has been cancelled due to health concerns. 
