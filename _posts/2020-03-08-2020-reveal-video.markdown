@@ -1,5 +1,5 @@
 ---
-title: 'Meet "TRENCHWALKER": Our 2020 Robot Reveal'
+title: 'Meet TRENCHWALKER: Our 2020 Robot Reveal'
 date: 2020-03-08 17:00:00 Z
 ---
 
