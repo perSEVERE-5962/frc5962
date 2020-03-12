@@ -1,7 +1,6 @@
 ---
 title: 'Meet "TRENCHWALKER: Our 2020 Robot Reveal'
-date: 2020-02-18 03:39:00 Z
-published: false
+date: 2020-03-08 17:00:00 Z
 ---
 
 After our first build season with no bag, we're proud to reveal our 2020 season robot, TBD! If you want to learn more about the robot [click here for documentation](https://frcpersevere.com/robots) 
