@@ -1,12 +1,7 @@
 ---
-title: 'Meet "Name": Our 2020 Robot Reveal'
+title: 'Meet "TRENCHWALKER: Our 2020 Robot Reveal'
 date: 2020-02-18 03:39:00 Z
 published: false
 ---
 
-After our first build season with no bag, we're proud to reveal our 2020 season robot, TBD! If you want to learn more about the robot [click here for documentation](https://frcpersevere.com/robots) Check out our reveal video on YouTube:
-
-<iframe width="560" height="315" src="
-
-
-" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+After our first build season with no bag, we're proud to reveal our 2020 season robot, TBD! If you want to learn more about the robot [click here for documentation](https://frcpersevere.com/robots) 
