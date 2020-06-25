@@ -6,4 +6,4 @@ date: 2020-04-15 00:00:00 Z
 During quarantine our software team has been working on using RC cars to practice autonomously programming them. This helps student learn programming for when the code the competition robot for both autonomous and tele-operated modes.
 
 1. [RC Overview](https://docs.google.com/presentation/d/1cCzxDdymrCvv4baDHqeTO_BpOniDoUth-gmCQQ9herI/edit?usp=sharing)
-1. RC in actionn(Media on RC cars coming very soon, please stay tuned!)
+1. RC in actionn (Media on RC cars coming very soon, please stay tuned!)
