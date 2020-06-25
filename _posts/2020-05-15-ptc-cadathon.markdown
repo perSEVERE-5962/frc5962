@@ -9,3 +9,5 @@ Our mechanical design team participated in a CADathon hosted by PTC and Onshape.
 2. [Our alliances CAD altogether](https://cad.onshape.com/documents/4cee278fab7d93ce9a8baf3e/w/bc093e3d47eb5d6c63fe2b01/e/1c3f3a247e3edf1ca524a165)
 3. [Our Design Information](https://docs.google.com/document/d/1osmw3NvZfzLelL8pjB3a_et2_P0ztA7sI75Yt5uqhKo/edit?usp=sharing)
 
+![6A5F013F-D948-4B2C-9E31-18E2EDEFCFB9.png](/uploads/6A5F013F-D948-4B2C-9E31-18E2EDEFCFB9.png)
+
