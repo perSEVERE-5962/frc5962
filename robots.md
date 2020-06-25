@@ -36,7 +36,7 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 1. CANCELLED due to health concerns
 
 **Bedford**
-1. Coming soon
+1. CANCELLED due to health concerns
 ![TRENCHWALKER.jpeg](/uploads/TRENCHWALKER.jpeg)
 <div class="divider"></div>
 ## 2019 Robot: Antares
