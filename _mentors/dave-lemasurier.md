@@ -1,5 +1,5 @@
 ---
-title: Dave LeMasurier
+title: David LeMasurier
 position: 1
 role: |-
   Alternate Lead Mentor<br>
