@@ -5,7 +5,7 @@ position: 2
 role: |-
   Mechanical Mentor<br>
   FRC 166 Alumnus
-order-number: 4
+order-number: 3
 name: Alex Brunelle
 ---
 
