@@ -54,11 +54,11 @@ Here are our latest award submissions.
 <div class="divider"></div>
 ## Business Plan
 Every year we create a Business Plan to help plan our budget and fundraising. We create a SWOT analysis to help plan our fundraising goals. We use our previous years data to help create our upcoming seasons Business Plan.
-1. [**Business Plan 2019-2020**](https://docs.google.com/document/d/1WJFH7Q3jdkd5h0qAjHdc1_-HC7mRxRFzdW_oiN_ZC4I/edit)
+1. [**Business Plan 2021-2022**](https://drive.google.com/file/d/1uhIYzft_O3XGHbBx7blEg3MurehLVMVo/view?usp=sharing)
 <div class="divider"></div>
 ## Team Manual
 A team manual is a necessary guide for all team logistics for students and mentors.
-1. [**Team Manual**](https://drive.google.com/open?id=1V4HHS-IIRkqcgn-rOXv6j44vs3KDZjWadIFHNSasaXo)
+1. [**Team Manual**](https://drive.google.com/file/d/1sbC_Gx7ZHA6S1MpUZxFaxsEj6lZKqjq6/view?usp=sharing)
 <div class="divider"></div>
 ## Safety Manual
 Since day one we have had a strong saftey program to make sure everyone on our team is safe. This includes a team safety manual, tool training and safety quizzes.
