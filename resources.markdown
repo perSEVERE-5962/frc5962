@@ -30,13 +30,11 @@ Here is a full robot with a custom drivetrain, linear slide and electrical board
 We are currently developing motion profile and pathfinder. This will be up soon. In the meantime if you have questions about the software development feel free to [contact us](https://frcpersevere.com/contact). We've got our code for the all of our FRC seasons up on our GitHub right now!
 
 1. [**FRC 5962 Github**](https://github.com/perSEVERE-5962)
-2. [**PID control**](https://github.com/perSEVERE-5962/robotCode/blob/2019/src/main/java/frc/robot/sensors/pidControl.java)
-3. [**Sensor Control**](https://github.com/perSEVERE-5962/robotCode/tree/2019/src/main/java/frc/robot/sensors)
+2. [**Vision**](https://github.com/perSEVERE-5962/robotCode/blob/2020/src/main/python/vision)
+3. [**HC-SR04 on raspberry Pi**](https://github.com/perSEVERE-5962/robotCode/tree/2020/src/main/python/hc-sr04)
 
-More resources that are coming soon
-4. **Talon SRX Motion Profile**
-5. **Pathfinder**
-6. **2020 Scouting App**
+More resources coming soon
+
 <div class="divider"></div>
 ## Electrical
 We designed a FRC electrical board that can be mounted anywhere on a robot, has easy access and clean wire management.
