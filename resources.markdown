@@ -65,6 +65,6 @@ Since day one we have had a strong saftey program to make sure everyone on our t
 1. [**Safety Manual**](https://docs.google.com/document/d/1oKhk3WXcw2LXKPLWLW2FS7eSsgwbKcDd9MzfdhAFvlk/edit?usp=sharing)
 <div class="divider"></div>
 ## Website Design
-Our website was designed and developed by [Kat Huang '19](https://github.com/katavie) and is maintained by the team. It uses Jekyll (static site generator), Github Pages (static site hosting), and Siteleaf (content management system).
+Our website was designed and developed by [Kat Huang '19] and is maintained by the team. It uses Jekyll (static site generator), Github Pages (static site hosting), and Siteleaf (content management system).
 If you want to learn more on how to create your own custom codded and designed website feel free to [contact us](https://frcpersevere.com/contact).
-* [**Source code**](https://github.com/katavie/frc5962) for our website. 
+* [**Source code**](https://github.com/perSEVERE-5962/frc5962) for our website. 
