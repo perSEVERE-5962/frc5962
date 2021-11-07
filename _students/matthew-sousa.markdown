@@ -2,6 +2,6 @@
 title: Matthew Sousa
 date: 2021-11-07 19:23:00 Z
 grad-year: 2025
-school: Tyngsboro High School
+school: Tyngsborough High School
 ---
 
