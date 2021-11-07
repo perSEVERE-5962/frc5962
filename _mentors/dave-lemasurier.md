@@ -1,6 +1,6 @@
 ---
 title: Dave LeMasurier
-position: 2
+position: 1
 role: |-
   Alternate Lead Mentor<br>
   Software Mentor
