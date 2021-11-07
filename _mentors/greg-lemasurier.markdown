@@ -1,7 +1,7 @@
 ---
 title: Greg LeMasurier
 date: 2019-04-26 14:28:00 Z
-position: 0
+position: 1
 role: |-
   Software Mentor<br>
   Student at UMass Lowell<br>
