@@ -43,8 +43,7 @@ Nana & Papa L.
 ## Silver Sponsors
 
 <div class="sponsor-pics" markdown="1">
-
-
+![DCU-Green-Logo-768x284.png](/uploads/DCU-Green-Logo-768x284.png)
 </div>
 <div class="divider"></div>
 
@@ -52,6 +51,9 @@ Nana & Papa L.
 
 <div class="sponsor-pics" markdown="1">
 ![primos.jpg](/uploads/primos.jpg)
+![LittleDelights.png](/uploads/LittleDelights.png)
+![enterprise-bank-logo.png](/uploads/enterprise-bank-logo.png)
+![download.png](/uploads/download.png)
 </div>
 <div class="divider"></div>
 <div class="pics-size-7" markdown="1">
