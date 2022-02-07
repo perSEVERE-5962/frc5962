@@ -36,6 +36,7 @@ Lowell, MA 01853<br>
 (/uploads/SaabFamilyFoundation.png)
 ![Te Connectivity.jpg](/uploads/Te%20Connectivity.jpg)
 ![Raytheon.png](/uploads/Raytheon.png)
+![stratasys-logo-og.png](/uploads/stratasys-logo-og.png)
 Nana & Papa L.
 </div>
 <div class="divider"></div>
