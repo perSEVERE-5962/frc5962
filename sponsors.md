@@ -32,11 +32,10 @@ Lowell, MA 01853<br>
 ![workers-credit-union-1600x510.jpg](/uploads/workers-credit-union-1600x510.jpg)
 ![CC-Logo (1).jpg](/uploads/CC-Logo%20(1).jpg)
 ![Lockheed Martin.png](/uploads/Lockheed%20Martin.png)
-![SaabFamilyFoundation.png]
-(/uploads/SaabFamilyFoundation.png)
 ![Te Connectivity.jpg](/uploads/Te%20Connectivity.jpg)
 ![Raytheon.png](/uploads/Raytheon.png)
 ![stratasys-logo-og.png](/uploads/stratasys-logo-og.png)
+![SaabFamilyFoundation-31f7a6.png](/uploads/SaabFamilyFoundation-31f7a6.png)
 Nana & Papa L.
 </div>
 <div class="divider"></div>
