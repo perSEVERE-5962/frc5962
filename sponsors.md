@@ -35,6 +35,7 @@ Lowell, MA 01853<br>
 ![SaabFamilyFoundation.png]
 (/uploads/SaabFamilyFoundation.png)
 ![Te Connectivity.jpg](/uploads/Te%20Connectivity.jpg)
+![Raytheon.png](/uploads/Raytheon.png)
 </div>
 <div class="divider"></div>
 
