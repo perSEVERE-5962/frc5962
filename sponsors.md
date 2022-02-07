@@ -31,7 +31,7 @@ Lowell, MA 01853<br>
 ![neb.png](/uploads/neb.png)
 ![workers-credit-union-1600x510.jpg](/uploads/workers-credit-union-1600x510.jpg)
 ![CC-Logo (1).jpg](/uploads/CC-Logo%20(1).jpg)
-![Lockheed Martin.png](/uploads/Lockheed Martin.png)
+![Lockheed Martin.png](/uploads/Lockheed%20Martin.png)
 </div>
 <div class="divider"></div>
 
