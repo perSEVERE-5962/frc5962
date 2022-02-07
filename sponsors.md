@@ -32,7 +32,8 @@ Lowell, MA 01853<br>
 ![workers-credit-union-1600x510.jpg](/uploads/workers-credit-union-1600x510.jpg)
 ![CC-Logo (1).jpg](/uploads/CC-Logo%20(1).jpg)
 ![Lockheed Martin.png](/uploads/Lockheed%20Martin.png)
-![SaabFamilyFoundation.png](/uploads/SaabFamilyFoundation.png)
+![SaabFamilyFoundation.png
+(/uploads/SaabFamilyFoundation.png)
 </div>
 <div class="divider"></div>
 
