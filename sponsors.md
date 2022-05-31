@@ -44,7 +44,6 @@ Lowell, MA 01853<br>
 
 <div class="sponsor-pics" markdown="1">
 ![DCU-Green-Logo-768x284.png](/uploads/DCU-Green-Logo-768x284.png)
-![download-fcd72e.png](/uploads/download-fcd72e.png)
 </div>
 <div class="divider"></div>
 
