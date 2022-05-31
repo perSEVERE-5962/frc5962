@@ -5,10 +5,15 @@ hero-title: Our Robots
 ---
 
 Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Competition (FRC) challenge. We have competed at local off-season events, district qualifying events in Massachusetts and New Hampshire, the New England District Championship and even the World Championship in Detroit. 
+<style>
+.2022{
+    fontSize = 24; 
+}
 
+</style>
 <br>Here are our Robots!
 <div class="divider"></div>
-2022 Robot: The Dark Knight 
+## 2022 Robot: The Dark Knight
 Rapid React 
 
 ### Robot resources
