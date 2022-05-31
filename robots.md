@@ -24,6 +24,8 @@ Rapid React
 1. Quick Ball Scorer
 2. Fast and easy
 3. Averaging 10+ balls scored
+(/uploads/Robot2022.jpeg)
+
 ## 2020 Robot: TRENCHWALKER
 *FIRST RISE*
 
@@ -34,7 +36,7 @@ Rapid React
 [Robot Code](https://github.com/perSEVERE-5962/robotCode)
 [Software Documentation ](https://drive.google.com/open?id=100TK3qDJXTKX6wWa_DoFICc5gKBVCUSh)
 ### Quick Facts
-1. Status - In Competiiton
+1. Status - In Competition 
 2. Size - 32" L x 26" W x 27" H
 3. Weight - 80 Lbs 
 
