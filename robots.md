@@ -24,7 +24,6 @@ Rapid React
 2. Fast and easy
 3. Averaging 10+ balls scored
 ![Robot2022.jpg](/uploads/Robot2022.jpg)
-<div>Robot Pic</div>
 ## 2020 Robot: TRENCHWALKER
 *FIRST RISE*
 
