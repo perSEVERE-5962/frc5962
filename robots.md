@@ -8,6 +8,22 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 
 <br>Here are our Robots!
 <div class="divider"></div>
+2022 Robot: The Dark Knight 
+Rapid React 
+
+### Robot resources
+[CAD Model]
+(https://cad.onshape.com/documents/e822400a76d2322ffd0e4def/w/a7973724588bab9cf13298cf/e/f1a2b7c6b409311ecd2fa301)
+
+### Quick Facts
+1. 86 pounds 
+2. Efficient low hub scorer
+3. Effective 2 ball autonomous from any position
+
+### Robot Abilities
+1. Quick Ball Scorer
+2. Fast and easy
+3. Averaging 10+ balls scored
 ## 2020 Robot: TRENCHWALKER
 *FIRST RISE*
 
