@@ -13,7 +13,7 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 </style>
 <br>Here are our Robots!
 <div class="divider"></div>
-## 2022 Robot: The Dark Knight
+ # 2022 Robot: The Dark Knight
 Rapid React 
 
 ### Robot resources
