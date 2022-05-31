@@ -43,7 +43,7 @@ Lowell, MA 01853<br>
 ## Silver Sponsors
 
 <div class="sponsor-pics" markdown="1">
-![DCU-Green-Logo-768x284.png](/uploads/DCU-Green-Logo-768x284.png)
+![DCU-Green-Logo-768x284.png](/uploads/DCU LOGO.png)
 </div>
 <div class="divider"></div>
 
