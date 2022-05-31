@@ -24,7 +24,7 @@ Rapid React
 1. Quick Ball Scorer
 2. Fast and easy
 3. Averaging 10+ balls scored
-(/uploads/Robot2022.jpg)
+![Robot2022.jpg](/uploads/Robot2022.jpg)
 
 ## 2020 Robot: TRENCHWALKER
 *FIRST RISE*
