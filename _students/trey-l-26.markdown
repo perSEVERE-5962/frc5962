@@ -1,6 +1,6 @@
 ---
 title: Trey L.
-date: 2022-09-20 22:33:00 Z
+date: 2022-09-20 18:44:00 Z
 position: 8
 role: Dracut High School
 grad-year: "'26"
