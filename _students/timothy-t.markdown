@@ -1,7 +1,7 @@
 ---
 title: Timothy T.
 date: 2019-10-20 14:50:00 Z
-position: 1
+position: 0
 role: |-
   Electrical Lead,
   Co-Captain
