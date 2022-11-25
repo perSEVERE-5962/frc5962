@@ -6,7 +6,7 @@ role: |-
   Electrical Lead,
   Co-Captain
 grad-year: 2023
-order-number: 3
+order-number: 1
 school: Lowell Catholic High School
 ---
 
