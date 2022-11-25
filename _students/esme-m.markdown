@@ -3,6 +3,6 @@ title: Esme M.
 date: 2022-11-25 20:48:00 Z
 grad-year: 2024
 order-number: 15
-School: 'Lowell Catholic High School '
+school: Lowell Catholic High School
 ---
 
