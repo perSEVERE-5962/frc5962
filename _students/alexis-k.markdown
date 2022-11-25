@@ -5,6 +5,6 @@ position: 2
 role: Co-Captain
 grad-year: 2023
 order-number: 3
-School: Lowell Catholic High School
+school: Lowell Catholic High School
 ---
 
