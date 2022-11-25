@@ -4,5 +4,6 @@ date: 2022-11-25 20:00:00 Z
 position: 2
 role: Co-Captain
 grad-year: 2023
+School: Lowell Catholic High School
 ---
 
