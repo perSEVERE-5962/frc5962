@@ -39,9 +39,9 @@ Lowell, MA 01853<br>
 ## Silver Sponsors
 
 <div class="sponsor-pics" markdown="1">
-[SunnyMeadowLogo.pdf](/uploads/SunnyMeadowLogo.pdf)
+![sunnyMeadowLogo,png.png](/uploads/sunnyMeadowLogo,png.png)
 ![logo3.png](/uploads/logo3.png)
-[IBM_vectorized.svg](/uploads/IBM_vectorized.svg)
+![IBM_vectorized.svg](/uploads/IBM_vectorized.svg)
 [carinal.webp](/uploads/carinal.webp)
 ## Emily Satterfield
 </div>
