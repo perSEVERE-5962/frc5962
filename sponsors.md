@@ -42,17 +42,17 @@ Lowell, MA 01853<br>
 ![sunnyMeadowLogo,png.png](/uploads/sunnyMeadowLogo,png.png)
 ![logo3.png](/uploads/logo3.png)
 ![IBM_vectorized.svg](/uploads/IBM_vectorized.svg)
-[carinal.webp](/uploads/carinal.webp)
-## Emily Satterfield
+![carinal.webp](/uploads/carinal.webp)
+### Emily Satterfield
 </div>
 <div class="divider"></div>
 
-# ## Bronze Sponsors 
+## Bronze Sponsors 
 
 <div class="sponsor-pics" markdown="1">
-## Jill Solovey
-### ## Phyllis Crevier
-## Pat and Mike Kempton
+### Jill Solovey
+### Phyllis Crevier
+### Pat and Mike Kempton
 ![download-0019f7.png](/uploads/download-0019f7.png)
 ![escapology.png](/uploads/escapology.png)
 </div>
