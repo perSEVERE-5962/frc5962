@@ -47,11 +47,11 @@ Lowell, MA 01853<br>
 </div>
 <div class="divider"></div>
 
-## Bronze Sponsors 
+# ## Bronze Sponsors 
 
 <div class="sponsor-pics" markdown="1">
 ## Jill Solovey
-## Phyllis Crevier
+### ## Phyllis Crevier
 ## Pat and Mike Kempton
 ![download-0019f7.png](/uploads/download-0019f7.png)
 ![escapology.png](/uploads/escapology.png)
