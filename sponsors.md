@@ -26,33 +26,35 @@ Lowell, MA 01853<br>
 ![adi.jpg](/uploads/adi.jpg)
 ![BSC.jpg](/uploads/BSC.jpg)
 ![bae.jpg](/uploads/bae.jpg)
-![cem.jpg](/uploads/cem.jpg)
 ![nblabs.jpg](/uploads/nblabs.jpg)
-![neb.png](/uploads/neb.png)
 ![workers-credit-union-1600x510.jpg](/uploads/workers-credit-union-1600x510.jpg)
-![CC-Logo (1).jpg](/uploads/CC-Logo%20(1).jpg)
-![Lockheed Martin.png](/uploads/Lockheed%20Martin.png)
 ![Te Connectivity.jpg](/uploads/Te%20Connectivity.jpg)
 ![Raytheon.png](/uploads/Raytheon.png)
-![stratasys-logo-og.png](/uploads/stratasys-logo-og.png)
 ![SaabFamilyFoundation-31f7a6.png](/uploads/SaabFamilyFoundation-31f7a6.png) 
-## Nana & Papa L.
+![phastar logo.p![WamesitLanesFamilyEntCtr.jpg](/uploads/WamesitLanesFamilyEntCtr.jpg)ng](/uploads/phastar%20logo.png)
+[IMG_2249.PNG](/uploads/IMG_2249.PNG)
 </div>
 <div class="divider"></div>
 
 ## Silver Sponsors
 
 <div class="sponsor-pics" markdown="1">
-![DCU-Green-Logo-768x284.png](/uploads/DCU LOGO.png)
+[SunnyMeadowLogo.pdf](/uploads/SunnyMeadowLogo.pdf)
+![logo3.png](/uploads/logo3.png)
+[IBM_vectorized.svg](/uploads/IBM_vectorized.svg)
+[carinal.webp](/uploads/carinal.webp)
+## Emily Satterfield
 </div>
 <div class="divider"></div>
 
 ## Bronze Sponsors 
 
 <div class="sponsor-pics" markdown="1">
-![LittleDelights.png](/uploads/LittleDelights.png)
-![enterprise-bank-logo.png](/uploads/enterprise-bank-logo.png)
-![download.png](/uploads/download.png)
+## Jill Solovey
+## Phyllis Crevier
+## Pat and Mike Kempton
+![download-0019f7.png](/uploads/download-0019f7.png)
+![escapology.png](/uploads/escapology.png)
 </div>
 <div class="divider"></div>
 <div class="pics-size-7" markdown="1">
