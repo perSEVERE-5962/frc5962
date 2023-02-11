@@ -31,8 +31,9 @@ Lowell, MA 01853<br>
 ![Te Connectivity.jpg](/uploads/Te%20Connectivity.jpg)
 ![Raytheon.png](/uploads/Raytheon.png)
 ![SaabFamilyFoundation-31f7a6.png](/uploads/SaabFamilyFoundation-31f7a6.png) 
-![phastar logo.p![WamesitLanesFamilyEntCtr.jpg](/uploads/WamesitLanesFamilyEntCtr.jpg)ng](/uploads/phastar%20logo.png)
+![phastar logo.p![WamesitLanesFamilyEntCtr.jpg](/uploads/phastar%20logo.png)
 ![IMG_2249 (1).PNG](/uploads/IMG_2249%20(1).PNG)
+![WamesitLanesFamilyEntCtr-2b74e5.jpg](/uploads/WamesitLanesFamilyEntCtr-2b74e5.jpg)
 </div>
 <div class="divider"></div>
 
@@ -44,6 +45,7 @@ Lowell, MA 01853<br>
 ![IBM_vectorized.svg](/uploads/IBM_vectorized.svg)
 ![carinal.webp](/uploads/carinal.webp)
 ### Emily Satterfield
+### Madavi and Gaugarin Oliver Foundation 
 </div>
 <div class="divider"></div>
 
@@ -53,8 +55,12 @@ Lowell, MA 01853<br>
 ### Jill Solovey
 ### Phyllis Crevier
 ### Pat and Mike Kempton
+### Mendile Family
+![Abrews-Logo-Official-outlined-1024x286.png](/uploads/Abrews-Logo-Official-outlined-1024x286.png)
 ![download-0019f7.png](/uploads/download-0019f7.png)
 ![escapology.png](/uploads/escapology.png)
+![tmp_351_10-9-2019_43535_.png](/uploads/tmp_351_10-9-2019_43535_.png)
+![cropped-Sherburne-Lumber-logo-Horizontal251x75-1.png](/uploads/cropped-Sherburne-Lumber-logo-Horizontal251x75-1.png)
 </div>
 <div class="divider"></div>
 <div class="pics-size-7" markdown="1">
