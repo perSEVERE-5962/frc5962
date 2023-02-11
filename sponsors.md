@@ -31,7 +31,7 @@ Lowell, MA 01853<br>
 ![Te Connectivity.jpg](/uploads/Te%20Connectivity.jpg)
 ![Raytheon.png](/uploads/Raytheon.png)
 ![SaabFamilyFoundation-31f7a6.png](/uploads/SaabFamilyFoundation-31f7a6.png) 
-![phastar logo.p![WamesitLanesFamilyEntCtr.jpg](/uploads/phastar%20logo.png)
+![phastar logo.png](/uploads/phastar%20logo.png)
 ![IMG_2249 (1).PNG](/uploads/IMG_2249%20(1).PNG)
 ![WamesitLanesFamilyEntCtr-2b74e5.jpg](/uploads/WamesitLanesFamilyEntCtr-2b74e5.jpg)
 </div>
