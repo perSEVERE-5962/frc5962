@@ -26,6 +26,7 @@ Lowell, MA 01853<br>
 ![adi.jpg](/uploads/adi.jpg)
 ![BSC.jpg](/uploads/BSC.jpg)
 ![bae.jpg](/uploads/bae.jpg)
+![comcast.png](/uploads/comcast.png)
 ![nblabs.jpg](/uploads/nblabs.jpg)
 ![workers-credit-union-1600x510.jpg](/uploads/workers-credit-union-1600x510.jpg)
 ![Te Connectivity.jpg](/uploads/Te%20Connectivity.jpg)
