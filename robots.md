@@ -54,6 +54,24 @@ Rapid React
 2. Fast and easy
 3. Averaging 10+ balls scored
 ![Robot2022.jpg](/uploads/Robot2022.jpg)
+
+###Competitions
+**North Shore**
+1. Rank 37 with a record of 3-8-1
+2. Won the safety star of the day
+
+**WPI**
+1. Rank 29 with a record of 4-8-0
+2. Won the Gracious Professionalism Award
+
+**Mayhem in Merrimack**
+1. Rank 3 with a record of 5-5-0
+2. Alliance 2, got out in the semis
+
+**N.E.R.D. (New England Robotics Derby)**
+1. Rank 31 with a record of 3-3-0
+2. Alliance 8, won the competition with partners 3467, 4909, and 1768.
+3. We played very good defense that led to our victory
 ## 2020 Robot: TRENCHWALKER
 *FIRST RISE*
 
