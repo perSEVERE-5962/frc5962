@@ -55,7 +55,7 @@ Rapid React
 3. Averaging 10+ balls scored
 ![Robot2022.jpg](/uploads/Robot2022.jpg)
 
-###Competitions
+### Competitions
 **North Shore**
 1. Rank 37 with a record of 3-8-1
 2. Won the safety star of the day
