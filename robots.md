@@ -72,6 +72,7 @@ Rapid React
 1. Rank 31 with a record of 3-3-0
 2. Alliance 8, won the competition with partners 3467, 4909, and 1768.
 3. We played very good defense that led to our victory
+
 ## 2020 Robot: TRENCHWALKER
 *FIRST RISE*
 
