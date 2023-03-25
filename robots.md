@@ -28,14 +28,14 @@ Charged Up
 
 ### Competitions
 **SE Mass Bridgewater**
-1.Rank 21 with a record of 8-8-0
-2.Alliance 5, was eliminated in the last round of the upper bracket and the last round of the lower bracket.
-3.Won the Sustainability Award
+1. Rank 21 with a record of 8-8-0
+2. Alliance 5, was eliminated in the last round of the upper bracket and the last round of the lower bracket.
+3. Won the Sustainability Award
 
 **North Shore**
-1.Rank 35 with a record of 4-8-0
-2.Won the Sustainability Award
-3.Won the safety star of the day
+1. Rank 35 with a record of 4-8-0
+2. Won the Sustainability Award
+3. Won the safety star of the day
 
 ## 2022 Robot: The Dark Knight
 Rapid React 
