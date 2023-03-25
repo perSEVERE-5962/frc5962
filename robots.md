@@ -7,6 +7,36 @@ hero-title: Our Robots
 Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Competition (FRC) challenge. We have competed at local off-season events, district qualifying events in Massachusetts and New Hampshire, the New England District Championship and even the World Championship in Detroit. 
 <br>Here are our Robots!
 <div class="divider"></div>
+## 2023 Robot: 4
+Charged Up
+
+### Robot resources
+[CAD Model]
+(https://cad.onshape.com/documents/40d84169009e929dd02601d3/w/96694c446fd7c2a557a07e5d/e/e3134a90dc9b6761c0a55ddc?renderMode=0&uiState=641f0a4b8532514d6564f849)
+
+### Quick Facts
+1. 119 pounds
+2. Efficient automized cone scoring
+3. Our first swerve bot!
+
+### Robot Abilities
+1. Picks up cones.
+2. Automatically drops at all three positions
+3. Picks up from double substation
+4. Swerve chassis
+5. Balances on charge station with ease
+
+### Competitions
+**SE Mass Bridgewater**
+Rank 21 with a record of 8-8-0
+Alliance 5, was eliminated in the last round of the upper bracket and the last round of the lower bracket.
+Won the Sustainability Award
+
+**North Shore**
+Rank 35 with a record of 4-8-0
+Won the Sustainability Award
+Won the safety star of the day
+
 ## 2022 Robot: The Dark Knight
 Rapid React 
 
