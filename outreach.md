@@ -20,6 +20,8 @@ We host 2 Expos events each year to celebrate the students work in these grades 
 During the expo there are many activities for the students to do besides presenting to the judges. We have stations where the students can drive our robot, build with LEGO, do face painting and build marshmallow bridges or electronic projects.
 
 We plan to help grow both FLL and FLL Jr. programs in our local elementary and middle schools.
+[](https://www.youtube.com/watch?v=iRqdRLFKDf4)
+
 <div class="divider"></div>
 ## English Language Learners in STEM
 We’ve noticed that it can be challenging for local immigrant and refugee students to access engineering electives and activities while adjusting to a new country, language, and lifestyle. We have held an after-school event for those students, helping them assemble and solder parts to make an Altoid tin flashlight.
