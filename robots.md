@@ -9,6 +9,7 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 <div class="divider"></div>
 ## 2023 Robot: 4
 Charged Up
+![WhatsApp Image 2023-08-01 at 6.26.23 PM.jpeg](/uploads/WhatsApp%20Image%202023-08-01%20at%206.26.23%20PM.jpeg)
 
 ### Robot resources
 [CAD Model]
