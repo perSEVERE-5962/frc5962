@@ -20,7 +20,7 @@ Charged Up
 3. Our first swerve bot!
 
 ### Robot Abilities
-1. Picks up cones.
+1. Picks up cubes and cones.
 2. Automatically drops at all three positions
 3. Picks up from double substation
 4. Swerve chassis
