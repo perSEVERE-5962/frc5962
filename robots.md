@@ -12,8 +12,7 @@ Charged Up
 ![WhatsApp Image 2023-08-01 at 6.26.23 PM.jpeg](/uploads/WhatsApp%20Image%202023-08-01%20at%206.26.23%20PM.jpeg)
 
 ### Robot resources
-[CAD Model]
-(https://cad.onshape.com/documents/40d84169009e929dd02601d3/w/96694c446fd7c2a557a07e5d/e/e3134a90dc9b6761c0a55ddc?renderMode=0&uiState=641f0a4b8532514d6564f849)
+[CAD Model](https://cad.onshape.com/documents/40d84169009e929dd02601d3/w/96694c446fd7c2a557a07e5d/e/e3134a90dc9b6761c0a55ddc?renderMode=0&uiState=641f0a4b8532514d6564f849)
 
 ### Quick Facts
 1. 119 pounds
