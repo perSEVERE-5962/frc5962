@@ -58,11 +58,11 @@ Every year we create a Business Plan to help plan our budget and fundraising. We
 <div class="divider"></div>
 ## Team Manual
 A team manual is a necessary guide for all team logistics for students and mentors.
-1. [**Team Manual**](https://drive.google.com/file/d/1sbC_Gx7ZHA6S1MpUZxFaxsEj6lZKqjq6/view?usp=sharing)
+1. [**Team Manual**](https://docs.google.com/document/d/1dVLa15ph_dvrHmR1QQkIY0q6Nickl1cN8CrSCbwQUc0/edit?usp=sharing)
 <div class="divider"></div>
 ## Safety Manual
 Since day one we have had a strong saftey program to make sure everyone on our team is safe. This includes a team safety manual, tool training and safety quizzes.
-1. [**Safety Manual**](https://docs.google.com/document/d/1oKhk3WXcw2LXKPLWLW2FS7eSsgwbKcDd9MzfdhAFvlk/edit?usp=sharing)
+1. [**Safety Manual**](https://docs.google.com/presentation/d/1ijJHLaFPsdHeFisooTvR-4eVpa2qXTHlQEc1wA-ylpI/edit?usp=sharing)
 <div class="divider"></div>
 ## Website Design
 Our website was designed and developed by [Kat Huang '19] and is maintained by the team. It uses Jekyll (static site generator), Github Pages (static site hosting), and Siteleaf (content management system).
