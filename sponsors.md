@@ -62,6 +62,7 @@ Lowell, MA 01853<br>
 ![escapology.png](/uploads/escapology.png)
 ![tmp_351_10-9-2019_43535_.png](/uploads/tmp_351_10-9-2019_43535_.png)
 ![cropped-Sherburne-Lumber-logo-Horizontal251x75-1.png](/uploads/cropped-Sherburne-Lumber-logo-Horizontal251x75-1.png)
+![lowell catholiuc.png](/uploads/lowell%20catholiuc.png)
 </div>
 <div class="divider"></div>
 <div class="pics-size-7" markdown="1">
