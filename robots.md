@@ -38,8 +38,12 @@ Charged Up
 3. Won the safety star of the day
 
 **Mayhem in Merrimack**
-1. Rank 22 with a record of 3-5-0
+1. Rank 22 in the qualification rounds with a record of 3-5-0
 2. Part of an alliance that was a semifinalist, only lost by one point!
+
+**N.E.R.D
+1. Rank 19 in the qualification rounds with a record of 3-3-0
+2. Second place alliance, with teams 1757, 2423, and 467
 
 ## 2022 Robot: The Dark Knight
 Rapid React 
