@@ -37,6 +37,10 @@ Charged Up
 2. Won the Sustainability Award
 3. Won the safety star of the day
 
+**Mayhem in Merrimack**
+1. Rank 22 with a record of 3-5-0
+2. Part of an alliance that was a semifinalist, only lost by one point!
+
 ## 2022 Robot: The Dark Knight
 Rapid React 
 
