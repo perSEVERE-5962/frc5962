@@ -39,27 +39,17 @@ Lowell, MA 01853<br>
 ## Silver Sponsors
 
 <div class="sponsor-pics" markdown="1">
-![sunnyMeadowLogo,png.png](/uploads/sunnyMeadowLogo,png.png)
-![logo3.png](/uploads/logo3.png)
-![IBM_vectorized.svg](/uploads/IBM_vectorized.svg)
+![css.png](/uploads/css.png)
 ![carinal.webp](/uploads/carinal.webp)
-### Emily Satterfield
-### Madavi and Gaugarin Oliver Foundation 
+
 </div>
 <div class="divider"></div>
 
 ## Bronze Sponsors 
 
 <div class="sponsor-pics" markdown="1">
-### Jill Solovey
-### Phyllis Crevier
-### Pat and Mike Kempton
-### Mendile Family
-![Abrews-Logo-Official-outlined-1024x286.png](/uploads/Abrews-Logo-Official-outlined-1024x286.png)
-![download-0019f7.png](/uploads/download-0019f7.png)
-![escapology.png](/uploads/escapology.png)
-![tmp_351_10-9-2019_43535_.png](/uploads/tmp_351_10-9-2019_43535_.png)
-![cropped-Sherburne-Lumber-logo-Horizontal251x75-1.png](/uploads/cropped-Sherburne-Lumber-logo-Horizontal251x75-1.png)
+### Evolv Employees
+### Berard Construction
 ![lowell catholiuc.png](/uploads/lowell%20catholiuc.png)
 </div>
 <div class="divider"></div>
