@@ -23,18 +23,16 @@ Lowell, MA 01853<br>
 <div class="sponsor-pics" markdown="1">
 ![mvr-1e2981.jpg](/uploads/mvr-1e2981.jpg)
 ![uml.jpg](/uploads/uml.jpg)
-![adi.jpg](/uploads/adi.jpg)
 ![BSC.jpg](/uploads/BSC.jpg)
 ![bae.jpg](/uploads/bae.jpg)
-![comcast.png](/uploads/comcast.png)
 ![nblabs.jpg](/uploads/nblabs.jpg)
-![workers-credit-union-1600x510.jpg](/uploads/workers-credit-union-1600x510.jpg)
 ![Te Connectivity.jpg](/uploads/Te%20Connectivity.jpg)
 ![Raytheon.png](/uploads/Raytheon.png)
-![SaabFamilyFoundation-31f7a6.png](/uploads/SaabFamilyFoundation-31f7a6.png) 
-![phastar logo.png](/uploads/phastar%20logo.png)
-![IMG_2249 (1).PNG](/uploads/IMG_2249%20(1).PNG)
-![WamesitLanesFamilyEntCtr-2b74e5.jpg](/uploads/WamesitLanesFamilyEntCtr-2b74e5.jpg)
+![teradynelogo.jpg](/uploads/teradynelogo.jpg)
+![bayerfundlogo.png](/uploads/bayerfundlogo.png)
+![l3harris.png](/uploads/l3harris.png)
+![evolv_logo.avif](/uploads/evolv_logo.avif)
+
 </div>
 <div class="divider"></div>
 
