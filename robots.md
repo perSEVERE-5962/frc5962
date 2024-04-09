@@ -7,6 +7,40 @@ hero-title: Our Robots
 Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Competition (FRC) challenge. We have competed at local off-season events, district qualifying events in Massachusetts and New Hampshire, the New England District Championship and even the World Championship in Detroit. 
 <br>Here are our Robots!
 <div class="divider"></div>
+
+## 2024 Robot: Stagefright
+Crescendo
+
+### Robot resources
+[CAD Model]
+
+### Quick Facts
+1. 103 pounds, 26 by 34 inches
+2. Efficient automatized speaker scoring
+3. Our first shooter ever!
+
+### Robot Abilities
+1. Picks up notes from the floor using an under-the-bumper intake
+2. Automatically aligns to the April tag at the speaker and scores
+3. Fast cycle times!
+4. Swerve chassis
+
+### Competitions
+**NE BSU**
+1. Rank 22 with a record of 8-7-0
+2. Alliance 2 with team captain 88 Tj^2 and 5813 Morpheus, was eliminated after one round in the upper bracket.
+
+**NE WPI**
+1. Rank 27 with a record of 9-9-0
+2. Alliance 1 with team captain 4048 Redshift and 1768 Nashoba Robotics, we won the competition, receiving our first ever Event Winner banner!!!
+3. Won our first ever Team Spirit Award
+
+**NE District Competition (Ganson Division)**
+1. Rank 45 with a record of 5-7-0
+2. Won our first ever Judges award!!!!
+3. Our first time qualifying for the district competition in 5 years!!!
+
+
 ## 2023 Robot: 4
 Charged Up
 ![WhatsApp Image 2023-08-01 at 6.26.23 PM.jpeg](/uploads/WhatsApp%20Image%202023-08-01%20at%206.26.23%20PM.jpeg)
