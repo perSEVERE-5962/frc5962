@@ -28,7 +28,7 @@ Crescendo
 ### Competitions
 **NE BSU**
 1. Rank 22 with a record of 8-7-0
-2. Alliance 2 with team captain 88 Tj^2 and 5813 Morpheus, was eliminated after one round in the upper bracket.
+2. Alliance 2 with team captain 88 TJ² and 5813 Morpheus, was eliminated after one round in the upper bracket.
 
 **NE WPI**
 1. Rank 27 with a record of 9-9-0
