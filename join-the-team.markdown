@@ -31,4 +31,4 @@ Feel free to join us at one of our meetings:
 ## Overview of our schedule
 **Build Season (January-March):** Design, build, and program a robot for the competition from scratch!  
 **Competition Season (March-April):** Compete with your robot against teams from around the world!  
-**Off-season (May-December):** Learn engineering, programming, and business skills through working on the robot and other activities! 
+**Off-season (May-December):** Learn engineering, programming, and business skills through working on the robot and other activities! Compete with your robot at off-season events!
