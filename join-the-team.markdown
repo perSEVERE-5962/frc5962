@@ -16,7 +16,9 @@ All students (from any school) who will be in grades 9-12 in the 2024-2025 schoo
 **Off-season (May-December):** Learn engineering, programming, and business skills through working on the robot and other activities! Compete with your robot at off-season events!
 
 ## How do I join?
-Feel free to join us at one of our meetings! We meet in the UMass Lowell Lawrence Lin Makerspace located at 1 University Ave, Lowell, MA 01854. **If you plan to attend please reach out to us at [FRCTeam5962@gmail.com](mailto:FRCTeam5962@gmail.com) or via the form below:** 
+Feel free to join us at one of our meetings!  
+We meet in the UMass Lowell Lawrence Lin Makerspace located at 1 University Ave, Lowell, MA 01854.  
+**If you plan to attend please reach out to us at [FRCTeam5962@gmail.com](mailto:FRCTeam5962@gmail.com) or via the form below:** 
 <iframe src="https://calendar.google.com/calendar/embed?src=9pu1flss3mumj4pnm1u7946dgs%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
 
 <form action="https://formspree.io/frc_team_5962_captains@googlegroups.com" method="POST">
