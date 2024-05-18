@@ -66,6 +66,8 @@ nav-links:
   url: "/sponsors"
 - name: Contact
   url: "/contact"
+- name: Join The Team
+  url: "/join-the-team"
 sass:
   style: compressed
 plugins:
