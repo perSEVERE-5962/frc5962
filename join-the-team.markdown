@@ -3,7 +3,7 @@ title: Join The Team
 date: 2024-05-18 15:44:00 Z
 permalink: "/join-the-team"
 hero-img-url: "/media/team-2024-wpi.jpeg"
-hero-title: Team 5962 after winning the 2024 WPI district event.
+hero-title: Join The Team!
 ---
 
 ## Join The Team!
