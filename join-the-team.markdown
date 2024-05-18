@@ -6,15 +6,17 @@ hero-img-url: "/media/team-2024-wpi.jpeg"
 hero-title: Join The Team!
 ---
 
-## Join The Team!
+## How do I join?
 
-We meet in the UMass Lowell Lawrence Lin Makerspace located at 1 University Ave, Lowell, MA 01854.
+All students (from any school) who will be in grades 9-12 in the 2024-2025 school year are welcome to join! There is **no cost** to join! No experience is necessary! We understand that students may have other obligations, so attendance to every meeting is not necessary.  
 
+We meet in the UMass Lowell Lawrence Lin Makerspace located at 1 University Ave, Lowell, MA 01854.  
+
+## Interested in joining?
+Feel free to join us at one of our meetings:  
 <iframe src="https://calendar.google.com/calendar/embed?src=9pu1flss3mumj4pnm1u7946dgs%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
 
-Our mailing address is Merrimack Valley Robotics, P.O. Box 1152, Lowell, MA 01853.
-
-We can be reached at [FRCTeam5962@gmail.com](mailto:FRCTeam5962@gmail.com) or via the form below.
+**If you plan to attend please reach out to us at [FRCTeam5962@gmail.com](mailto:FRCTeam5962@gmail.com) or via the form below.**
 
 <form action="https://formspree.io/frc_team_5962_captains@googlegroups.com" method="POST">
 <label for="name">Name: </label>
@@ -25,3 +27,8 @@ We can be reached at [FRCTeam5962@gmail.com](mailto:FRCTeam5962@gmail.com) or vi
 <textarea id="msg" name="msg"></textarea>
 <input type="submit" value="Send">
 </form>
+
+## Overview of our schedule
+**Build Season (January-March):** Design, build, and program a robot for the competition from scratch!  
+**Competition Season (March-April):** Compete with your robot against teams from around the world!  
+**Off-season (May-December):** Learn engineering, programming, and business skills through working on the robot and other activities! 
