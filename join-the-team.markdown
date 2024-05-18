@@ -6,13 +6,13 @@ hero-img-url: "/media/team-2024-wpi.jpeg"
 hero-title: Join The Team!
 ---
 
-## How do I join?
+## Join the team!
 
 All students (from any school) who will be in grades 9-12 in the 2024-2025 school year are welcome to join! There is **no cost** to join! No experience is necessary! We understand that students may have other obligations, so attendance to every meeting is not necessary.  
 
 We meet in the UMass Lowell Lawrence Lin Makerspace located at 1 University Ave, Lowell, MA 01854.  
 
-## Interested in joining?
+## How do I join?
 Feel free to join us at one of our meetings:  
 <iframe src="https://calendar.google.com/calendar/embed?src=9pu1flss3mumj4pnm1u7946dgs%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
 
