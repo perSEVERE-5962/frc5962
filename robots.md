@@ -12,8 +12,8 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 ReefScape
 
 ### Robot resources
-[CAD Model]
-(https://cad.onshape.com/documents/f3b770751f29026c822a7018/w/2fef64bb74f76d900b10b1f4/e/2616d4b61c21b84df2093e58)
+[CAD Model](http://https://cad.onshape.com/documents/f3b770751f29026c822a7018/w/2fef64bb74f76d900b10b1f4/e/2616d4b61c21b84df2093e58))
+
 
 ### Quick Facts
 1. 98 pounds, 26 by 34 inches
@@ -44,7 +44,7 @@ Crescendo
 
 ![StageFright.jpg](/uploads/StageFright.jpg)
 ### Robot resources
-[CAD Model](https://cad.onshape.com/documents/da4790c8757ddeaa36077f95/w/5eea23136238295cf2770ecb/e/575f6355cab305e3d43c0dc3)
+[CAD Model]
 
 ### Quick Facts
 1. 103 pounds, 26 by 34 inches
