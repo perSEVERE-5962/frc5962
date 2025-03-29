@@ -49,9 +49,9 @@ Lowell, MA 01853<br>
 ## Bronze Sponsors 
 
 <div class="sponsor-pics" markdown="1">
-### Evolv Employees
+### Romano Construction
 ### Berard Construction
-![lowell catholiuc.png](/uploads/lowell%20catholiuc.png)
+### Roger Wilis
 </div>
 <div class="divider"></div>
 <div class="pics-size-7" markdown="1">
