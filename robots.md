@@ -12,7 +12,7 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 ReefScape
 
 ### Robot resources
-[CAD Model](https://cad.onshape.com/documents/f3b770751f29026c822a7018/w/2fef64bb74f76d900b10b1f4/e/2616d4b61c21b84df2093e58))
+[CAD Model](https://cad.onshape.com/documents/f3b770751f29026c822a7018/w/2fef64bb74f76d900b10b1f4/e/2616d4b61c21b84df2093e58)
 
 
 ### Quick Facts
