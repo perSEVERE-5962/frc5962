@@ -44,7 +44,7 @@ Crescendo
 
 ![StageFright.jpg](/uploads/StageFright.jpg)
 ### Robot resources
-[CAD Model]
+[CAD Model](https://cad.onshape.com/documents/da4790c8757ddeaa36077f95/w/5eea23136238295cf2770ecb/e/575f6355cab305e3d43c0dc3)
 
 ### Quick Facts
 1. 103 pounds, 26 by 34 inches
