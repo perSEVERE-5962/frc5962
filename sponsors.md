@@ -24,13 +24,13 @@ Lowell, MA 01853<br>
 ![mvr-1e2981.jpg](/uploads/mvr-1e2981.jpg)
 ![uml.jpg](/uploads/uml.jpg)
 ![BSC.jpg](/uploads/BSC.jpg)
+![Comcast.svg.png](/uploads/Comcast.svg.png)
 ![bae.jpg](/uploads/bae.jpg)
+![GHF.png](/uploads/GHF.png)
 ![nblabs.jpg](/uploads/nblabs.jpg)
 ![Te Connectivity.jpg](/uploads/Te%20Connectivity.jpg)
 ![Raytheon.png](/uploads/Raytheon.png)
 ![teradynelogo.jpg](/uploads/teradynelogo.jpg)
-![bayerfundlogo.png](/uploads/bayerfundlogo.png)
-![l3harris.png](/uploads/l3harris.png)
 ![evolv_logo.avif](/uploads/evolv_logo.avif)
 
 </div>
@@ -41,6 +41,7 @@ Lowell, MA 01853<br>
 <div class="sponsor-pics" markdown="1">
 ![css.png](/uploads/css.png)
 ![carinal.webp](/uploads/carinal.webp)
+![AboutFace.webp](/uploads/AboutFace.webp)
 
 </div>
 <div class="divider"></div>
