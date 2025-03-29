@@ -8,9 +8,40 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 <br>Here are our Robots!
 <div class="divider"></div>
 
+## 2025 Robot: Trident
+ReefScape
+
+### Robot resources
+[CAD Model]
+
+### Quick Facts
+1. 98 pounds, 26 by 34 inches
+2. Automated Coral scoring
+
+
+### Robot Abilities
+1. Picks up Coral from the Coral station
+2. Uses April Tag vision system to precisely align to Reef
+3. Swerve chassis
+4. Solid defensive abilities
+
+
+### Competitions
+**NE GSE**
+1. Rank 14 with a record of 7-7-0
+2. Alliance 7 with team captain 4925 The Resistance and 319 Big Bad Bob, was eliminated in the Double Elimination Bracket
+
+**NE URI**
+1. Rank 37 with a record of 8-10-0
+2. Alliance 1 with team captain 190 Gompei and the Herd and 1768 Nashoba Robotics. Won the competition and received an Event Winner banner.
+
+
+
+
 ## 2024 Robot: Stagefright
 Crescendo
 
+![StageFright.jpg](/uploads/StageFright.jpg)
 ### Robot resources
 [CAD Model]
 
@@ -24,6 +55,7 @@ Crescendo
 2. Automatically aligns to the April tag at the speaker and scores
 3. Fast cycle times!
 4. Swerve chassis
+5. Good defensive abilities
 
 ### Competitions
 **NE BSU**
