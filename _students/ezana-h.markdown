@@ -5,4 +5,3 @@ grad-year: 2030
 school: R.J Grey junior high
 ---
 
-R.J Grey junior high
