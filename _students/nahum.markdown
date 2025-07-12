@@ -1,7 +1,7 @@
 ---
-title: Nahum
+title: Nahum H.
 date: 2025-07-12 16:23:00 Z
-grad-year: "'27"
+grad-year: 2027
 ---
 
 ABRHS
