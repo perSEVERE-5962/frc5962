@@ -9,7 +9,7 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 <div class="divider"></div>
 
 ## 2025 Robot: Trident
-ReefScape
+ReefScape 
 [IMG_0287.PNG](/uploads/IMG_0287.PNG)
 ![IMG_0287.PNG](/uploads/IMG_0287.PNG)
 ### Robot resources
