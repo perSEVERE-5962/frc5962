@@ -35,8 +35,15 @@ ReefScape
 **NE URI**
 1. Rank 37 with a record of 8-10-0
 2. Alliance 1 with team captain 190 Gompei and the Herd and 1768 Nashoba Robotics. Won the competition and received an Event Winner banner.
-
-
+**NE District Competition (Sosik Division)**
+1. Rank 43 with a record of 3-9-0
+2. Second time in a row qualifying for the NE Competition
+**Mayhen in Merrimack**
+1. Rank 19 with a record of 2-4-0
+2. Alliance 1, won the competition with partners 1768, 190, and 1735
+**MA State Championship 2025**
+1. Rank 23 with a record of 1-6-0
+2. Alliance 2, won the competition with partners 88 and 2877
 
 
 ## 2024 Robot: Stagefright
