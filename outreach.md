@@ -10,7 +10,7 @@ hero-img-url: "/media/cubscouts.jpg"
 With the help of our parent organization, Merrimack Valley Robotics, we engage in several outreach events every year. 
 <div class="divider"></div>
 ## Girls in STEAM
-Our Girls in STEAM event allows girls grades 7 to 12 to interact and connect with female engineers and engineering students from around the area. Through hands-on, fun workshops, girls can see just how fun STEAM can be. The event is free to registrants and lunch is generously provided by UMass Lowell. We have had 6 events so far from our first event in 2016 with 12 girls and our last one in 2018 with 50 girls in attendance. 
+Our Girls in STEAM event allows girls grades 7 to 12 to interact and connect with female engineers and engineering students from around the area. Through hands-on, fun workshops, girls can see just how fun STEAM can be. The event is free to registrants and lunch is generously provided by UMass Lowell. We have had 8 events so far from our first event in 2016 and our last one in 2024. 
 
 At the event the students do activities learning mechanical, electrical, software and leadership skills. Activities range from candy dispensers, wooden catapults, altoid tin flashlights and learning how to design a website. We have a question and answer panel during the events for the attendees to interact and connect with female engineers. We host the event at UMass Lowell in their makerspace (Falmouth 102).
 <div class="divider"></div>
