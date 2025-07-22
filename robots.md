@@ -52,7 +52,7 @@ Crescendo
 ![StageFright.jpg](/uploads/StageFright.jpg)
 ### Robot resources
 [CAD Model]
-
+(https://cad.onshape.com/documents/dfc551affa56435d96f69fac/w/01a14264a47e2a20d06af022/e/0f206c0770719fe310d50cca?renderMode=0&uiState=687bf4fa498a3d6211edf31a)
 ### Quick Facts
 1. 103 pounds, 26 by 34 inches
 2. Efficient automatized speaker scoring
