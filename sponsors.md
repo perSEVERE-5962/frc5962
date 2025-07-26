@@ -44,6 +44,7 @@ Lowell, MA 01853<br>
 ![AboutFace.webp](/uploads/AboutFace.webp)
 ![carinal.webp](/uploads/carinal.webp)
 ![css.png](/uploads/css.png)
+![CC-logo.avif](/uploads/CC-Logo.avif)
 
 
 
