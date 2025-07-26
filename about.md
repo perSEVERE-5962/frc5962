@@ -1,6 +1,6 @@
 ---
 title: About
-hero-img-url: "/uploads/3c555dab0bd342d0a8722c3b265668c4-8ad690.jpeg"
+hero-img-url: "/uploads/82b35809f3ee40e6aeb4f90dde5c5cf3.jpeg"
 hero-title: We Are Team 5962 <br>perSEVERE
 layout: default-with-hero
 ---
