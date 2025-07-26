@@ -5,7 +5,7 @@ hero-title: We Are Team 5962 <br>perSEVERE
 layout: default-with-hero
 ---
 
-## Our Story and Mission
+![3c555dab0bd342d0a8722c3b265668c4-8ad690.jpeg](/uploads/3c555dab0bd342d0a8722c3b265668c4-8ad690.jpeg)## Our Story and Mission
 
 In April 2015, an engineer from Analog Devices approached Dracut High School to explore the possibility of starting an FRC team as part of the school's Robotics Club. Despite initial hopes and months of effort from many people, the school was, unfortunately, unable to support a FRC team.
 
