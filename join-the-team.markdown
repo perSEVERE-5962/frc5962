@@ -8,7 +8,7 @@ hero-title: Join The Team!
 
 ## Join the team!
 
-All students (from any school) who will be in grades 9-12 in the 2024-2025 school year are welcome to join! There is **no cost** to join! No experience is necessary! We understand that students may have other obligations, so attendance to every meeting is not required.  
+All students (from any school) who will be in grades 9-12 in the 2025-2026 school year are welcome to join! There is **no cost** to join! No experience is necessary! We understand that students may have other obligations, so attendance to every meeting is not required.  
 
 ## Overview of our schedule
 **Build Season (January-February):** Design, build, and program a robot for the competition from scratch!  
