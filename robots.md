@@ -1,6 +1,6 @@
 ---
 title: Our Robots
-hero-img-url: "/media/week0-robot.jpg"
+hero-img-url: "/uploads/046655ecb5184c7caf31ecde9e2cd014.jpeg"
 hero-title: Our Robots
 ---
 
