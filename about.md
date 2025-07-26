@@ -7,7 +7,7 @@ layout: default-with-hero
 
 **Our Story and Mission**
 
-In April 2015, an engineer from Analog Devices approached Dracut High School to explore the possibility of starting an FRC team as part of the school's Robotics Club. Despite initial hopes and months of effort from many people, the school was, unfortunately, unable to support a FRC team.
+In April 2015, two engineers from Analog Devices approached Dracut High School to explore the possibility of starting an FRC team as part of the school's Robotics Club. Despite initial hopes and months of effort from many people, the school was, unfortunately, unable to support a FRC team.
 
 Undeterred, 5 students and 4 mentors opened Team 5962 to anyone from the area, rather than only students at a single high school. We approached the University of Massachusetts Lowell, and the College of Engineering graciously offered the use of its Makerspace.
 
