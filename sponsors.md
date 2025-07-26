@@ -25,6 +25,7 @@ Lowell, MA 01853<br>
 ![uml.jpg](/uploads/uml.jpg)
 ![BSC.jpg](/uploads/BSC.jpg)
 ![Comcast.svg.png](/uploads/Comcast.svg.png)
+![JC.png](/uploads/Johnson%20Controls%20Logo.png)
 ![bae.jpg](/uploads/bae.jpg)
 ![GHF.png](/uploads/GHF.png)
 ![nblabs.jpg](/uploads/nblabs.jpg)
