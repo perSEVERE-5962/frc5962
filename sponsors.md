@@ -26,13 +26,14 @@ Lowell, MA 01853<br>
 ![BSC.jpg](/uploads/BSC.jpg)
 ![Comcast.svg.png](/uploads/Comcast.svg.png)
 ![JC.png](/uploads/Johnson%20Controls%20Logo.png)
-![bae.jpg](/uploads/bae.jpg)
 ![GHF.png](/uploads/GHF.png)
-![nblabs.jpg](/uploads/nblabs.jpg)
-![Te Connectivity.jpg](/uploads/Te%20Connectivity.jpg)
 ![Raytheon.png](/uploads/Raytheon.png)
-![teradynelogo.jpg](/uploads/teradynelogo.jpg)
+![bae.jpg](/uploads/bae.jpg)
+![Te Connectivity.jpg](/uploads/Te%20Connectivity.jpg)
+![nblabs.jpg](/uploads/nblabs.jpg)
 ![evolv_logo.avif](/uploads/evolv_logo.avif)
+![teradynelogo.jpg](/uploads/teradynelogo.jpg)
+
 
 </div>
 <div class="divider"></div>
@@ -40,9 +41,11 @@ Lowell, MA 01853<br>
 ## Silver Sponsors
 
 <div class="sponsor-pics" markdown="1">
-![css.png](/uploads/css.png)
-![carinal.webp](/uploads/carinal.webp)
 ![AboutFace.webp](/uploads/AboutFace.webp)
+![carinal.webp](/uploads/carinal.webp)
+![css.png](/uploads/css.png)
+
+
 
 </div>
 <div class="divider"></div>
@@ -50,9 +53,7 @@ Lowell, MA 01853<br>
 ## Bronze Sponsors 
 
 <div class="sponsor-pics" markdown="1">
-### Romano Construction
 ### Berard Construction
-### Roger Wilis
 </div>
 <div class="divider"></div>
 <div class="pics-size-7" markdown="1">
