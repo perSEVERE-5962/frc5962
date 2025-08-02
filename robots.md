@@ -290,7 +290,7 @@ Rapid React
 ![stinger.jpg](/uploads/stinger.jpg) 
 <div class="divider"></div>
 ## 2016 Robot: Scorpio
-*2016 Competition:* *###FIRST Stronghold*
+*2016 Competition:* *### FIRST Stronghold*
 ### Quick Facts
 1. Status - Completely gone
 2. Size - 33" L x 27" W x 18" H
