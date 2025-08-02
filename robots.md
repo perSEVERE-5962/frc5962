@@ -4,8 +4,8 @@ hero-img-url: "/uploads/046655ecb5184c7caf31ecde9e2cd014.jpeg"
 hero-title: Our Robots
 ---
 
-Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Competition (FRC) challenge. We have competed at local off-season events, district qualifying events in Massachusetts and New Hampshire, the New England District Championship and even the World Championship in Detroit. 
-<br>Here are our Robots!
+Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Competition (FRC) challenge. We have competed at local off-season events, district qualifying events in Massachusetts and New Hampshire, the New England District Championship in Springfield MA, and even the World Championship in Detroit. 
+<br>Here are our robots from the last few years!
 <div class="divider"></div>
 
 ## 2025 Robot: Trident
@@ -44,6 +44,8 @@ ReefScape
 **MA State Championship 2025**
 1. Rank 23 with a record of 1-6-0
 2. Alliance 2, won the competition with partners 88 and 2877
+
+
 
 
 ## 2024 Robot: Stagefright
