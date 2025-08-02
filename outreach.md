@@ -4,13 +4,13 @@ hero-title: Weaving FIRST Into Our Community
 hero-img-url: "/media/cubscouts.jpg"
 ---
 
-### Our Mission
+## Our Mission
 **The mission of Merrimack Valley Robotics, Inc. and FRC Team 5962 is to promote growth of Science, Technology, Engineering, Art and Math (STEAM) activities for students in kindergarten through 12th grade within the Merrimack Valley and surrounding areas of Massachusetts and Southern New Hampshire.**
 
 With the help of our parent organization, Merrimack Valley Robotics, we engage in several outreach events every year. 
 <div class="divider"></div>
 ## Girls in STEAM
-Our Girls in STEAM event allows girls grades 7 to 12 to interact and connect with female engineers and engineering students from around the area. Through hands-on, fun workshops, girls can see just how fun STEAM can be. The event is free to registrants and lunch is generously provided by UMass Lowell. We have had 8 events so far from our first event in 2016 and our most recent one in 2024. 
+Our Girls in STEAM event allows girls grades 7 to 12 to interact and connect with female engineers and engineering students from around the area. Through hands-on, fun workshops, girls can see just how fun STEAM can be. The event is free for those who register, and all food is generously provided by UMass Lowell. Since 2016, we have hosted 8 of these events, exposing hundreds of young girls to careers in engineering and the people who work in them.
 
 At the event the students do activities learning mechanical, electrical, software and leadership skills. Activities range from candy dispensers, wooden catapults, altoid tin flashlights and learning how to design a website. We have a question and answer panel during the events for the attendees to interact and connect with female engineers. We host the event at UMass Lowell in their makerspace (Falmouth 102).
 <div class="divider"></div>
