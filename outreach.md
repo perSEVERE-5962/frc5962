@@ -1,5 +1,6 @@
 ---
 title: Outreach
+published: false
 hero-title: Weaving FIRST Into Our Community
 hero-img-url: "/media/cubscouts.jpg"
 ---
@@ -8,7 +9,15 @@ hero-img-url: "/media/cubscouts.jpg"
 **The mission of Merrimack Valley Robotics, Inc. and FRC Team 5962 is to promote growth of Science, Technology, Engineering, Art and Math (STEAM) activities for students in kindergarten through 12th grade within the Merrimack Valley and surrounding areas of Massachusetts and Southern New Hampshire.**
 
 With the help of our parent organization, Merrimack Valley Robotics, we engage in several outreach events every year. 
+
 <div class="divider"></div>
+
+## Dracut Old Home Day
+Our team presents at Dracut Old Home Day, a large annual community gathering. At the event, we bring our robot for anyone aged 3 to 73 to drive. This event allows us to inform our community for the benefits and joys of FIRST and
+STEAM, along with recruiting potential members. This year, the event will be held on Saturday September 6th, 2025, from 9AM-5PM. It will be held at the Dracut school complex on Lakeview Ave.
+
+<div class="divider"></div>
+
 ## Girls in STEAM
 Our Girls in STEAM event allows girls grades 7 to 12 to interact and connect with female engineers and engineering students from around the area. Through hands-on, fun workshops, girls can see just how fun STEAM can be. The event is free for those who register, and all food is generously provided by UMass Lowell. Since 2016, we have hosted 8 of these events, exposing hundreds of young girls to careers in engineering and the people who work in them.
 
