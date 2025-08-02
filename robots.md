@@ -81,6 +81,7 @@ Crescendo
 2. Won our first ever Judges award!!!!
 3. Our first time qualifying for the district competition in 5 years!!!
 
+<div class="divider"></div>
 
 ## 2023 Robot: 4
 Charged Up
@@ -120,6 +121,8 @@ Charged Up
 1. Rank 19 in the qualification rounds with a record of 3-3-0
 2. Second place alliance, with teams 1757, 2423, and 467
 
+<div class="divider"></div>
+
 ## 2022 Robot: The Dark Knight
 Rapid React 
 
@@ -155,6 +158,8 @@ Rapid React
 1. Rank 31 with a record of 3-3-0
 2. Alliance 8, won the competition with partners 3467, 4909, and 1768.
 3. We played very good defense that led to our victory
+
+<div class="divider"></div>
 
 ## 2020 Robot: TRENCHWALKER
 *FIRST RISE*
@@ -250,7 +255,7 @@ Rapid React
 1. Rank 46 with a record of 5-7-0
 2. Regional Chairman's Award
 
-**Detriot Championships Daly divsion**
+**Detroit Championships Daly Division**
 1. Rank 60 with a record of 2-8-0
 2. Played with some amazing teams
 
