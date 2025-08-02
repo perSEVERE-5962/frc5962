@@ -45,8 +45,7 @@ ReefScape
 1. Rank 23 with a record of 1-6-0
 2. Alliance 2, won the competition with partners 88 and 2877
 
-
-
+<div class="divider"></div>
 
 ## 2024 Robot: Stagefright
 Crescendo
