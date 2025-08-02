@@ -85,6 +85,7 @@ Crescendo
 
 ## 2023 Robot: 4
 Charged Up
+
 ![WhatsApp Image 2023-08-01 at 6.26.23 PM.jpeg](/uploads/WhatsApp%20Image%202023-08-01%20at%206.26.23%20PM.jpeg)
 
 ### Robot resources
