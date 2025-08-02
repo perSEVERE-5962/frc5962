@@ -13,7 +13,7 @@ With the help of our parent organization, Merrimack Valley Robotics, we engage i
 
 ## Dracut Old Home Day
 Our team presents at Dracut Old Home Day, a large annual community gathering. At the event, we bring our robot for anyone aged 3 to 73 to drive. This event allows us to inform our community for the benefits and joys of FIRST and
-STEAM, along with recruiting potential members. This year, the event will be held on Saturday September 6th, 2025, from 9AM-5PM. It will be held at the Dracut school complex on Lakeview Ave in Dracut MA. We can't wait!
+STEAM, along with recruiting potential members. This year, the event will be held on Saturday September 6th, 2025, from 9AM-5PM. It will be held at the Dracut school complex on Lakeview Ave in Dracut MA. We can't wait to see you there!
 
 <div class="divider"></div>
 
