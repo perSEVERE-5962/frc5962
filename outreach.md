@@ -21,10 +21,9 @@ STEAM, along with recruiting potential members. This year, the event will be hel
 ## Hudson Old Home Day
 Hudson Old Home Day is a community event held annually in Hudson NH. We host a booth there to teach people about *FIRST* and STEAM as a whole, along with recruiting potential members. The event is typically held over multiple days, but our team will be at the event on Friday August 8th from 7:00PM-11:00PM! It is located at the Hills House, and the address is 211 Derry Road, Hudson NH. We will see you there:)!
 
-
 <div class="divider"></div>
 
-##Tyngsboro Block Party-by-the-Bridge
+## Tyngsboro Block Party-by-the-Bridge
 The Tyngsboro Block Party-by-the-Bridge is an end of summer party that happens every year. Similar to the Dracut and Hudson OHDs, we have a booth there that helps people learn about *FIRST*, our team, and STEAM as a whole. This year, we will be holding our booth from 11AM-7:30PM. The booths will be along the intersection of Middlesex Rd and Kendall Rd, next to the Tyngsboro Bridge.
 
 <div class="divider"></div>
@@ -33,7 +32,9 @@ The Tyngsboro Block Party-by-the-Bridge is an end of summer party that happens e
 Our Girls in STEAM event allows girls grades 7 to 12 to interact and connect with female engineers and engineering students from around the area. Through hands-on, fun workshops, girls can see just how fun STEAM can be. The event is free for those who register, and all food is generously provided by UMass Lowell. Since 2016, we have hosted 8 of these events, exposing hundreds of young girls to careers in engineering and the people who work in them.
 
 During the event, students will participate in activities that will help them learn about mechanical, electrical, and software engineering along with leadership skills. Some activities include creating candy dispensers, wooden catapults, Altoid tin flashlights and learning how to design a website. We also host a Q&A panel during the event for the attendees to interact, connect, and learn from female engineers. We typically host the event at UMass Lowell in the Makerspace (Falmouth Hall, room 102).
+
 <div class="divider"></div>
+
 ## First Lego League and First Lego League Jr.
 We host 2 Expos events each year to celebrate the students work in these grades K-4 and 5-8 programs. 
 
