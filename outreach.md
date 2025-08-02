@@ -14,7 +14,18 @@ With the help of our parent organization, Merrimack Valley Robotics, we engage i
 
 ## Dracut Old Home Day
 Our team presents at Dracut Old Home Day, a large annual community gathering. At the event, we bring our robot for anyone aged 3 to 73 to drive. This event allows us to inform our community for the benefits and joys of FIRST and
-STEAM, along with recruiting potential members. This year, the event will be held on Saturday September 6th, 2025, from 9AM-5PM. It will be held at the Dracut school complex on Lakeview Ave.
+STEAM, along with recruiting potential members. This year, the event will be held on Saturday September 6th, 2025, from 9AM-5PM. It will be held at the Dracut school complex on Lakeview Ave in Dracut MA. We can't wait!
+
+<div class="divider"></div>
+
+## Hudson Old Home Day
+Hudson Old Home Day is a community event held annually in Hudson NH. We host a booth there to teach people about *FIRST* and STEAM as a whole, along with recruiting potential members. The event is typically held over multiple days, but our team will be at the event on Friday August 8th from 7:00PM-11:00PM! It is located at the Hills House, and the address is 211 Derry Road, Hudson NH. We will see you there:)!
+
+
+<div class="divider"></div>
+
+##Tyngsboro Block Party-by-the-Bridge
+The Tyngsboro Block Party-by-the-Bridge is an end of summer party that happens every year. Similar to the Dracut and Hudson OHDs, we have a booth there that helps people learn about *FIRST*, our team, and STEAM as a whole. This year, we will be holding our booth from 11AM-7:30PM. The booths will be along the intersection of Middlesex Rd and Kendall Rd, next to the Tyngsboro Bridge.
 
 <div class="divider"></div>
 
@@ -41,10 +52,7 @@ We worked with a local Cub Scouts Den to help them earn their Robot achievement.
 ## Lowell Spinners
 Each summer we participate in a STEAM night at a Lowell Spinners Baseball game. During this event we introduce passersby to our robots, what FIRST is, and the programs we offer locally. We let kids drive our robot. In past years our robot has thrown the first pitch at the Lowell Spinners baseball game. We have worked with other FRC teams to spread FIRST at this event.
 <div class="divider"></div>
-## Dracut Old Home Day
-Our team presents at Dracut Old Home Day, a large annual community gathering. At the event, we bring our robot for anyone aged 3 to 73 to drive. This event allows us to inform our community for the benefits and joys of FIRST and
-STEAM. Additionally, we utilize this event for recruitment.
-<div class="divider"></div>
+
 ## Boston Mini Maker Faire
 We represented NE FIRST at the Boston Maker Faire. We had a booth to present FIRST, specifically FRC to passerby's. We showed our robot and talked about what FIRST is and how you can join a FIRST team near you.
 <div class="divider"></div>
