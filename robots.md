@@ -9,7 +9,7 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 <div class="divider"></div>
 
 ## 2025 Robot: Trident
-ReefScape
+## 2025 Competition: *ReefScape*
 
 ![IMG_0287.PNG](/uploads/IMG_0287.PNG)
 ### Robot resources
@@ -48,7 +48,7 @@ ReefScape
 <div class="divider"></div>
 
 ## 2024 Robot: Stagefright
-Crescendo
+## 2024 Competition: *Crescendo*
 
 ![StageFright.jpg](/uploads/StageFright.jpg)
 ### Robot resources
@@ -84,7 +84,7 @@ Crescendo
 <div class="divider"></div>
 
 ## 2023 Robot: 4
-Charged Up
+## 2023 Competition: *Charged Up*
 
 ![WhatsApp Image 2023-08-01 at 6.26.23 PM.jpeg](/uploads/WhatsApp%20Image%202023-08-01%20at%206.26.23%20PM.jpeg)
 
@@ -125,7 +125,7 @@ Charged Up
 <div class="divider"></div>
 
 ## 2022 Robot: The Dark Knight
-Rapid React 
+## 2022 Competition: *Rapid React* 
 
 ### Robot resources
 [CAD Model]
@@ -162,8 +162,16 @@ Rapid React
 
 <div class="divider"></div>
 
-## 2020 Robot: TRENCHWALKER
-*FIRST RISE*
+## We did not participate in or create a robot for the 2021 *FIRST* Robotics Competition due to the COVID-19 pandemic
+
+
+<div class="divider"></div>
+
+
+## 2020 Robots: TRENCHWALKER
+## 2020 Competition: *FIRST RISE*
+
+## The 2020 *FIRST* Robotics Competition was cancelled in March 2020 due to the COVID-19 pandemic.
 
 ### Robot resources
 [Reveal Video](coming soon)
@@ -174,7 +182,7 @@ Rapid React
 ### Quick Facts
 1. Status - In Competition 
 2. Size - 32" L x 26" W x 27" H
-3. Weight - 80 Lbs 
+3. Weight - 80 lbs 
 
 ### Robot Abilities
 * Quick Ball Scorer
@@ -206,7 +214,7 @@ Rapid React
 ### Quick Facts
 1. Status - Retired
 2. Size - 32" L x 27" W x 40" H
-3. Weight - 97 Lbs 
+3. Weight - 97 lbs 
 
 ### Robot Abilities
 * Tank tread
@@ -228,17 +236,19 @@ Rapid React
 
 **NEDCMP**
 1. Rank 61 with a record of 3-9-0
-2. Ended season with red card:)
+2. Ended season with red card :)
 ![2019 5962.jpg](/uploads/2019%205962.jpg)
+
 <div class="divider"></div>
+
 ## 2018 Robot: T-Pose
-*FIRST Power Up*
+## 2018 Competition: *FIRST Power Up*
 ### Robot Resources
 [Build Season Documentation ](https://drive.google.com/file/d/1JWv0Coi6OZ4Vyz1uH2o_Ml_jtn2VoeNR/view?usp=sharing)
 ### Quick Facts
 1. Status - Retired
 2. Size - 32" L x 28" W x 54" H
-3. Weight - 105 Lbs 
+3. Weight - 105 lbs 
 
 ### Robot Abilities
 * Single climb or Triple Climb
@@ -261,15 +271,17 @@ Rapid React
 2. Played with some amazing teams
 
 ![t-pose.jpg](/uploads/t-pose.jpg)
+
 <div class="divider"></div>
+
 ## 2017 Robot: Stinger
-*FIRST Steamworks*
+## 2017 Competition: *FIRST Steamworks*
 ### Robot Resources
 [Build Season Documentation](https://drive.google.com/file/d/0B9UaKfPcd05AVmZTOThkck5GYkU/view?usp=sharing)
 ### Quick Facts
-1. Status - Dissasmbled
+1. Status - Disassembled
 2. Size - 40" L x 36" W x 24" H
-3. Weight - 110 Lbs 
+3. Weight - 110 lbs 
 
 ### Robot Abilities
 * 4 second climb
@@ -292,9 +304,9 @@ Rapid React
 ## 2016 Robot: Scorpio
 ## 2016 Competition: *FIRST Stronghold*
 ### Quick Facts
-1. Status - Completely gone
+1. Status - Disassembled
 2. Size - 33" L x 27" W x 18" H
-3. Weight - 100 Lbs 
+3. Weight - 100 lbs 
 
 ### Robot Abilities
 * Tank tread that hits like a truck
