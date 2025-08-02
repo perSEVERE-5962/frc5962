@@ -12,7 +12,7 @@ With the help of our parent organization, Merrimack Valley Robotics, we engage i
 ## Girls in STEAM
 Our Girls in STEAM event allows girls grades 7 to 12 to interact and connect with female engineers and engineering students from around the area. Through hands-on, fun workshops, girls can see just how fun STEAM can be. The event is free for those who register, and all food is generously provided by UMass Lowell. Since 2016, we have hosted 8 of these events, exposing hundreds of young girls to careers in engineering and the people who work in them.
 
-At the event the students do activities learning mechanical, electrical, software and leadership skills. Activities range from candy dispensers, wooden catapults, altoid tin flashlights and learning how to design a website. We have a question and answer panel during the events for the attendees to interact and connect with female engineers. We host the event at UMass Lowell in their makerspace (Falmouth 102).
+During the event, students will participate in activities that will help them learn about mechanical, electrical, and software engineering along with leadership skills. Some activities include creating candy dispensers, wooden catapults, Altoid tin flashlights and learning how to design a website. We also host a Q&A panel during the event for the attendees to interact, connect, and learn from female engineers. We typically host the event at UMass Lowell in the Makerspace (Falmouth Hall, room 102).
 <div class="divider"></div>
 ## First Lego League and First Lego League Jr.
 We host 2 Expos events each year to celebrate the students work in these grades K-4 and 5-8 programs. 
