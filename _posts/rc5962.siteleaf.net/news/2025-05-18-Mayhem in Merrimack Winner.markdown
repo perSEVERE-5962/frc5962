@@ -1,5 +1,5 @@
 ---
-title: Mayhem in Merrimack
+title: Mayhem in Merrimack Winner
 date: 2025-05-18 22:09:00 Z
 ---
 
