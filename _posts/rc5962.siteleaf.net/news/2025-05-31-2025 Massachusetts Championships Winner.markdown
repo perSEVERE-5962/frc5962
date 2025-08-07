@@ -1,5 +1,5 @@
 ---
-title: 2025 Massachusetts Championships
+title: 2025 Massachusetts Championships Winner
 date: 2025-05-31 22:06:00 Z
 ---
 
