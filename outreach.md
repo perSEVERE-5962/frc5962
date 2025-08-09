@@ -22,6 +22,8 @@ Hudson Old Home Day is a community event held annually in Hudson NH. We host a b
 When: Friday August 8th, 2025, from 7PM-11PM
 Where: The Hills House, Hudson NH (Address is 211 Derry Road)
 
+/uploads/IMG_0534.jpeg
+
 <div class="divider"></div>
 
 ## Upcoming Events:
