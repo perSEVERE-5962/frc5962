@@ -11,6 +11,12 @@ With the help of our parent organization, Merrimack Valley Robotics, we engage i
 
 <div class="divider"></div>
 
+## Recent Events:
+
+
+
+### Upcoming Events
+
 ## Dracut Old Home Day
 Our team presents at Dracut Old Home Day, a large annual community gathering. At the event, we bring our robot for anyone aged 3 to 73 to drive. This event allows us to inform our community for the benefits and joys of FIRST and
 STEAM, along with recruiting potential members.
