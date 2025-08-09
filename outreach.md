@@ -11,7 +11,8 @@ With the help of our parent organization, Merrimack Valley Robotics, we engage i
 
 <div class="divider"></div>
 
-# Recent Events:
+## Recent Events:
+We've had a lot of fun at these events, and we can't wait to return soon!
 
 <div class="divider"></div>
 
@@ -23,7 +24,8 @@ Where: The Hills House, Hudson NH (Address is 211 Derry Road)
 
 <div class="divider"></div>
 
-# Upcoming Events:
+## Upcoming Events:
+These upcoming events are a fun way to meet the team and learn about *FIRST*!
 
 <div class="divider"></div>
 
@@ -45,7 +47,7 @@ Where: The Dracut Public Schools complex on Lakeview Ave, Dracut MA
 
 <div class="divider"></div>
 
-# Other Events:
+## Other Events:
 These are some events that we have run in the past and will come back soon!
 
 <div class="divider"></div>
