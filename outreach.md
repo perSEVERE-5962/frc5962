@@ -11,18 +11,7 @@ With the help of our parent organization, Merrimack Valley Robotics, we engage i
 
 <div class="divider"></div>
 
-## Recent Events:
-
-
-
-### Upcoming Events
-
-## Dracut Old Home Day
-Our team presents at Dracut Old Home Day, a large annual community gathering. At the event, we bring our robot for anyone aged 3 to 73 to drive. This event allows us to inform our community for the benefits and joys of FIRST and
-STEAM, along with recruiting potential members.
-
-When: Saturday September 6th, 2025, 9AM-5PM
-Where: The Dracut Public Schools complex on Lakeview Ave, Dracut MA
+# Recent Events:
 
 <div class="divider"></div>
 
@@ -34,12 +23,30 @@ Where: The Hills House, Hudson NH (Address is 211 Derry Road)
 
 <div class="divider"></div>
 
+# Upcoming Events:
+
+<div class="divider"></div>
+
 ## Tyngsboro Block Party-by-the-Bridge
 The Tyngsboro Block Party-by-the-Bridge is an end of summer party that happens every year. Similar to the Dracut and Hudson OHDs, we have a booth there that helps people learn about *FIRST*, our team, and STEAM as a whole. 
 
 Time: Saturday August 23rd, 2025, 11AM-7PM
 Where: Booths are at the intersection of Middlesex Road and Kendall Road, next to the Tyngsboro Bridge
 Cost: $5 (Free for kids 12 and under)
+
+<div class="divider"></div>
+
+## Dracut Old Home Day
+Our team presents at Dracut Old Home Day, a large annual community gathering. At the event, we bring our robot for anyone aged 3 to 73 to drive. This event allows us to inform our community for the benefits and joys of FIRST and
+STEAM, along with recruiting potential members.
+
+When: Saturday September 6th, 2025, 9AM-5PM
+Where: The Dracut Public Schools complex on Lakeview Ave, Dracut MA
+
+<div class="divider"></div>
+
+# Other Events:
+These are some events that we have run in the past and will come back soon!
 
 <div class="divider"></div>
 
