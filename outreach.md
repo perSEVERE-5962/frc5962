@@ -33,6 +33,8 @@ Time: Saturday August 23rd, 2025, 11AM-7PM
 Where: Booths are at the intersection of Middlesex Road and Kendall Road, next to the Tyngsboro Bridge
 Cost: $5 (Free for kids 12 and under)
 
+![TBP1.jpeg]
+
 <div class="divider"></div>
 
 ## Upcoming Events:
