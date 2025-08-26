@@ -26,17 +26,17 @@ Where: The Hills House, Hudson NH (Address is 211 Derry Road)
 
 <div class="divider"></div>
 
-## Upcoming Events:
-These upcoming events are a fun way to meet the team and learn about *FIRST*!
-
-<div class="divider"></div>
-
 ## Tyngsboro Block Party-by-the-Bridge
 The Tyngsboro Block Party-by-the-Bridge is an end of summer party that happens every year. Similar to the Dracut and Hudson OHDs, we have a booth there that helps people learn about *FIRST*, our team, and STEAM as a whole. 
 
 Time: Saturday August 23rd, 2025, 11AM-7PM
 Where: Booths are at the intersection of Middlesex Road and Kendall Road, next to the Tyngsboro Bridge
 Cost: $5 (Free for kids 12 and under)
+
+<div class="divider"></div>
+
+## Upcoming Events:
+These upcoming events are a fun way to meet the team and learn about *FIRST*!
 
 <div class="divider"></div>
 
