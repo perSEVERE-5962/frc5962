@@ -35,7 +35,7 @@ Cost: $5 (Free for kids 12 and under)
 
 ![TBP1.jpeg](/uploads/IMG_0597.jpeg)
 
-![TBP2.jpeg]
+![TBP2.jpeg](/uploads/IMG_0598.jpeg)
 
 <div class="divider"></div>
 
