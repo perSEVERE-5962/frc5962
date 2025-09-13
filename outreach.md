@@ -39,8 +39,6 @@ Cost: $5 (Free for kids 12 and under)
 
 <div class="divider"></div>
 
-<div class="divider"></div>
-
 ## Dracut Old Home Day
 Our team presents at Dracut Old Home Day, a large annual community gathering. At the event, we bring our robot for anyone aged 3 to 73 to drive. This event allows us to inform our community for the benefits and joys of FIRST and
 STEAM, along with recruiting potential members.
@@ -49,6 +47,8 @@ When: Saturday September 6th, 2025, 9AM-5PM
 Where: The Dracut Public Schools complex on Lakeview Ave, Dracut MA
 ## Upcoming Events:
 These upcoming events are a fun way to meet the team and learn about *FIRST*! Unfortunately we have no planned upcoming events
+
+![DOHD1.jpeg](/uploads/IMG_0671.jpeg)
 
 <div class="divider"></div>
 
