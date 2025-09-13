@@ -17,6 +17,8 @@ P.O. Box 1152<br>
 Lowell, MA 01853<br>
 
 <div class="divider"></div>
+These are our 2024-2025 sponsors!
+<div class="divider"></div>
 
 ## Gold Sponsors
 
