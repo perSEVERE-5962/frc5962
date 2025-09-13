@@ -50,7 +50,15 @@ Where: The Dracut Public Schools complex on Lakeview Ave, Dracut MA
 ![DOHD2.jpeg](/uploads/IMG_0672.jpeg)
 
 ## Upcoming Events:
-These upcoming events are a fun way to meet the team and learn about *FIRST*! Unfortunately we have no planned upcoming events
+These upcoming events are a fun way to meet the team and learn about *FIRST*!
+
+##Open House!
+We will be holding an open house for people to come meet the team and explore the different roles we offer, in addition to learning more about robotics, STEM, and FRC! Come join us (and Spot the robot:) ).
+
+When: Saturday September 20th, 12PM-2PM
+Where: The Makerspace (room 102 in Falmouth Hall) at the University of Massachusetts-Lowell
+Address: 
+
 
 <div class="divider"></div>
 
