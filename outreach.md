@@ -45,11 +45,12 @@ STEAM, along with recruiting potential members.
 
 When: Saturday September 6th, 2025, 9AM-5PM
 Where: The Dracut Public Schools complex on Lakeview Ave, Dracut MA
-## Upcoming Events:
-These upcoming events are a fun way to meet the team and learn about *FIRST*! Unfortunately we have no planned upcoming events
 
 ![DOHD1.jpeg](/uploads/IMG_0671.jpeg)
 ![DOHD2.jpeg](/uploads/IMG_0672.jpeg)
+
+## Upcoming Events:
+These upcoming events are a fun way to meet the team and learn about *FIRST*! Unfortunately we have no planned upcoming events
 
 <div class="divider"></div>
 
