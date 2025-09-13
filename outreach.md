@@ -11,6 +11,24 @@ With the help of our parent organization, Merrimack Valley Robotics, we engage i
 
 <div class="divider"></div>
 
+## Upcoming Events:
+These upcoming events are a fun way to meet the team and learn about *FIRST*!
+
+## Open House!
+We will be holding an open house for people to come meet the team and explore the different roles we offer, in addition to learning more about robotics, STEM, and FRC! Come join us (and Spot the robot:) ).
+
+When: Saturday September 20th, 12PM-2PM
+
+Where: The Makerspace (room 102 in Falmouth Hall) at the University of Massachusetts-Lowell
+
+Directions: Heading north on University Avenue, turn right onto Riverside St. After that, take the first right to enter the parking lot. There, members of our team will be there to greet you!
+
+![IMG_0674 (1).jpeg](/uploads/IMG_0674%20(1).jpeg)
+
+![parking instructions.jpg](/uploads/parking%20instructions.jpg)
+
+<div class="divider"></div>
+
 ## Recent Events:
 We've had a lot of fun at these events, and we can't wait to return soon!
 
@@ -48,24 +66,6 @@ Where: The Dracut Public Schools complex on Lakeview Ave, Dracut MA
 
 ![DOHD1.jpeg](/uploads/IMG_0671.jpeg)
 ![DOHD2.jpeg](/uploads/IMG_0672.jpeg)
-
-## Upcoming Events:
-These upcoming events are a fun way to meet the team and learn about *FIRST*!
-
-##Open House!
-We will be holding an open house for people to come meet the team and explore the different roles we offer, in addition to learning more about robotics, STEM, and FRC! Come join us (and Spot the robot:) ).
-
-When: Saturday September 20th, 12PM-2PM
-
-Where: The Makerspace (room 102 in Falmouth Hall) at the University of Massachusetts-Lowell
-
-Directions: Heading north on University Avenue, turn right onto Riverside St. After that, take the first right to enter the parking lot. There, members of our team will be there to greet you!
-
-![IMG_0674 (1).jpeg](/uploads/IMG_0674%20(1).jpeg)
-
-![parking instructions.jpg](/uploads/parking%20instructions.jpg)
-
-<div class="divider"></div>
 
 ## Other Events:
 These are some events that we have run in the past and will come back soon!
