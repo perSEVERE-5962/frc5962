@@ -61,6 +61,7 @@ Where: The Makerspace (room 102 in Falmouth Hall) at the University of Massachus
 
 Directions: Heading north on University Avenue, turn right onto Riverside St. After that, take the first right to enter the parking lot. There, members of our team will be there to greet you!
 
+![IMG_0674 (1).jpeg](/uploads/IMG_0674%20(1).jpeg)
 
 ![parking instructions.jpg](/uploads/parking%20instructions.jpg)
 
