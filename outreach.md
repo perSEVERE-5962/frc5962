@@ -14,7 +14,7 @@ With the help of our parent organization, Merrimack Valley Robotics, we engage i
 ## Upcoming Events:
 These upcoming events are a fun way to meet the team and learn about *FIRST*!
 
-## Bring Back the Trades
+We currently have no outreach events coming up.
 
 ## Recent Events:
 We've had a lot of fun at these events, and we can't wait to return soon!
