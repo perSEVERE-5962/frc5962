@@ -17,7 +17,7 @@ P.O. Box 1152<br>
 Lowell, MA 01853<br>
 
 <div class="divider"></div>
-These are our 2024-2025 sponsors!
+These are our 2025-2026 sponsors!
 <div class="divider"></div>
 
 ## Gold Sponsors
@@ -25,17 +25,9 @@ These are our 2024-2025 sponsors!
 <div class="sponsor-pics" markdown="1">
 ![mvr-1e2981.jpg](/uploads/mvr-1e2981.jpg)
 ![uml.jpg](/uploads/uml.jpg)
-![BSC.jpg](/uploads/BSC.jpg)
-![Comcast.svg.png](/uploads/Comcast.svg.png)
-![JC.png](/uploads/Johnson%20Controls%20Logo.png)
 ![GHF.png](/uploads/GHF.png)
 ![RTX.png](/uploads/RTX%20Logo.png)
-![bae.jpg](/uploads/bae.jpg)
-![Te Connectivity.jpg](/uploads/Te%20Connectivity.jpg)
-![nblabs.jpg](/uploads/nblabs.jpg)
-![evolv_logo.avif](/uploads/evolv_logo.avif)
 ![teradynelogo.jpg](/uploads/teradynelogo.jpg)
-
 
 </div>
 <div class="divider"></div>
@@ -43,8 +35,6 @@ These are our 2024-2025 sponsors!
 ## Silver Sponsors
 
 <div class="sponsor-pics" markdown="1">
-![AboutFace.webp](/uploads/AboutFace.webp)
-![carinal.webp](/uploads/carinal.webp)
 ![css.png](/uploads/css.png)
 ![CC-logo.avif](/uploads/CC-Logo.avif)
 
@@ -57,6 +47,8 @@ These are our 2024-2025 sponsors!
 
 <div class="sponsor-pics" markdown="1">
 ### Berard Construction
+### Reichheld Ting Orthodontics
+### Silver Key Homes Realty
 </div>
 <div class="divider"></div>
 <div class="pics-size-7" markdown="1">
