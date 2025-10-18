@@ -1,6 +1,6 @@
 ---
 title: Maxwell
 date: 2025-10-18 18:51:00 Z
-School: Dracut High School
+school: Dracut High School
 ---
 
