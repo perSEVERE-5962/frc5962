@@ -14,6 +14,13 @@ With the help of our parent organization, Merrimack Valley Robotics, we engage i
 ## Upcoming Events:
 These upcoming events are a fun way to meet the team and learn about *FIRST*!
 
+## Bring Back the Trades
+
+## Recent Events:
+We've had a lot of fun at these events, and we can't wait to return soon!
+
+<div class="divider"></div>
+
 ## Open House!
 We will be holding an open house for people to come meet the team and explore the different roles we offer, in addition to learning more about robotics, STEM, and FRC! Come join us (and Spot the robot:) ).
 
@@ -26,11 +33,6 @@ Directions: Heading north on University Avenue, turn right onto Riverside St. Af
 ![IMG_0674 (1).jpeg](/uploads/IMG_0674%20(1).jpeg)
 
 ![parking instructions.jpg](/uploads/parking%20instructions.jpg)
-
-<div class="divider"></div>
-
-## Recent Events:
-We've had a lot of fun at these events, and we can't wait to return soon!
 
 <div class="divider"></div>
 
