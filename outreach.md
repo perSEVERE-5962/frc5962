@@ -12,9 +12,7 @@ With the help of our parent organization, Merrimack Valley Robotics, we engage i
 <div class="divider"></div>
 
 ## Upcoming Events:
-These upcoming events are a fun way to meet the team and learn about *FIRST*!
-
-We currently have no outreach events coming up.
+These upcoming events are a fun way to meet the team and learn about *FIRST*! We unfortunately don't have any outreach events coming up.
 
 ## Recent Events:
 We've had a lot of fun at these events, and we can't wait to return soon!
