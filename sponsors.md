@@ -29,6 +29,7 @@ These are our 2025-2026 sponsors!
 ![RTX.png](/uploads/RTX%20Logo.png)
 ![teradynelogo.jpg](/uploads/teradynelogo.jpg)
 ![MHRDaemon.png](/uploads/MHRDaemon_Logo-1.png)
+![TEConnectivity.jpg](/uploads/bae.jpg)
 
 </div>
 <div class="divider"></div>
