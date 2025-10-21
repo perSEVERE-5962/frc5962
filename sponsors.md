@@ -29,7 +29,8 @@ These are our 2025-2026 sponsors!
 ![RTX.png](/uploads/RTX%20Logo.png)
 ![teradynelogo.jpg](/uploads/teradynelogo.jpg)
 ![MHRDaemon.png](/uploads/MHRDaemon_Logo-1.png)
-![TEConnectivity.jpg](/uploads/bae.jpg)
+![BAESystems.jpg](/uploads/bae.jpg)
+![TEConnectivity.jpg](/uploads/Te%20Connectivity.jpg)
 
 </div>
 <div class="divider"></div>
@@ -51,6 +52,7 @@ These are our 2025-2026 sponsors!
 ### Berard Construction
 ### Reichheld Ting Orthodontics
 ### Silver Key Homes Realty
+### Jeanne D'Arc Credit Union
 </div>
 <div class="divider"></div>
 <div class="pics-size-7" markdown="1">
