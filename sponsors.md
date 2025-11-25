@@ -35,7 +35,7 @@ These are our 2025-2026 sponsors!
 ![BostonSci.jpg]
 ![F.W. Webb.jpg]
 ![PAMS.jpg]
-![Evolv.jpg]
+![Evolv.avif](/uploads/evolv_logo.avif)
 
 
 </div>
