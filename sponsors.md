@@ -46,6 +46,8 @@ These are our 2025-2026 sponsors!
 <div class="sponsor-pics" markdown="1">
 ![css.png](/uploads/css.png)
 ![CC-logo.avif](/uploads/CC-Logo.avif)
+![JC.png](/uploads/Johnson%20Controls%20Logo.png)
+Johnson Controls Volunteer Matching
 
 
 
