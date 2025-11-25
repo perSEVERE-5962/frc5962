@@ -31,7 +31,7 @@ These are our 2025-2026 sponsors!
 ![MHRDaemon.png](/uploads/MHRDaemon_Logo-1.png)
 ![BAESystems.jpg](/uploads/bae.jpg)
 ![TEConnectivity.jpg](/uploads/Te%20Connectivity.jpg)
-![JC.jpg]
+![JC.png](/uploads/Johnson%20Controls%20Logo.png)
 ![BostonSci.jpg]
 ![F.W. Webb.jpg]
 ![PAMS.jpg]
