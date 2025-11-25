@@ -32,7 +32,7 @@ These are our 2025-2026 sponsors!
 ![BAESystems.jpg](/uploads/bae.jpg)
 ![TEConnectivity.jpg](/uploads/Te%20Connectivity.jpg)
 ![JC.png](/uploads/Johnson%20Controls%20Logo.png)
-![BostonSci.jpg]
+![BostonSci.jpg](/uploads/BSC.jpg)
 ![F.W. Webb.jpg]
 ![PAMS.jpg]
 ![Evolv.avif](/uploads/evolv_logo.avif)
