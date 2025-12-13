@@ -38,6 +38,7 @@ These are our 2025-2026 sponsors!
 ![Evolv.avif](/uploads/evolv_logo.avif)
 ![Comcast.svg.png](/uploads/Comcast.svg.png)
 ![ADI.jpg](/uploads/adi.jpg)
+![NBellLabs.jpg](/uploads/nblabs.jpg)
 
 
 </div>
