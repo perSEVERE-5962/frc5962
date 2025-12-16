@@ -38,6 +38,7 @@ These are our 2025-2026 sponsors!
 ![Evolv.avif](/uploads/evolv_logo.avif)
 ![Comcast.svg.png](/uploads/Comcast.svg.png)
 ![NBellLabs.jpg](/uploads/nblabs.jpg)
+![Lowell Mass Cultural Council](/uploads/MCC_Logo_RGB_NoTag.jpg)
 
 
 </div>
