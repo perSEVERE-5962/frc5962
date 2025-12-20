@@ -128,6 +128,7 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 
 ## 2022 Robot: The Dark Knight
 ## 2022 Competition: *Rapid React* 
+![Robot2022-Photoroom.png](/uploads/Robot2022-Photoroom.png)
 
 ### Robot resources
 [CAD Model]
@@ -142,7 +143,6 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 1. Quick Ball Scorer
 2. Fast and easy
 3. Averaging 10+ balls scored
-![Robot2022.jpg](/uploads/Robot2022.jpg)
 
 ### Competitions
 **North Shore**
