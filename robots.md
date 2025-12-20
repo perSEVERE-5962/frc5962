@@ -50,8 +50,7 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 ## 2024 Robot: Stagefright
 ## 2024 Competition: *Crescendo*
 
-![StageFright.jpg](/uploads/StageFright.jpg)
-### Robot resources
+![robot 2025.png](/uploads/robot%202025.png)### Robot resources
 [CAD Model]
 
 ### Quick Facts
