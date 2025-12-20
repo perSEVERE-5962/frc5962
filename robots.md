@@ -11,7 +11,7 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 ## 2025 Robot: Trident
 ## 2025 Competition: *ReefScape*
 
-![IMG_0287.PNG](/uploads/IMG_0287.PNG)
+![robot 2025-69054a.png](/uploads/robot%202025-69054a.png)
 ### Robot resources
 [CAD Model](https://cad.onshape.com/documents/f3b770751f29026c822a7018/w/2fef64bb74f76d900b10b1f4/e/2616d4b61c21b84df2093e58)
 
@@ -50,7 +50,8 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 ## 2024 Robot: Stagefright
 ## 2024 Competition: *Crescendo*
 
-![robot 2025.png](/uploads/robot%202025.png)### Robot resources
+![StageFright (1).jpg](/uploads/StageFright%20(1).jpg)
+### Robot resources
 [CAD Model]
 
 ### Quick Facts
