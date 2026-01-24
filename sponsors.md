@@ -39,6 +39,7 @@ These are our 2025-2026 sponsors!
 ![teradynelogo.jpg](/uploads/teradynelogo.jpg)
 ![PAMS.jpg](/uploads/Screenshot%202025-11-24%20204341.png)
 ![Evolv.avif](/uploads/evolv_logo.avif)
+![Ruland.png](/uploads/Ruland_Manufacturing.png)
 
 
 </div>
