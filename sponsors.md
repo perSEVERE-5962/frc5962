@@ -33,7 +33,6 @@ These are our 2025-2026 sponsors!
 ![F.W. Webb.jpg](/uploads/Screenshot%202025-11-24%20204021.png)
 ![TEConnectivity.jpg](/uploads/Te%20Connectivity.jpg)
 ![BostonSci.jpg](/uploads/BSC.jpg)
-![Lowell Mass Cultural Council](/uploads/MCC_Logo_RGB_NoTag.jpg)
 ![BAESystems.jpg](/uploads/bae.jpg)
 ![NBellLabs.jpg](/uploads/nblabs.jpg)
 ![teradynelogo.jpg](/uploads/teradynelogo.jpg)
