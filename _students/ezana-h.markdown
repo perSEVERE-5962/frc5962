@@ -1,5 +1,5 @@
 ---
-title: Ezana H.
+title: Ezana
 date: 2025-07-12 16:21:00 Z
 grad-year: 2030
 school: RJ Grey Junior High School
