@@ -1,5 +1,5 @@
 ---
-title: Pranav S.
+title: Pranav
 date: 2022-11-25 20:45:00 Z
 grad-year: 2028
 order-number: 14
