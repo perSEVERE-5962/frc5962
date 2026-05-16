@@ -1,5 +1,5 @@
 ---
-title: Corvid D.
+title: Corvid
 date: 2025-03-29 17:24:00 Z
 grad-year: 2026
 order-number: 23
