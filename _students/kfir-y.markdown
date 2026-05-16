@@ -1,5 +1,5 @@
 ---
-title: Kfir Y.
+title: Kfir
 date: 2025-03-29 17:31:00 Z
 role: Co-captain
 grad-year: 2028
