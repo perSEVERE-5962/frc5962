@@ -50,3 +50,21 @@ Team Coaches work for businesses in the area, are parents of team members, and a
 **{{ Coach.title }}**
 <br>{% if Coach.role %}{{ Coach.role }}{% endif %}
 {% endfor %}
+
+## Our Adult Volunteers
+
+Adult Volunteers help the students on the team advance their knowledge on what topics we utilize while working, such as: mechanics, electrical, coding, CAD, business, community outreach, and many more. The Adult Volunteers are here to guide the students, and share their knowledge with everybody.
+ 
+<article class="grid two-columns">
+{% assign ordered-Volunteers = site.Volunteers | sort: "order-number" %}
+{% for Volunteers in ordered-Volunteers %}
+<p>
+<b>{{ Volunteers.title }}{% if Volunteers.grad-year %} '{{ Volunteers.grad-year | slice: 2, 2 }}{% endif %}</b>
+{% if Volunteers.role %}<br>{{ Volunteers.role }}{% endif %}
+{% if Volunteers.school %}<br>{{ Volunteers.school }}{% endif %}
+{% if Volunteers.image %}<br><img src="{{ Volunteers.image }}">{% endif %}
+</p>
+{% endfor %}
+</article>
+
+<div class="divider"></div>
