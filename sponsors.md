@@ -1,5 +1,6 @@
 ---
 title: Sponsors
+position: 6
 hero-title: Sponsors
 hero-img-url: "/media/rowdy.jpg"
 ---

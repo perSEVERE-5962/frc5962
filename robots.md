@@ -1,5 +1,6 @@
 ---
 title: Our Robots
+position: 9
 hero-img-url: "/uploads/046655ecb5184c7caf31ecde9e2cd014.jpeg"
 hero-title: Our Robots
 ---

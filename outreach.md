@@ -1,5 +1,6 @@
 ---
 title: Outreach
+position: 7
 hero-title: Weaving FIRST Into Our Community
 hero-img-url: "/media/cubscouts.jpg"
 ---

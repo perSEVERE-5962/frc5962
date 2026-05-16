@@ -1,5 +1,6 @@
 ---
 title: News
+position: 3
 hero-img-url: "/media/week0-finals-hang.jpg"
 hero-title: News
 ---
