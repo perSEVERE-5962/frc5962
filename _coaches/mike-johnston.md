@@ -1,6 +1,6 @@
 ---
 title: Mike Johnston
-position: 7
+position: 1
 role: |-
   Lead Coach<br>
   UMass Lowell Alumnus <br>
