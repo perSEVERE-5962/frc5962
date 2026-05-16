@@ -1,5 +1,5 @@
 ---
-title: Mihika P.
+title: Mihika
 date: 2025-03-29 17:33:00 Z
 role: Co-captain
 grad-year: 2028
