@@ -2,7 +2,7 @@
 title: David LeMasurier
 position: 1
 role: |-
-  Alternate Lead Mentor<br>
+  Lead Coach 2 <br>
   Software Mentor <br>
   UMass Lowell Alumnus
 order-number: 2
