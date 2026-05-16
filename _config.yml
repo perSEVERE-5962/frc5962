@@ -2,7 +2,7 @@
 title: perSEVERE - FRC Team 5962
 timezone: UTC
 collections:
-  adult-volunteers:
+  volunteers:
     title: Adult Volunteers
     output: true
   coaches:
