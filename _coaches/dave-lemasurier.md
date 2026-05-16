@@ -1,6 +1,6 @@
 ---
 title: David LeMasurier
-position: 1
+position: 0
 role: |-
   Lead Coach <br>
   Software Coach <br>
