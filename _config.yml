@@ -2,8 +2,8 @@
 title: perSEVERE - FRC Team 5962
 timezone: UTC
 collections:
-  mentors:
-    title: Mentors
+  coaches:
+    title: Coaches
     output: false
   posts:
     title: Posts
