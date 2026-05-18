@@ -60,7 +60,7 @@ Adult Volunteers help the students on the team advance their knowledge on what t
 {% assign ordered-Volunteers = site.Volunteers | sort: "order-number" %}
 {% for Coach in ordered-Coach %}
 **{{Volunteers.title }}**
-<br>{% if Volunteers.role %}{{ Volunteers.role }}{% endif %}
+<br>{% if Volunteers.role %}{{{site.volunteers}}{% endif %}
 {% endfor %}
 </article>
 
