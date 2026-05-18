@@ -12,7 +12,7 @@ In April 2015, two engineers from Analog Devices approached Dracut High School t
 
 Undeterred, 5 students and 4 mentors opened Team 5962 to anyone from the area, rather than only students at a single high school. We approached the University of Massachusetts Lowell, and the College of Engineering graciously offered the use of its Makerspace.
 
-We broadened our recruiting efforts, and by kickoff day our rookie season, our team included 33 students from 8 towns and 8 schools, 12 mentors, and more than 30 sponsors. Since then, we've competed at local district and off-season events, New England District Championships, and the *FIRST* Championship in Detroit.
+We broadened our recruiting efforts, and by kickoff day our rookie season, our team included 35 students from 13 towns and 14 schools, 9 adult members, and more than 30 sponsors. Since then, we've competed at local district and off-season events, New England District Championships, and the *FIRST* Championship in Detroit.
 
 **Our mission is to foster a vibrant, fun, and collaborative environment that inspires students to explore STEM, solve problems, and develop 21st century skills. We've earned the Chairman's Award at the district and regional level for our dedication to spreading *FIRST* in our communities.**
 
@@ -27,7 +27,7 @@ We meet at the UMass Lowell Makerspace (Falmouth 102) a few times a week. This s
 
 ## Our Students
 
-We have students from many different towns and schools from the Merrimack valley and Southern New Hampshire. We have students in both high school and middle school. They are all trained in both technical and non-technical skills including CAD, electronics, programming and business skills.
+We have students from many different towns and schools from the Merrimack valley. We have students in both high school and middle school. They are all trained in both technical and non-technical skills including CAD, electronics, programming and business skills.
 <article class="grid three-columns">
 {% assign ordered-students = site.students | sort: "order-number" %}
 {% for student in ordered-students %}
@@ -51,21 +51,3 @@ Team Coaches work for businesses in the area, are parents of team members, and a
 **{{ Coach.title }}**
 <br>{% if Coach.role %}{{ Coach.role }}{% endif %}
 {% endfor %}
-
-## Our Adult Volunteers
-
-Adult Volunteers help the students on the team advance their knowledge on what topics we utilize while working, such as: mechanics, electrical, coding, CAD, business, community outreach, and many more. The Adult Volunteers are here to guide the students, and share their knowledge with everybody.
- 
-<article class="grid two-columns">
-{% assign ordered-Volunteers = site.Volunteers | sort: "order-number" %}
-{% for Volunteers in ordered-Volunteers %}
-<p>
-<b>{{ Volunteers.title }}{% if Volunteers.grad-year %} '{{ Volunteers.grad-year | slice: 2, 2 }}{% endif %}</b>
-{% if Volunteers.role %}<br>{{ Volunteers.role }}{% endif %}
-{% if Volunteers.school %}<br>{{ Volunteers.school }}{% endif %}
-{% if Volunteers.image %}<br><img src="{{ Volunteers.image }}">{% endif %}
-</p>
-{% endfor %}
-</article>
-
-<div class="divider"></div>
