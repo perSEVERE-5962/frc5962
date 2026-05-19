@@ -49,7 +49,7 @@ Team Coaches work for businesses in the area, are parents of team members, and a
 {% assign ordered-coaches = site.coaches | sort: "order-number" %}
 {% for coaches in ordered-coaches %}
 **{{ coaches.title }}**
-<br>{% if coaches.role %}{{site.coaches}}{% endif %}
+{% if coaches.role %}<br>{{site.coaches}}{% endif %}
 {% endfor %}
 </article>
 
