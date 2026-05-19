@@ -49,7 +49,7 @@ Team Coaches work for businesses in the area, are parents of team members, and a
 {% assign ordered-coaches = site.coaches | sort: "order-number" %}
 {% for coaches in ordered-coaches %}
 **{{ coaches.title }}**
-<br>{% if coaches.role %}{{site.coaches}}{% endif %}
+<br>{% if coaches.role %}{% endif %}
 {% endfor %}
 </article>
 
@@ -60,7 +60,7 @@ Adult Volunteers help the students on the team advance their knowledge on what t
 {% assign ordered-volunteers = site.volunteers | sort: "order-number" %}
 {% for Coach in ordered-Coach %}
 **{{Volunteers.title }}**
-<br>{% if volunteers.role %}{{site.volunteers}}{% endif %}
+<br>{% if volunteers.role %}{% endif %}
 {% endfor %}
 </article>
 
