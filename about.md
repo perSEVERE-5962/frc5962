@@ -58,8 +58,8 @@ Team Coaches work for businesses in the area, are parents of team members, and a
 Adult Volunteers help the students on the team advance their knowledge on what topics we utilize while working, such as: mechanics, electrical, coding, CAD, business, community outreach, and many more. The Adult Volunteers are here to guide the students, and share their knowledge with everybody.
 <article class="grid two-columns" markdown="1">
 {% assign ordered-volunteers = site.volunteers | sort: "order-number" %}
-{% for Coach in ordered-Coach %}
-**{{Volunteers.title }}**
+{% for volunteers in ordered-volunteers %}
+**{{volunteers.title }}**
 <br>{% if volunteers.role %}{% endif %}
 {% endfor %}
 </article>
