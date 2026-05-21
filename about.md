@@ -45,11 +45,14 @@ We have students from many different towns and schools from the Merrimack valley
 ## Our Adult Coaches
 
 Team Coaches work for businesses in the area, are parents of team members, and are students at UMass Lowell, where the team meets. The Coaches are all volunteers, offering hundreds of hours (or more) of service each year to help the team out.
-<article class="grid two-columns" markdown="1">
+<article class="grid two-columns">
 {% assign ordered-coaches = site.coaches | sort: "order-number" %}
-{% for coaches in ordered-coaches %}
-**{{ coaches.title }}**
-<br>{% if coaches.role %}{% endif %}
+{% for coach in ordered-coaches %}
+<p>
+<b>{{ coach.title }}</b>
+{% if coach.role %}<br>{{ coach.role }}{% endif %}
+{% if coach.image %}<br><img src="{{ coach.image }}">{% endif %}
+</p>
 {% endfor %}
 </article>
 
