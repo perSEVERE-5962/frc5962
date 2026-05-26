@@ -35,10 +35,10 @@ Directions: Heading north on University Avenue, turn right onto Riverside St. Af
 
 <div class="divider"></div>
 
-## Hudson Old Home Day
+## Hudson Old Home Day (Possibly)
 Hudson Old Home Day is a community event held annually in Hudson NH. We host a booth there to teach people about *FIRST* and STEAM as a whole, along with recruiting potential members. 
 
-When: Friday August 8th, 2025, from 7PM-11PM
+When: Unknown
 Where: The Hills House, Hudson NH (Address is 211 Derry Road)
 
 ![HOHD.jpeg](/uploads/IMG_0534.jpeg)
@@ -48,7 +48,7 @@ Where: The Hills House, Hudson NH (Address is 211 Derry Road)
 ## Tyngsboro Block Party-by-the-Bridge
 The Tyngsboro Block Party-by-the-Bridge is an end of summer party that happens every year. Similar to the Dracut and Hudson OHDs, we have a booth there that helps people learn about *FIRST*, our team, and STEAM as a whole. 
 
-Time: Saturday August 23rd, 2025, 11AM-7PM
+Time: Saturday, August 29th, 2026, 11AM-7PM
 Where: Booths are at the intersection of Middlesex Road and Kendall Road, next to the Tyngsboro Bridge
 Cost: $5 (Free for kids 12 and under)
 
@@ -62,7 +62,7 @@ Cost: $5 (Free for kids 12 and under)
 Our team presents at Dracut Old Home Day, a large annual community gathering. At the event, we bring our robot for anyone aged 3 to 73 to drive. This event allows us to inform our community for the benefits and joys of FIRST and
 STEAM, along with recruiting potential members.
 
-When: Saturday September 6th, 2025, 9AM-5PM
+When: Saturday, September 12th, 2025, 9AM-5PM
 Where: The Dracut Public Schools complex on Lakeview Ave, Dracut MA
 
 ![DOHD1.jpeg](/uploads/IMG_0671.jpeg)
