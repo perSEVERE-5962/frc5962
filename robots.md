@@ -69,6 +69,8 @@ Each year FRC Team 5962 builds a new robot to compete in the FIRST Robotics Comp
 
 4. Competed in the playoffs as the Captain of Alliance 7 and were eliminated in the Double Elimination Bracket (Round 2).
 
+<div class="divider"></div>
+
 ## 2025 Robot: Trident
 
 ## 2025 Competition: *ReefScape*
