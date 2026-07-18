@@ -42,6 +42,24 @@ We have students from many different towns and schools from the Merrimack valley
 
 <div class="divider"></div>
 
+## Our 2026 Graduates
+
+Our graduating seniors have played an essential role in shaping Team Persevere through their dedication, leadership, and commitment to excellence. Over the years, they have contributed countless hours to designing, building, programming, and refining our robots while fostering a culture of collaboration, innovation, and perseverance. Their willingness to mentor younger members, overcome challenges, and represent our team with integrity has left a lasting impact that extends far beyond competition. As they begin the next chapter of their journey, we sincerely thank them for their hard work, passion, and the legacy they leave behind. We are proud to call them members of Team Persevere and wish them continued success in all of their future endeavors.
+<article class="grid three-columns">
+{% assign ordered-2026-graduates = site.2026-graduates | sort: "order-number" %}
+{% for 2026-graduate in ordered-2026-graduates %}
+<p>
+<b>{{ 2026-graduate.title }}{% if 2026-graduate.grad-year %} '{{ 2026-graduate.grad-year | slice: 2, 2 }}{% endif %}</b>
+{% if 2026-graduate.role %}<br>{{ 2026-graduate.role }}{% endif %}
+{% if 2026-graduate.school %}<br>{{ 2026-graduate.school }}{% endif %}
+{% if student.2026-graduate %}<br><img src="{{ 2026-graduate.image }}">{% endif %}
+{% if 2026-graduate.collage %}<br>{{ 2026-graduate.collage }}{% endif %}
+</p>
+{% endfor %}
+</article>
+
+<div class="divider"></div>
+
 ## Our Adult Coaches
 
 Team Coaches work for businesses in the area, are parents of team members, and are students at UMass Lowell, where the team meets. The Coaches are all volunteers, offering hundreds of hours (or more) of service each year to help the team out.
