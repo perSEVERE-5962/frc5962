@@ -1,0 +1,199 @@
+---
+title: Homepage
+date: 2026-07-27 16:39:00 Z
+layout: homepage
+---
+
+---
+title: Home
+layout: homepage
+hero-content: |
+  <h1>
+      Join Team 5962 and<br>
+      discover <b class="typewrite" data-period="2000" data-type='[ "engineering", "leadership", "innovation", "teamwork", "creativity" ]'>
+          <span class="wrap"></span>
+      </b>
+  </h1>
+
+  <p class="hero-subtitle">
+      Hands-on STEM education through competitive robotics and community outreach.
+  </p>
+
+  aboutLearn More</a>
+  <a href="ecome a Sponsor</a>
+---
+
+<header>
+    <div id="hero">
+        <video playsinline autoplay muted loop preload="metadata" poster="/media/hero-poster.jpg">
+            <source src="/media/hero.mp4" type="video/v
+        </video>
+    </div>
+
+    <div class="container light-overlay">
+        <div class="hero-content">
+            {{ page.hero-content }}
+        </div>
+    </div>
+</header>
+
+<section class="container-thin center-text">
+    <div class="content">
+        <h2>More Than Robots</h2>
+        <p class="lead">
+            Team 5962 empowers students through engineering, teamwork, leadership,
+            and community service while competing in the FIRST Robotics Competition.
+        </p>
+    </div>
+</section>
+
+<section class="container-thin">
+    <div class="content">
+        <div class="grid three-columns text-center">
+            <div>
+                <h3>50+</h3>
+                <p>Student Members</p>
+            </div>
+
+            <div>
+                <h3>10+</h3>
+                <p>Years of FIRST Robotics</p>
+            </div>
+
+            <div>
+                <h3>1000+</h3>
+                <p>Community Outreach Hours</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="container-thin">
+    <div class="content">
+
+        <article class="grid two-columns">
+            <div>
+                <h2>About Us</h2>
+                {{ site.homepage_about_text }}
+
+                about
+                    Learn More
+                </a>
+            </div>
+
+            <div>
+                uploads/IMG_0673.jpeg
+            </div>
+        </article>
+
+        <div class="divider"></div>
+
+        <article class="center-text">
+            <h2>What We Do</h2>
+
+            <div class="grid three-columns">
+                <div>
+                    <h3>Design</h3>
+                    <p>
+                        Create CAD models, prototype mechanisms, and solve engineering challenges.
+                    </p>
+                </div>
+
+                <div>
+                    <h3>Build</h3>
+                    <p>
+                        Manufacture, assemble, and program robots for competition.
+                    </p>
+                </div>
+
+                <div>
+                    <h3>Compete</h3>
+                    <p>
+                        Represent our community at FIRST Robotics events while developing teamwork and leadership skills.
+                    </p>
+                </div>
+            </div>
+        </article>
+
+        <div class="divider"></div>
+
+        <article class="grid two-columns">
+            <div>
+                media/wis.jpg
+            </div>
+
+            <div>
+                <h2>Latest News</h2>
+
+                {% for post in site.posts limit:3 %}
+                <article class="news-card">
+                    <h3>
+                        {{ post.url }}{{ post.title }}</a>
+                    </h3>
+
+                    <small>
+                        {{ post.date | date: "%B %-d, %Y" }}
+                    </small>
+
+                    <p>
+                        {{ post.content | strip_html | truncatewords: 25 }}
+                    </p>
+                </article>
+                {% endfor %}
+
+                news
+                    More News
+                </a>
+            </div>
+        </article>
+
+        <div class="divider"></div>
+
+        <article class="grid two-columns">
+            <div>
+                <h2>Powered by Our Sponsors</h2>
+
+                <p>
+                    Our sponsors make robotics accessible to every student through
+                    funding, mentorship, equipment, and opportunities. Their support
+                    helps us compete, learn, and inspire future engineers and leaders.
+                </p>
+
+                {{ site.homepage_sponsor_text }}
+
+                sponsors
+                    Sponsor the Team
+                </a>
+            </div>
+
+            <div>
+                media/week0-drive-team.jpg
+            </div>
+        </article>
+
+        <div class="divider"></div>
+
+        <article class="center-text">
+            <h2>Ready to Get Involved?</h2>
+
+            <p>
+                Whether you're a student, mentor, parent, or sponsor,
+                there's a place for you on Team 5962.
+            </p>
+
+            about
+                Join the Team
+            </a>
+
+            sponsors
+                Support Our Mission
+            </a>
+        </article>
+
+    </div>
+</section>
+
+<script>
+// Typewriter
+var TxtType=function(t,e,i){this.toRotate=e,this.el=t,this.loopNum=0,this.period=parseInt(i,10)||2e3,this.txt="",this.tick(),this.isDeleting=!1};TxtType.prototype.tick=function(){var t=this.loopNum%this.toRotate.length,e=this.toRotate[t];this.isDeleting?this.txt=e.substring(0,this.txt.length-1):this.txt=e.substring(0,this.txt.length+1),this.el.innerHTML='<span class="wrap">'+this.txt+"</span>";var i=this,s=200-100*Math.random();this.isDeleting&&(s/=2),this.isDeleting||this.txt!==e?this.isDeleting&&""===this.txt&&(this.isDeleting=!1,this.loopNum++,s=250):(s=this.period,this.isDeleting=!0),setTimeout(function(){i.tick()},s)},window.onload=function(){for(var t=document.getElementsByClassName("typewrite"),e=0;e<t.length;e++){var i=t[e].getAttribute("data-type"),s=t[e].getAttribute("data-period");i&&new TxtType(t[e],JSON.parse(i),s)}var n=document.createElement("style");n.type="text/css",n.innerHTML=".typewrite > .wrap { border-right: 0.08em solid #423f33}",document.body.appendChild(n)};
+</script>
