@@ -5,5 +5,6 @@ position: 3
 role: |-
   Mechanical Coach <br>
   UMass Lowell Alumnus
+order-number: 5
 ---
 
