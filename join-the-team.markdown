@@ -21,12 +21,4 @@ Feel free to join us at one of our meetings at the UMass Lowell Lawrence Lin Mak
 **If you plan to attend please reach out to us at [FRCTeam5962@gmail.com](mailto:FRCTeam5962@gmail.com) or via the form below:** 
 <iframe src="https://calendar.google.com/calendar/embed?src=9pu1flss3mumj4pnm1u7946dgs%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
 
-<form action="https://formspree.io/f/mzzbgbvv" method="POST">
-<label for="name">Name: </label>
-<input type="text" name="name" id="name">
-<label for="email">Email: </label>
-<input type="email" name="email" id="email">
-<label for="msg">Message: </label>
-<textarea id="msg" name="msg"></textarea>
-<input type="submit" value="Send">
-</form>
+##Fill out this form to let us know a bit about you and when you were thinking to join us: https://forms.gle/mJPT7nHX7hsdUA5T6
