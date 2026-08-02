@@ -9,7 +9,7 @@ hero-title: Join The Team!
 
 ## Join the team!
 
-All students (from any school) who will be in grades 8-12 in the 2025-2026 school year are welcome to join! There is **no cost** to join! No experience is necessary! We understand that students may have other obligations, so attendance to every meeting is not required.
+All students (from any school) who will be in grades 8-12 in the 2025-2026 school year are welcome to join! There is **no cost** to join! No experience is necessary! We understand that students may have other obligations, so attendance at every meeting is not required.
 
 ## Overview of our schedule
 
@@ -20,9 +20,9 @@ All students (from any school) who will be in grades 8-12 in the 2025-2026 schoo
 ## How do I join?
 
 Feel free to join us at one of our meetings at the UMass Lowell Lawrence Lin Makerspace located at 1 University Ave, Lowell, MA 01854 - Falmouth Hall room 102!\
-**If you plan to attend please reach out to us at [FRCTeam5962@gmail.com](mailto:FRCTeam5962@gmail.com) or via the form below:**
+**If you plan to attend, answer via the form below, or please reach out to us at [FRCTeam5962@gmail.com](mailto:FRCTeam5962@gmail.com):**
 <iframe src="https://calendar.google.com/calendar/embed?src=9pu1flss3mumj4pnm1u7946dgs%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
 
-## Fill out this form to let us know a bit about you and when you were thinking to join us: 
+## Fill out this form to let us know a bit about you and when you were thinking of joining us: 
 
 [https://forms.gle/mJPT7nHX7hsdUA5T6](https://forms.gle/mJPT7nHX7hsdUA5T6)
