@@ -25,4 +25,4 @@ Feel free to join us at one of our meetings at the UMass Lowell Lawrence Lin Mak
 
 ## Fill out this form to let us know a bit about you and when you were thinking to join us: 
 
-[](https://forms.gle/mJPT7nHX7hsdUA5T6)
+[https://forms.gle/mJPT7nHX7hsdUA5T6](https://forms.gle/mJPT7nHX7hsdUA5T6)
