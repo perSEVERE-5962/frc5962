@@ -3,7 +3,7 @@ title: Join The Team
 date: 2024-05-18 15:44:00 Z
 permalink: "/join-the-team"
 position: 8
-hero-img-url: "/media/team-2024-wpi.jpeg"
+hero-img-url: "/uploads/MA%20Districts.jpeg"
 hero-title: Join The Team!
 ---
 
