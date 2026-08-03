@@ -77,12 +77,12 @@ hero-content: |
 
             <div>
                 <h2>About Us</h2>
+                <a href="about" class="button">Meet the Team</a>
+                <a href="join-the-team" class="button">Join the Team</a>
 
                 {{ site.homepage_about_text }}
 
-                /about
-                    Learn More
-                </a>
+                <a href="about" class="button">Learn More</a>
             </div>
 
             <div>
@@ -142,8 +142,7 @@ hero-content: |
 
                 <h2>Latest News</h2>
 
-                {% for post in site.posts limit:3 %}
-
+                <!--
                 <div class="news-card">
 
                     <h3>
@@ -151,15 +150,19 @@ hero-content: |
                        {% for post in site.posts %}
                        ## [{{ post.title }}]({{ post.url }})
                        *{{ post.date | date: "%B %-d, %Y" }}*
-                       <!--<div class="post-data"> TAGS
+                       <! --<div class="post-data"> TAGS
                        {% if post.tags %}{% for tag in post.tags %}<a class="tag" href="{{ tag | prepend:'/tags/' | prepend:site.url }}">{{ tag }}</a> {% endfor %}{% endif %}
-                       </div>-->
+                       </div>- ->
                        <div class="divider"></div>
                           {% endfor %}
-
-                [More team news](https://frcpersevere.com/news)</a>
-                </a>
-
+                    </h3>
+                    <a href="news" class="button button-primary">More team news</a>
+                </div>
+                -->
+                {% for post in site.posts limit:3 %}
+                <p><i><a href="{{ post.url }}">{{ post.date | date: "%B %-d" }}</a></i>: {{ post.content | strip_html | truncatewords: 40 }}</p>
+                {% endfor %}
+                <a href="news" class="button button-primary">More team news</a>
             </div>
 
         </article>
@@ -207,7 +210,8 @@ hero-content: |
                     ![SaabFamilyFoundation.png](/uploads/SaabFamilyFoundation-31f7a6.png)
 
                   </div>
-                  divider"></div>
+                
+                <div class="divider"></div>
 
                 <h2>Silver Sponsors</h2>
 
@@ -231,10 +235,10 @@ hero-content: |
                   <h3>Silver Key Homes Realty</h3>
                   <h3>Jeanne D'Arc Credit Union</h3>
 
-                </div
+                </div>
                 <div class="divider"></div>
                 <div class="pics-size-7" markdown="1">
-                </a>
+                
 
             </div>
 
@@ -256,9 +260,7 @@ hero-content: |
                 Check out the Join Our Team page!
             </p>
 
-            /join
-                Join Our Team
-            </a>
+            <a href="join-the-team" class="button">Join the Team</a>
 
         </article>
 
