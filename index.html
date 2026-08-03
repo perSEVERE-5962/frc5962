@@ -15,8 +15,8 @@ hero-content: |
     </p>
 
     <div class="hero-buttons">
-      /aboutMeet the Team</a>
-      /joinJoin Team 5962</a>
+      [Meet the team](https://frcpersevere.com/about)</a>
+      [Join the team](https://frcpersevere.com/join-the-team)</a>
     </div>
   </div>
 ---
@@ -86,7 +86,7 @@ hero-content: |
             </div>
 
             <div>
-                /uploads/MA%20Districts.jpeg
+              ![MA%20Districts.jpeg](/uploads/MA%20Districts.jpeg)
             </div>
 
         </article>
@@ -135,7 +135,7 @@ hero-content: |
         <article class="grid two-columns">
 
             <div>
-                /uploads/IMG_5970.PNG
+              ![IMG_5970.PNG](/uploads/IMG_5970.PNG)
             </div>
 
             <div>
@@ -147,25 +147,17 @@ hero-content: |
                 <div class="news-card">
 
                     <h3>
-                        {{ post.url }}
-                            {{ post.title }}
-                        </a>
-                    </h3>
+                        <article class="posts" markdown="1">
+                       {% for post in site.posts %}
+                       ## [{{ post.title }}]({{ post.url }})
+                       *{{ post.date | date: "%B %-d, %Y" }}*
+                       <!--<div class="post-data"> TAGS
+                       {% if post.tags %}{% for tag in post.tags %}<a class="tag" href="{{ tag | prepend:'/tags/' | prepend:site.url }}">{{ tag }}</a> {% endfor %}{% endif %}
+                       </div>-->
+                       <div class="divider"></div>
+                          {% endfor %}
 
-                    <small>
-                        {{ post.date | date: "%B %-d, %Y" }}
-                    </small>
-
-                    <p>
-                        {{ post.content | strip_html | truncatewords: 25 }}
-                    </p>
-
-                </div>
-
-                {% endfor %}
-
-                /news
-                    More News
+                [More team news](https://frcpersevere.com/news)</a>
                 </a>
 
             </div>
@@ -196,65 +188,58 @@ hero-content: |
                 <h2>Gold Sponsors</h2>
 
                 <div class="sponsor-pics">
+                    ![uml.jpg](/uploads/uml.jpg)
+                    ![MHRDaemon.png](/uploads/MHRDaemon_Logo-1.png)
+                    ![GHF.png](/uploads/GHF.png)
+                    ![JC.png](/uploads/Johnson%20Controls%20Logo.png)
+                    ![Comcast.svg.png](/uploads/Comcast.svg.png)
+                    ![RTX.png](/uploads/RTX%20Logo.png)
+                    ![F.W. Webb.jpg](/uploads/Screenshot%202025-11-24%20204021.png)
+                    ![TEConnectivity.jpg](/uploads/Te%20Connectivity.jpg)
+                    ![BostonSci.jpg](/uploads/BSC.jpg)
+                    ![BAESystems.jpg](/uploads/bae.jpg)
+                    ![NBellLabs.jpg](/uploads/nblabs.jpg)
+                    ![teradynelogo.jpg](/uploads/teradynelogo.jpg)
+                    ![PAMS.jpg](/uploads/Screenshot%202025-11-24%20204341.png)
+                    ![Evolv.avif](/uploads/evolv_logo.avif)
+                    ![Ruland.png](/uploads/Ruland_Manufacturing.png)
+                    ![Reekon.png](/uploads/ReekonLogoV1-09.png)
+                    ![SaabFamilyFoundation.png](/uploads/SaabFamilyFoundation-31f7a6.png)
 
-                    /uploads/mvr-1e2981.jpg
-                    /uploads/uml.jpg
-                    /uploads/MHRDaemon_Logo-1.png
-                    /uploads/GHF.png
-                    /uploads/Johnson%20Controls%20Logo.png
-                    /uploads/Comcast.svg.png
-                    /uploads/RTX%20Logo.png
-                    /uploads/Screenshot%202025-11-24%20204021.png
-                    /uploads/Te%20Connectivity.jpg
-                    /uploads/BSC.jpg
-                    /uploads/bae.jpg
-                    /uploads/nblabs.jpg
-                    /uploads/teradynelogo.jpg
-                    /uploads/Screenshot%202025-11-24%20204341.png
-                    /uploads/evolv_logo.avif
-                    /uploads/Ruland_Manufacturing.png
-                    /uploads/ReekonLogoV1-09.png
-                    /uploads/SaabFamilyFoundation-31f7a6.png
-
-                </div>
-
-                <div class="divider"></div>
+                  </div>
+                  divider"></div>
 
                 <h2>Silver Sponsors</h2>
 
                 <div class="sponsor-pics">
+                  <p>![ADI.jpg](/uploads/adi.jpg)</p>
+                  <p>![BoltDepot.png](/uploads/Screenshot%202025-12-13%20134006.png)</p>
+                  <p>![css.png](/uploads/css.png)</p>
+                  <p>![CC-logo.avif](/uploads/CC-Logo.avif)</p>
+                  <p>![JC.png](/uploads/Johnson%20Controls%20Logo.png)</p>
+                  <p>Johnson Controls Volunteer Matching</p>
 
-                    /uploads/adi.jpg
-                    /uploads/Screenshot%202025-12-13%20134006.png
-                    /uploads/css.png
-                    /uploads/CC-Logo.avif
-                    /uploads/Johnson%20Controls%20Logo.png
-
-                    <p>Johnson Controls Volunteer Matching</p>
-
+                  
                 </div>
-
                 <div class="divider"></div>
 
                 <h2>Bronze Sponsors</h2>
 
                 <div class="sponsor-pics">
+                  <h3>Berard Construction</h3>
+                  <h3>Reichheld Ting Orthodontics</h3>
+                  <h3>Silver Key Homes Realty</h3>
+                  <h3>Jeanne D'Arc Credit Union</h3>
 
-                    <h3>Berard Construction</h3>
-                    <h3>Reichheld Ting Orthodontics</h3>
-                    <h3>Silver Key Homes Realty</h3>
-                    <h3>Jeanne D'Arc Credit Union</h3>
-
-                </div>
-
-                /sponsors
-                    Sponsor the Team
+                </div
+                <div class="divider"></div>
+                <div class="pics-size-7" markdown="1">
                 </a>
 
             </div>
 
             <div>
-                /uploads/IMG_0037.jpeg
+              ![IMG_0037.jpeg](/uploads/IMG_0037.jpeg)
             </div>
 
         </article>
