@@ -2,7 +2,7 @@
 title: Contact
 position: 5
 hero-title: Contact
-hero-img-url: "/media/unh.jpg"
+hero-img-url: "/uploads/MA%20Districts.jpeg"
 ---
 
 ## Contact Us
