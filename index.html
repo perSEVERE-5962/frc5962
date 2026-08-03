@@ -1,3 +1,8 @@
+---
+title: Home
+layout: homepage
+
+hero-content: |
   <div class="hero-wrap">
     <h1 class="hero-title">
       Build Robots.<br>
@@ -11,22 +16,16 @@
     </p>
 
     <div class="hero-buttons">
-      <a href="/about" class="button">Meet the Team</a>
-      <a href="/join" class="button button-outline">Join Team 5962</a>
+      /aboutMeet the Team</a>
+      /joinJoin Team 5962</a>
     </div>
   </div>
-
-hero-image: /assets/img/hero-robot.jpg
-hero-mask: rgba(0,0,0,0.55)
-
-  aboutLearn More</a>
-  <a href="ecome a Sponsor</a>
 ---
 
 <header>
     <div id="hero">
         <video playsinline autoplay muted loop preload="metadata" poster="/media/hero-poster.jpg">
-            <source src="/media/hero.mp4" type="video/v
+            /media/hero.mp4
         </video>
     </div>
 
@@ -40,9 +39,11 @@ hero-mask: rgba(0,0,0,0.55)
 <section class="container-thin center-text">
     <div class="content">
         <h2>More Than Robots</h2>
+
         <p class="lead">
-            Team 5962 empowers students through engineering, teamwork, leadership,
-            and community service while competing in the FIRST Robotics Competition.
+            Team 5962 empowers students through engineering, teamwork,
+            leadership, and community service while competing in the
+            FIRST Robotics Competition.
         </p>
     </div>
 </section>
@@ -50,6 +51,7 @@ hero-mask: rgba(0,0,0,0.55)
 <section class="container-thin">
     <div class="content">
         <div class="grid three-columns text-center">
+
             <div>
                 <h3>50+</h3>
                 <p>Student Members</p>
@@ -64,6 +66,7 @@ hero-mask: rgba(0,0,0,0.55)
                 <h3>1000+</h3>
                 <p>Community Outreach Hours</p>
             </div>
+
         </div>
     </div>
 </section>
@@ -72,11 +75,13 @@ hero-mask: rgba(0,0,0,0.55)
     <div class="content">
 
         <article class="grid two-columns">
+
             <div>
                 <h2>About Us</h2>
+
                 {{ site.homepage_about_text }}
 
-                about
+                /about
                     Learn More
                 </a>
             </div>
@@ -84,51 +89,68 @@ hero-mask: rgba(0,0,0,0.55)
             <div>
                 /uploads/MA%20Districts.jpeg
             </div>
+
         </article>
 
         <div class="divider"></div>
 
         <article class="center-text">
+
             <h2>What We Do</h2>
 
             <div class="grid three-columns">
+
                 <div>
                     <h3>Design</h3>
+
                     <p>
-                        Create CAD models, prototype mechanisms, and solve engineering challenges.
+                        Create CAD models, prototype mechanisms,
+                        and solve engineering challenges.
                     </p>
                 </div>
 
                 <div>
                     <h3>Build</h3>
+
                     <p>
-                        Manufacture, assemble, and program robots for competition.
+                        Manufacture, assemble, and program robots
+                        for competition.
                     </p>
                 </div>
 
                 <div>
                     <h3>Compete</h3>
+
                     <p>
-                        Represent our community at FIRST Robotics events while developing teamwork and leadership skills.
+                        Represent our community at FIRST Robotics
+                        events while developing teamwork and leadership skills.
                     </p>
                 </div>
+
             </div>
+
         </article>
 
         <div class="divider"></div>
 
         <article class="grid two-columns">
+
             <div>
                 /uploads/IMG_5970.PNG
             </div>
 
             <div>
+
                 <h2>Latest News</h2>
 
                 {% for post in site.posts limit:3 %}
-                <article class="news-card">
+
+                <div class="news-card">
+
                     <h3>
-                        {{ post.url }}{{ post.title }}</a>
+                        {{ post.url }}
+                            {{ post.title }}
+                        </a>
                     </h3>
 
                     <small>
@@ -138,106 +160,174 @@ hero-mask: rgba(0,0,0,0.55)
                     <p>
                         {{ post.content | strip_html | truncatewords: 25 }}
                     </p>
-                </article>
+
+                </div>
+
                 {% endfor %}
 
-                news
+                /news
                     More News
                 </a>
+
             </div>
+
         </article>
 
         <div class="divider"></div>
 
         <article class="grid two-columns">
+
             <div>
+
                 <h2>Powered by Our Sponsors</h2>
 
                 <p>
-                    Our sponsors make robotics accessible to every student through
-                    funding, mentorship, equipment, and opportunities. Their support
-                    helps us compete, learn, and inspire future engineers and leaders.
+                    Our sponsors make robotics accessible to every student
+                    through funding, mentorship, equipment, and opportunities.
+                    Their support helps us compete, learn, and inspire future
+                    engineers and leaders.
                 </p>
 
                 <div class="divider"></div>
 
-             These are our 2025-2026 sponsors!
+                <p><strong>These are our 2025-2026 sponsors!</strong></p>
 
-              <div class="divider"></div>
-              
-              ## Gold Sponsors
-
-              <div class="sponsor-pics" markdown="1">
-                ![mvr-1e2981.jpg](/uploads/mvr-1e2981.jpg)
-                ![uml.jpg](/uploads/uml.jpg)
-                ![MHRDaemon.png](/uploads/MHRDaemon_Logo-1.png)
-                ![GHF.png](/uploads/GHF.png)
-                ![JC.png](/uploads/Johnson%20Controls%20Logo.png)
-                ![Comcast.svg.png](/uploads/Comcast.svg.png)
-                ![RTX.png](/uploads/RTX%20Logo.png)
-                ![F.W. Webb.jpg](/uploads/Screenshot%202025-11-24%20204021.png)
-                ![TEConnectivity.jpg](/uploads/Te%20Connectivity.jpg)
-                ![BostonSci.jpg](/uploads/BSC.jpg)
-                ![BAESystems.jpg](/uploads/bae.jpg)
-                ![NBellLabs.jpg](/uploads/nblabs.jpg)
-                ![teradynelogo.jpg](/uploads/teradynelogo.jpg)
-                ![PAMS.jpg](/uploads/Screenshot%202025-11-24%20204341.png)
-                ![Evolv.avif](/uploads/evolv_logo.avif)
-                ![Ruland.png](/uploads/Ruland_Manufacturing.png)
-                ![Reekon.png](/uploads/ReekonLogoV1-09.png)
-                ![SaabFamilyFoundation.png](/uploads/SaabFamilyFoundation-31f7a6.png)
-
-
-                </div>
                 <div class="divider"></div>
 
-                ## Silver Sponsors
+                <h2>Gold Sponsors</h2>
 
-                <div class="sponsor-pics" markdown="1">
-                ![ADI.jpg](/uploads/adi.jpg)
-                ![BoltDepot.png](/uploads/Screenshot%202025-12-13%20134006.png)
-                ![css.png](/uploads/css.png)
-                ![CC-logo.avif](/uploads/CC-Logo.avif)
-                ![JC.png](/uploads/Johnson%20Controls%20Logo.png)
-                Johnson Controls Volunteer Matching
+                <div class="sponsor-pics">
 
+                    /uploads/mvr-1e2981.jpg
+                    /uploads/uml.jpg
+                    /uploads/MHRDaemon_Logo-1.png
+                    /uploads/GHF.png
+                    /uploads/Johnson%20Controls%20Logo.png
+                    /uploads/Comcast.svg.png
+                    /uploads/RTX%20Logo.png
+                    /uploads/Screenshot%202025-11-24%20204021.png
+                    /uploads/Te%20Connectivity.jpg
+                    /uploads/BSC.jpg
+                    /uploads/bae.jpg
+                    /uploads/nblabs.jpg
+                    /uploads/teradynelogo.jpg
+                    /uploads/Screenshot%202025-11-24%20204341.png
+                    /uploads/evolv_logo.avif
+                    /uploads/Ruland_Manufacturing.png
+                    /uploads/ReekonLogoV1-09.png
+                    /uploads/SaabFamilyFoundation-31f7a6.png
 
                 </div>
+
                 <div class="divider"></div>
 
-                ## Bronze Sponsors 
+                <h2>Silver Sponsors</h2>
 
-                <div class="sponsor-pics" markdown="1">
-                ### Berard Construction
-                ### Reichheld Ting Orthodontics
-                ### Silver Key Homes Realty
-                ### Jeanne D'Arc Credit Union
+                <div class="sponsor-pics">
+
+                    /uploads/adi.jpg
+                    /uploads/Screenshot%202025-12-13%20134006.png
+                    /uploads/css.png
+                    /uploads/CC-Logo.avif
+                    /uploads/Johnson%20Controls%20Logo.png
+
+                    <p>Johnson Controls Volunteer Matching</p>
+
                 </div>
 
-                sponsors
+                <div class="divider"></div>
+
+                <h2>Bronze Sponsors</h2>
+
+                <div class="sponsor-pics">
+
+                    <h3>Berard Construction</h3>
+                    <h3>Reichheld Ting Orthodontics</h3>
+                    <h3>Silver Key Homes Realty</h3>
+                    <h3>Jeanne D'Arc Credit Union</h3>
+
+                </div>
+
+                /sponsors
                     Sponsor the Team
                 </a>
+
             </div>
 
             <div>
                 /uploads/IMG_0037.jpeg
             </div>
+
         </article>
 
         <div class="divider"></div>
 
         <article class="center-text">
+
             <h2>Ready to Get Involved?</h2>
 
             <p>
                 Whether you're a student, mentor, parent, or sponsor,
-                there's a place for you on Team 5962. Check out the Join Our Team page!
+                there's a place for you on Team 5962.
+                Check out the Join Our Team page!
+            </p>
+
+            /join
+                Join Our Team
+            </a>
+
         </article>
 
     </div>
 </section>
 
 <script>
-// Typewriter
-var TxtType=function(t,e,i){this.toRotate=e,this.el=t,this.loopNum=0,this.period=parseInt(i,10)||2e3,this.txt="",this.tick(),this.isDeleting=!1};TxtType.prototype.tick=function(){var t=this.loopNum%this.toRotate.length,e=this.toRotate[t];this.isDeleting?this.txt=e.substring(0,this.txt.length-1):this.txt=e.substring(0,this.txt.length+1),this.el.innerHTML='<span class="wrap">'+this.txt+"</span>";var i=this,s=200-100*Math.random();this.isDeleting&&(s/=2),this.isDeleting||this.txt!==e?this.isDeleting&&""===this.txt&&(this.isDeleting=!1,this.loopNum++,s=250):(s=this.period,this.isDeleting=!0),setTimeout(function(){i.tick()},s)},window.onload=function(){for(var t=document.getElementsByClassName("typewrite"),e=0;e<t.length;e++){var i=t[e].getAttribute("data-type"),s=t[e].getAttribute("data-period");i&&new TxtType(t[e],JSON.parse(i),s)}var n=document.createElement("style");n.type="text/css",n.innerHTML=".typewrite > .wrap { border-right: 0.08em solid #423f33}",document.body.appendChild(n)};
+// Typewriter Effect
+var TxtType=function(t,e,i){this.toRotate=e,this.el=t,this.loopNum=0,this.period=parseInt(i,10)||2e3,this.txt="",this.tick(),this.isDeleting=!1};
+
+TxtType.prototype.tick=function(){
+var t=this.loopNum%this.toRotate.length,
+e=this.toRotate[t];
+
+this.isDeleting
+?this.txt=e.substring(0,this.txt.length-1)
+:this.txt=e.substring(0,this.txt.length+1);
+
+this.el.innerHTML='<span class="wrap">'+this.txt+"</span>";
+
+var i=this,
+s=200-100*Math.random();
+
+if(this.isDeleting){s/=2;}
+
+if(!this.isDeleting&&this.txt===e){
+s=this.period;
+this.isDeleting=!0;
+}
+else if(this.isDeleting&&this.txt===""){
+this.isDeleting=!1;
+this.loopNum++;
+s=250;
+}
+
+setTimeout(function(){i.tick();},s);
+};
+
+window.onload=function(){
+var t=document.getElementsByClassName("typewrite");
+
+for(var e=0;e<t.length;e++){
+var i=t[e].getAttribute("data-type");
+var s=t[e].getAttribute("data-period");
+
+if(i){
+new TxtType(t[e],JSON.parse(i),s);
+}
+}
+
+var n=document.createElement("style");
+n.type="text/css";
+n.innerHTML=".typewrite > .wrap { border-right: 0.08em solid #423f33 }";
+document.body.appendChild(n);
+};
 </script>
