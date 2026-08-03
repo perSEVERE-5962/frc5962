@@ -1,7 +1,7 @@
 ---
 title: About
 position: 0
-hero-img-url: "/uploads/82b35809f3ee40e6aeb4f90dde5c5cf3.jpeg"
+hero-img-url: "/uploads/MA%20Districts.jpeg"
 hero-title: We Are Team 5962 <br>perSEVERE
 layout: default-with-hero
 ---
