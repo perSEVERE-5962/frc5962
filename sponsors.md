@@ -2,7 +2,7 @@
 title: Sponsors
 position: 6
 hero-title: Sponsors
-hero-img-url: "/media/rowdy.jpg"
+hero-img-url: "/uploads/MA%20Districts.jpeg"
 ---
 
 Our sponsors are a big reason for our success, and we are incredibly grateful for their contributions. Donations pay for registration fees, tools, parts for our robots, transportation, and other expenses, all of which help keep our team cost-free for our members. These donations also help our many outreach initiatives, such as our Girls in STEAM, Dracut Old Home Day, and Hudson Old Home Day events!
