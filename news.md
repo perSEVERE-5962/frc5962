@@ -1,7 +1,7 @@
 ---
 title: News
 position: 3
-hero-img-url: "/media/week0-finals-hang.jpg"
+hero-img-url: "/uploads/MA%20Districts.jpeg"
 hero-title: News
 ---
 
