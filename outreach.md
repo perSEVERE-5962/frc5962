@@ -52,9 +52,9 @@ Time: Saturday, August 29th, 2026, 11AM-7PM
 Where: Booths are at the intersection of Middlesex Road and Kendall Road, next to the Tyngsboro Bridge
 Cost: $5 (Free for kids 12 and under)
 
-![TBP1.jpeg](/uploads/IMG_0597.jpeg)
+![TBP1.jpeg](/uploads/TBP%201.jpg)
 
-![TBP2.jpeg](/uploads/IMG_0598.jpeg)
+![TBP2.jpeg](/uploads/TBP%202.jpg)
 
 <div class="divider"></div>
 
@@ -62,11 +62,11 @@ Cost: $5 (Free for kids 12 and under)
 Our team presents at Dracut Old Home Day, a large annual community gathering. At the event, we bring our robot for anyone aged 3 to 73 to drive. This event allows us to inform our community for the benefits and joys of FIRST and
 STEAM, along with recruiting potential members.
 
-When: Saturday, September 12th, 2025, 9AM-5PM
+When: Saturday, September 12th, 2026, 9AM-5PM
 Where: The Dracut Public Schools complex on Lakeview Ave, Dracut MA
 
-![DOHD1.jpeg](/uploads/IMG_0671.jpeg)
-![DOHD2.jpeg](/uploads/IMG_0672.jpeg)
+![DOHD1.jpeg](/uploads/Dracut%20old%20home%20day%202.jpg)
+![DOHD2.jpeg](/uploads/Dracut%20old%20home%20day%203.jpg)
 
 ## Other Events:
 These are some events that we have run in the past and will come back soon!
