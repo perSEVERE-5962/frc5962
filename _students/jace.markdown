@@ -1,7 +1,7 @@
 ---
 title: Jace
 date: 2026-10-18 13:49:00 Z
-position: 13
+position: 14
 role: Robot Compliance Lead
 grad-year: 2028
 order-number: 12
