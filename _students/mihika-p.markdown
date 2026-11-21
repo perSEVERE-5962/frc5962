@@ -1,7 +1,7 @@
 ---
 title: Mihika
 date: 2025-03-29 17:33:00 Z
-position: 25
+position: 22
 role: Captain
 grad-year: 2028
 order-number: 2

@@ -1,7 +1,7 @@
 ---
 title: Victor
 date: 2026-11-02 12:02:00 Z
-position: 34
+position: 35
 grad-year: 2028
 school: Lowell high school
 ---
