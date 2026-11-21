@@ -1,7 +1,7 @@
 ---
 title: Kfir
 date: 2025-03-29 17:31:00 Z
-position: 31
+position: 32
 role: Captain
 grad-year: 2028
 order-number: 3

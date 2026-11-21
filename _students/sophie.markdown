@@ -1,7 +1,7 @@
 ---
 title: Sophie
 date: 2026-05-16 16:49:00 Z
-position: 29
+position: 30
 role: Scouting Lead
 grad-year: 2028
 order-number: 11
