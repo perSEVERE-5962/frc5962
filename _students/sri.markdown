@@ -1,7 +1,7 @@
 ---
 title: Sri
 date: 2026-05-16 16:37:00 Z
-position: 37
+position: 26
 grad-year: 2030
 school: Innovation Academy Charter School
 ---
