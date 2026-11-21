@@ -1,7 +1,7 @@
 ---
 title: Claire
 date: 2026-11-21 19:31:00 Z
-position: 5
+position: 7
 grad-year: 2031
 school: Groton Dunstable Middle School
 ---
