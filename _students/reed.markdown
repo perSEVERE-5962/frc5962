@@ -1,7 +1,7 @@
 ---
 title: Reed
 date: 2026-11-21 20:03:00 Z
-position: 6
+position: 7
 grad-year: 2029
 school: Greater Lowell Technical High School
 ---
